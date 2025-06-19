@@ -1,0 +1,205 @@
+layout: [1, 3, 1]
+headline: Assess Summaries for Key Point Coverage
+title: "<h1 style='text-align: center; margin-bottom:20pt;'>Assess Summaries for Key Point Coverage</h1>"
+highlight_instructions: |
+  Read the following collection of article excerpts, and highlight key points in the articles. 
+  To add multiple key points, please select the plus button [+] to start a new highlight. Highlights can be removed by re-highlighting the same part.
+highlight_bullets: |
+  <strong>Your Highlighted Key Points</strong>
+summary_annotation_title: |
+  # Annotate Summaries
+summary_title: |
+  ### Summary {}
+
+  Copy-paste key points from the summary into the text box. 
+evidence_comparison: |
+  ### Highlighted Key Points
+in_doc_nin_summary: Which key points are in the article but not mentioned in the summary?
+nin_doc_in_summary: Which key points mentioned in the summary do not appear in the article?
+
+green_highlight: c8ffc8
+red_highlight: ffc8c8
+article: |
+  On each page, you will see one document consisting of multiple opinionated articles on the same political topic. 
+  Your task is to identify and highlight the <span style="font-weight:bold">key points</span> in each article of the document, and assess how well a list of AI-generated summaries incorporate these key points.
+  Below, we will guide you through the annotation process and outline the tasks you need to complete.
+  Review each section carefully before proceeding to the next page, where the annotation begins. 
+  <br>
+  <span style="font-weight:bold; color:red">Note that you will not be able to return to previous pages after you proceed throughout the annotation, so please ensure you have completed all tasks on each page before proceeding.</span>
+
+  ---
+
+  ### Identifying Key Points in Articles
+  At the top of each page, you will see the document that you need to annotate for <span style="font-weight:bold">key points</span>: an excerpt that represents the main argument of the article. This could be a representative claim, a statement supported by evidence either within the article or elsewhere in the document, or something similar.
+  You are also given the topic of the document, which the contents of the document either support or oppose.
+  <br><br>
+  <strong>Examples of Key Points in Articles</strong>
+
+
+interface_demo: | 
+  Below, we provide an interface demonstration and example annotations to illustrate key points.
+  <br>
+
+  <strong>Interface Demonstration</strong>
+
+annotation_instruction: |
+  <span style="display: inline-block; padding: 10px 15px; border-radius: 8px; background-color: #f0f0f0; border: 1px solid #ddd;">
+      💡 Try highlighting excerpts and adding new key points using the interface above.
+  </span>
+  <br>
+  <br>
+
+  We will now outline the specific steps you should follow to annotate key points.
+
+  <strong>First Pass: Skim Article</strong>
+  <br>
+  As a first pass, you should first read the full document to gain a clear overview of the content. 
+  If possible, keep a mental note of what each article roughly discusses to make the key point annotation process smoother.
+
+  <strong>Second Pass: Annotate Article</strong>
+  <br>
+  In your second pass, you will now annotate for key points. To do so, drag your cursor across text excerpts within the box, which will be <span style="background-color: #c8ffc8;">highlighted in green</span>.
+  Your highlighted key points will appear below the document box as a bulleted list.
+  You may also highlight non-contiguous sentence portions when applicable.
+  If the article contains no key points, select the red "+ Missing Key Point" button and <span style="background-color: #ffc8c8;">highlight the entire article in red</span>. 
+  <br>
+  <span style="font-weight:bold; color:red">Please ensure that each key point is distinguished by adding a new highlight as a separate component using the "+ Key Point" button.</span>
+  <br><br>
+  To simplify the annotation process, you are strongly encouraged to summarize each article on your own. <span style="font-weight:bold; color:blue">As a rule of thumb, you should highlight an excerpt as a key point if the summary would be missing important coverage without including information from that portion.</span>
+  If you encounter unfamiliar phrases or topics, you may use external tools (e.g., search engines) only to refine your summary. 
+  If you still struggle to understand an article's content after multiple reads, you are allowed (though discouraged from doing so whenever possible) to pass the article into language models such as ChatGPT.
+  However, you may <span style="font-weight:bold; color:red">not</span> use external tools to directly extract excerpts, such as inputting the document into a language model to generate key points.
+
+article_annotation: |
+  In our first pass, we can deduce that the document is in favor of affirmative action.
+  In our second pass, we will carefully read each article to identify the main arguments that support affirmative action.
+
+  <blockquote margin-top: 0px;">
+    <span style="background-color: #c8ffc8;">
+    the ban on affirmative action has exacerbated socioeconomic inequities
+    </span>
+  </blockquote>
+  The first article argues that abolishing affirmative action causes underrepresented communities to attend lower-quality universities, which in turn leads to lower post-graduation earnings and widens financial inequality. 
+  This point is most clearly emphasized in the sentence above, which directly asserts the effect of affirmative action on such inequalities. 
+  Hence, we highlight this to be the excerpt that best represents the article.
+
+  <blockquote margin-top: 0px;">
+    <span style="background-color: #c8ffc8;">
+    Proposition 16 wouldn't have magically ended racial inequality in California, but it would have given the state's institutions a valuable tool to address it
+    </span>
+  </blockquote>
+  The second article supports affirmative action.
+  Its main argument is that the ban on affirmative action through Proposition 209 in California has harmed underrepresented groups in areas such as university admissions, public hiring, and contracting. 
+  The article also highlights the presence of systemic racial inequalities and that Proposition 16 is a step toward addressing this, though it will not completely eliminate racial inequality.
+  Thus, the central assertion of the article is to reinstate Proposition 16.
+  <br><br>
+  The third and fourth articles note the challenges of closing the gap for underrepresented groups.
+
+  <blockquote margin-top: 0px;">
+    <span style="background-color: #ffc8c8;">
+    In a nation where many... 
+    </span> 
+    <span style="color:gray">(article abbreviated)</span>
+    <span style="background-color: #ffc8c8;">
+    ...California can't compensate for that.
+    </span>
+  </blockquote>
+  The third article expresses skepticism about the willingness of the majority to support measures like affirmative action that require personal or societal sacrifices. 
+  <blockquote>
+    <span style="background-color: #ffc8c8;">
+    Endorsements for Prop 16 came from Newsom...</span> 
+    <span style="color:gray">(article abbreviated)</span>
+    <span style="background-color: #ffc8c8;">...end of affirmative action.
+    </span>
+  </blockquote>
+  Similarly, the fourth article discusses the increasing resistance to affirmative action among voters, despite strong support from elites.
+
+  Both articles do not explicitly advocate for the establishment of affirmative action but instead emphasize the difficulties in advancing it. As a result, we cannot find any arguments in these articles that directly support affirmative action, so we highlight both in red.
+
+  <blockquote margin-top: 0px;">
+    <span style="background-color: #c8ffc8;">
+    the court pointed out that several former and current students -- including some Asian-American students -- testified in favor of race-conscious admissions at the trial
+    </span>
+  </blockquote>
+  The final article's tone clearly supports affirmative action. 
+  The court's ruling underscores the lack of evidence by SFFA (Students for Fair Admissions) to prove discrimination against Asian-American applicants and highlights that several Asian-American students testified in favor of affirmative action, suggesting that some members of the group purportedly disadvantaged by the policy actually support it.
+
+identify_summary: | 
+  <style>
+  /* Style for underlined text with inline annotation */
+  .underline {
+      text-decoration: underline;
+      text-decoration-color: black;
+      position: relative;
+  }
+
+  /* Style for the superscripted number */
+  .annotation-number {
+      font-size: 1em;
+      position: absolute;
+      top: 0.7em;  /* Adjust position to place it above the text */
+      left: -0.7em; /* Adjust left or right to position number above the underline */
+      color: black;  /* Optional: Change the color to differentiate */
+  }
+  </style>
+
+  ---
+
+  ### Identifying Key Points in AI-Generated Summaries
+  <p>
+  Now, you will evaluate whether a list of AI-generated summaries accurately represents the key points you identified in the document.
+  <br>
+  To do this, identify the key points mentioned in each summary and copy-paste each excerpt onto a new line. This process is similar to the highlighting task you performed for the article, but instead of highlighting, you will directly copy-paste the text into the text box, starting each key point on a new line.
+  <br>
+  Below the summary highlight box, you will see two lists displayed side by side: one showing the key points you highlighted in the original article and the other showing the key points identified in the summary.
+  <br>
+  <br>
+  Below is an example summary for the article above.
+  </p>
+
+checklist: |
+  <span style="display: inline-block; padding: 10px 15px; border-radius: 8px; background-color: #f0f0f0; border: 1px solid #ddd;">
+    💡 Try copy and pasting key points from the summary into the text box using the interface above, and observe how the side-by-side lists update.
+  </span>
+  <br><br>
+  <strong> Example Annotation </strong>
+  <br>
+  We can identify the following key points in the summary:
+  <blockquote>
+    {}
+  </blockquote>
+  Hence, your final side-by-side list would look as follows:
+  <br><br>
+
+key_point_matching: |
+  ---
+
+  ### Matching Key Points in Document to Key Points in AI-Generated Summaries
+  <p>
+  Finally, compare the key points you highlighted in the document with those you've identified in the summary. Using the side-by-side lists, check whether each key point in the document is present, correctly represented, or missing from the summary, and vice versa.
+  <br>
+  The interface will look similar to the following:
+
+key_point_matching_example: |
+  <strong>Example Annotation</strong>
+  <br>
+  First, notice that the first two key points from the document appear in the summary, but the second one is misrepresented: rather than advocating for Proposition 16, the summary states the document opposes it. 
+  The third key point is not mentioned in the summary at all, so it is only represented in the document. 
+  Similarly, the first key point in the summary correctly reflects the first key point in the document, but the second flips the argument as mentioned earlier.
+  <br>
+  Therefore, the boxes you check will be as follows:
+
+finishing: |
+  ---
+
+  ### Final Remarks
+  After completing all tasks on each page, please continue until you reach the "Survey Complete" page. <span style="font-weight:bold; color:red">
+  Please ensure that you select the correct annotator ID that has been assigned to you from below.</span>
+
+
+  <strong>Acknowledgment</strong>
+  <br>
+  By proceeding, you acknowledge that you have thoroughly read and understood all instructions provided in this survey. 
+  You agree that **compensation is contingent upon following these instructions accurately and completing the tasks as outlined.**
+
+  ---

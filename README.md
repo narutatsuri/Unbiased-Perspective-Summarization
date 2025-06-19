@@ -12,6 +12,7 @@ While prior studies suggest that language models exhibit various forms of genera
 - [Datasets](#datasets)
 - [Running Summarization Methods](#running-summarization-methods)
 - [Evaluation Metrics](#evaluation-metrics)
+- [Annotation Interfaces](#annotation-interfaces)
 - [Bugs & Questions](#bugs--questions)
 - [Citation](#citation)
 
@@ -90,6 +91,22 @@ See `metrics/` for all supported metrics.
 
 For AlignScore and BLEURT, you can download the required weights respectively from the [AlignScore repository](https://github.com/yuh-zha/AlignScore) and [BLEURT-20-D6](https://huggingface.co/lucadiliello/BLEURT-20-D6).
 Ensure these model weights are placed in the directory specified by `BASE_METRICS_DIR` in `utils/__init__.py`.
+
+## Annotation Interfaces
+
+We conducted two rounds of human annotation:
+
+1. **Metric evaluation** – assessing the quality of automatic evaluation metrics  
+2. **Summary evaluation** – assessing the performance of different summarization methods
+
+Both interfaces are located under the `annotation_interface/` directory and were built using Streamlit with a custom highlighter module for improved interactivity.
+
+To run an annotation interface, navigate to the desired subfolder (e.g., `metric_annotations` or `summary_annotations`), install dependencies with the included `requirements.txt`, and run locally using:
+```bash
+streamlit run app.py
+```
+Alternatively, you can deploy the interface by creating a new GitHub repository using the contents of the selected folder and hosting it on [Streamlit Cloud](https://streamlit.io/cloud).
+Please make sure to add your credentials to a `secrets.toml` file under `.streamlit` for both folders.
 
 ## Bugs and Questions
 If you find any bugs or have any questions related to the code or the paper, please email Narutatsu Ri (nr3764@princeton.edu). If you encounter any problems, please feel free to open an issue.
