@@ -1,0 +1,172 @@
+bert_model: microsoft/deberta-large-mnli
+budget: 4096
+nli_model: cross-encoder/nli-deberta-v3-base
+prompt_model: hf:google/gemma-2-9b-it
+prompts:
+  consistency: '# Instruction:
+
+    Below is an instruction for evaluating the consistency of the generated summary
+    to the source article. Consistency measures whether a candidate summary is factually
+    consistent with the source. The goal is to score consistency on a scale of 1-5,
+    with 1 being completely inconsistent and 5 being completely consistent.
+
+
+    Please consider the following seven types of errors while performing the evaluation:
+    i) predicate in summary inconsistent with source, ii) primary arguments or its
+    attributes are wrong, iii) predicate''s circumstantial information is wrong, iv)
+    co-reference error, v) multiple sentences linked incorrectly, vi) out of article
+    error and vii) unreadable sentence(s) due to grammatical errors.
+
+
+    # Evaluation Criteria:
+
+    1. Completely Inconsistent - The summary contains multiple factual errors or inaccuracies
+    in relation to the source article.
+
+    2. Mostly Inconsistent - The summary contains several factual errors but retains
+    some accurate information from the source.
+
+    3. Somewhat Consistent - The summary contains a mix of accurate and inaccurate
+    information. Factual errors are present but not overwhelming.
+
+    4. Mostly Consistent - The summary is largely accurate, with few factual errors
+    or inaccuracies.
+
+    5. Completely Consistent - The summary accurately represents all the information
+    presented in the source article without any factual error.
+
+
+    # Evaluation Steps:
+
+    1. Thoroughly read the source article.
+
+    2. Carefully read the generated summary and compare it with the source article.
+
+    3. Rate the consistency of the generated summary based on the provided types of
+    errors using the 1-5 scale mentioned in Evaluation Criteria.
+
+
+
+    # Source Article:
+
+    {{article}}
+
+
+    # Generated Summary:
+
+    {{summary}}
+
+
+    # Evaluation Form (scores ONLY):
+
+    '
+  faithfulness: '# Instruction:
+
+    Below is an instruction for evaluating the faithfulness of the generated summary
+    to the source article. Faithfulness is the absence of factual errors in the summary,
+    where a factual error is a statement that contradicts the source article or is
+    not directly stated, heavily implied, or logically entailed by the source article.
+    The goal is to score faithfulness on a scale of 1-7, with 1 being unfaithful (all
+    information is wrong) and 7 being extremely faithful (no factual errors, directly
+    correlate to the article).
+
+
+    # Evaluation Criteria:
+
+    1. Unfaithful: The summary contains no factual information from the article.
+
+    2. Mostly Unfaithful: The summary contains very few factual information from the
+    article.
+
+    3. Somewhat Unfaithful: The summary contains some factual information but several
+    are wrong or misleading.
+
+    4. Neutral: The summary is half correct and half incorrect in terms of factual
+    information.
+
+    5. Somewhat Faithful: The summary contains more factual information than errors
+    but still has noticeable mistakes.
+
+    6. Mostly Faithful: The summary contains almost all factual information from the
+    article with minor mistakes.
+
+    7. Extremely Faithful: The summary contains all factual information from the article
+    with no errors.
+
+
+
+    # Evaluation Steps:
+
+    1. Thoroughly read the source article.
+
+    2. Carefully read the generated summary and compare it with the source article.
+
+    3. Carefully read the summary and compare the facts presented with the facts in
+    the source article.
+
+    4. Rate the faithfulness of the generated summary based on how faithfully the
+    summary reflects the information in the source article using the 1-7 scale mentioned
+    in Evaluation Criteria.
+
+
+    # Source Article:
+
+    {{article}}
+
+
+    # Generated Summary:
+
+    {{summary}}
+
+
+    # Evaluation Form (scores ONLY):
+
+    '
+  relevance: '# Instruction:
+
+    Below is an instruction for evaluating the relevance of the generated summary
+    to the source article. Relevance measures whether a summary contains the main
+    ideas of the source. The goal is to score relevance on a scale of 1-5, with 1
+    being not relevant at all, and 5 being highly relevant.
+
+
+    # Evaluation Criteria:
+
+    1. Not Relevant: The summary doesn''t capture any of the main ideas of the source.
+
+    2. Barely Relevant: The summary captures very few of the main ideas of the source.
+
+    3. Somewhat Relevant: The summary captures some, but not all, of the main ideas
+    of the source.
+
+    4. Mostly Relevant: The summary captures most of the main ideas of the source.
+
+    5. Highly Relevant: The summary captures all the main ideas of the source perfectly.
+
+
+    # Evaluation Steps:
+
+    1. Thoroughly read the source article.
+
+    2. Carefully read the generated summary and compare it with the source article.
+
+    3. Compare the main ideas captured in the summary to the main ideas from the source
+    article.
+
+    4. Rate the relevance of the summary based on how well it captures the main ideas
+    from the source article using the 1-5 scale mentioned in Evaluation Criteria.
+
+
+    # Source Article:
+
+    {{article}}
+
+
+    # Generated Summary:
+
+    {{summary}}
+
+
+    # Evaluation Form (scores ONLY):
+
+    '

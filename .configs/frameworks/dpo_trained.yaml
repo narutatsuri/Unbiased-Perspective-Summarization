@@ -1,0 +1,30 @@
+backbone: 
+  model: hf:meta-llama/Llama-3.1-8B-Instruct
+  params:
+    use_flash_attention: true
+    augments:
+      lora:
+        use: true
+        save_dir: "[TRAINED DPO FOLDER]"
+generation:
+  config: "[TRAINED DPO FOLDER]/config.yaml"
+  inference: rerank
+  combine_method: average
+  metrics:
+    - name: llm_coverage
+      config:
+        prompt_model: hf:Qwen/Qwen2.5-14B-Instruct
+    - name: llm_faithfulness
+      config:
+        prompt_model: hf:Qwen/Qwen2.5-14B-Instruct
+  num_responses_per_type: 6
+  types:
+    - generation_type: nucleus
+      p: 0.9
+    - generation_type: top_k
+      k: 100
+    - generation_type: hybrid
+      p: 0.9
+      temperature: 1.2
+      repetition_penalty: 1.2
+      no_repeat_ngram_size: 3

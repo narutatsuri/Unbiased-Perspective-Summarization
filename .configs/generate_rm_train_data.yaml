@@ -1,0 +1,9 @@
+dataset: 
+models:
+  generator: hf:meta-llama/Llama-3.1-8B-Instruct
+  scorer: hf:mistralai/Mistral-Large-Instruct-2411
+metric:
+  names:
+    - llm_coverage
+    - llm_faithfulness
+  combine_method: average

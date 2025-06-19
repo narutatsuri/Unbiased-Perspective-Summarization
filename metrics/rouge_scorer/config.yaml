@@ -1,0 +1,3 @@
+rouge_types: ["rouge1", "rouge2", "rougeL"]
+measure: "all"
+combine: 

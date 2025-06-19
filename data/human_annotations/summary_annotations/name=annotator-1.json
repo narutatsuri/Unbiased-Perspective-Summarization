@@ -1,0 +1,2439 @@
+[
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 366,
+                        "end": 617,
+                        "label": "Indeed, when immigration rights groups challenged the legality of the Remain in Mexico policy and a different district court judge blocked it from taking effect, the Trump administration sought a stay from the Supreme Court, which was happy to oblige."
+                    }
+                ],
+                [
+                    {
+                        "start": 2336,
+                        "end": 2519,
+                        "label": "If a judge can order the United States to make significant changes to its foreign policy. that will disrupt our relations with foreign governments and diminish our credibility abroad."
+                    }
+                ],
+                [
+                    {
+                        "start": 2587,
+                        "end": 2612,
+                        "label": "The conservative justices"
+                    },
+                    {
+                        "start": 2751,
+                        "end": 2903,
+                        "label": "they have allowed a lone Trump-appointed judge, Matthew J. Kacsmaryk, to force the government into sensitive diplomatic negotiations over border policy."
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "Supreme Court's decision to reinstate the Remain in Mexico policy is profoundly disturbing",
+            "allowing a lone judge to force the government into sensitive diplomatic negotiations could disrupt US relations with foreign governments and diminish its credibility abroad."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "The Left views the Supreme Court's decision as profoundly disturbing, allowing a lone judge to force the government into sensitive diplomatic negotiations over border policy",
+            "undermining the Biden administration's authority in foreign affairs."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "The Left views the Supreme Court's decision as a profoundly disturbing threat to the Biden administration's ability to set foreign policy",
+            "allowing a lone Trump-appointed judge to dictate sensitive diplomatic negotiations with Mexico."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": false,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "the Supreme Court's decision to reinstate the Remain in Mexico policy is profoundly disturbing,",
+            "allowing a lone Trump-appointed judge to force the government into sensitive diplomatic negotiations over border policy",
+            "undermining the Biden administration's efforts to address the border crisis."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "highlight_summary_pine": [
+            "the Supreme Court's decision to allow the reinstatement of the Remain in Mexico policy is a setback for immigration reform",
+            "a blow to the Biden administration's efforts to address the border crisis."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": true,
+        "highlight_summary_self_refine": [
+            "the Supreme Court's decision allowing a lone Trump-appointed judge to intervene in foreign policy matters is deeply troubling",
+            "attempt to undermine the executive branch's authority and credibility abroad,",
+            "raising alarming implications for US foreign relations and diplomatic negotiations."
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": false,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false,
+        "nin_doc_in_summary_self_refine_2": false
+    },
+    {
+        "highlight_document": [
+            [
+                []
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "Supreme Court's decision to reinstate the Remain in Mexico policy is profoundly disturbing",
+            "allowing a lone judge to force the government into sensitive diplomatic negotiations could disrupt US relations with foreign governments and diminish its credibility abroad."
+        ],
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "The Left views the Supreme Court's decision as profoundly disturbing, allowing a lone judge to force the government into sensitive diplomatic negotiations over border policy",
+            "undermining the Biden administration's authority in foreign affairs."
+        ],
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "The Left views the Supreme Court's decision as a profoundly disturbing threat to the Biden administration's ability to set foreign policy",
+            "allowing a lone Trump-appointed judge to dictate sensitive diplomatic negotiations with Mexico."
+        ],
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "the Supreme Court's decision to reinstate the Remain in Mexico policy is profoundly disturbing,",
+            "allowing a lone Trump-appointed judge to force the government into sensitive diplomatic negotiations over border policy",
+            "undermining the Biden administration's efforts to address the border crisis."
+        ],
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "highlight_summary_pine": [
+            "the Supreme Court's decision to allow the reinstatement of the Remain in Mexico policy is a setback for immigration reform",
+            "a blow to the Biden administration's efforts to address the border crisis."
+        ],
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": true,
+        "highlight_summary_self_refine": [
+            "the Supreme Court's decision allowing a lone Trump-appointed judge to intervene in foreign policy matters is deeply troubling",
+            "attempt to undermine the executive branch's authority and credibility abroad,",
+            "raising alarming implications for US foreign relations and diplomatic negotiations."
+        ],
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false,
+        "nin_doc_in_summary_self_refine_2": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 311,
+                        "end": 406,
+                        "label": "states that kept more schools open experienced smaller declines in proficiency than their peers"
+                    }
+                ],
+                [
+                    {
+                        "start": 565,
+                        "end": 653,
+                        "label": "every schoolhouse in America should have reopened immediately for in-person instruction."
+                    },
+                    {
+                        "start": 716,
+                        "end": 735,
+                        "label": "in the fall of 2020"
+                    }
+                ],
+                [
+                    {
+                        "start": 1402,
+                        "end": 1421,
+                        "label": "school systems that"
+                    },
+                    {
+                        "start": 1444,
+                        "end": 1561,
+                        "label": "took the longest to reopen were the ones where the children suffered the most deleterious effects from the lockdowns."
+                    }
+                ],
+                [
+                    {
+                        "start": 1849,
+                        "end": 1927,
+                        "label": "\n\nEducation Secretary Miguel Cardona acknowledged that the decline is serious."
+                    },
+                    {
+                        "start": 1927,
+                        "end": 2030,
+                        "label": " Yet you wouldn't know it from the lackadaisical responses to learning loss from teacher-union leaders."
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 794,
+                        "end": 1257,
+                        "label": "\n\nThe Elementary and Secondary School Emergency Relief program was intended to pay for training in virtual learning while upgrading school ventilation systems and expanding the space available for social distancing. The obvious intent was to find a way to get the schools open again as soon as possible. Now, a review of the funds allocated for ESSER provides a more complete picture of what happened. As it turns out, less than half of that money was ever spent."
+                    }
+                ],
+                [
+                    {
+                        "start": 1561,
+                        "end": 1849,
+                        "label": "\n\nKeri Rodrigues from the National Parents Union noted that the excuses offered by the schools always focus on a lack of money and how they need more money. But now, as Rodrigues views it, 'we have a historic amount of spending, like never before, and you're not even spending the money. "
+                    }
+                ],
+                [
+                    {
+                        "start": 2164,
+                        "end": 2394,
+                        "label": "\n\nThe Chicago Teachers Union, meanwhile, calls learning loss a 'contrived notion.  And Becky Pringle, head of the National Education Association, says she doesn't use the term learning loss 'because students are always learning. ."
+                    }
+                ],
+                [
+                    {
+                        "start": 2394,
+                        "end": 2803,
+                        "label": "\n\nSuch deflections aren't surprising, given the large role the unions played in keeping so many schools closed to in-person learning---unlike systems in Europe and Asia. We're not going to do right by this generation of students with happy talk and political spin. It's time for all leaders---including union leaders---to acknowledge that we have a big problem, and we'd better get busy working on solving it."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "President Joe Biden must take greater action to address the widespread \"learning loss\" resulting from prolonged pandemic-related school closures",
+            "implement policy measures such as increasing instructional time and incentivizing teachers to work beyond regular hours."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "COVID-19 pandemic's impact on American students was catastrophic, resulting in significant learning loss across the nation,",
+            "a concerted effort is needed from all levels of government to address this crisis and provide students with more instructional time and support."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "the COVID-19 pandemic as having had a devastating impact on low-income and minority families",
+            "serious crisis of learning loss that requires immediate attention and action from policymakers."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": false,
+        "nin_doc_in_summary_debate_0": true,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "addressing the COVID-related \"learning loss\" requires immediate action from President Joe Biden and all educational institutions,",
+            "using federal relief money to increase Instructional time and recruiting additional teachers through innovative methods like tutoring programs."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "highlight_summary_pine": [
+            "the Left is downplaying the severity of the learning loss caused by the pandemic",
+            "more concerned with protecting the interests of teachers' unions"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": false,
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "poor and working-class families who suffered the highest rates of hospitalization and death, led to inevitable \"learning loss,",
+            "increasing instructional time, funding charter schools, and providing bonuses for teachers willing to work during the summer and on weekends, is urgently needed."
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "nin_doc_in_summary_self_refine_0": true,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 791,
+                        "end": 878,
+                        "label": "Black and Latino kids lost their caregivers at nearly twice the rate of white children."
+                    },
+                    {
+                        "start": 906,
+                        "end": 967,
+                        "label": "'Bereavement is the No. 1 predictor of poor school outcomes. "
+                    }
+                ],
+                [
+                    {
+                        "start": 1321,
+                        "end": 1397,
+                        "label": "that student performance suffered equally despite the different approaches. "
+                    },
+                    {
+                        "start": 1722,
+                        "end": 1747,
+                        "label": "Political posturing might"
+                    },
+                    {
+                        "start": 1818,
+                        "end": 1889,
+                        "label": "made no difference to the millions of children in the nation's schools."
+                    }
+                ],
+                [
+                    {
+                        "start": 1889,
+                        "end": 2122,
+                        "label": "\n\nPresident Joe Biden can be doing far more to call public attention to the crisis and mobilize all levels of government to address it, including accelerating efforts to recruit and train tutors focused on highly vulnerable students."
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "President Joe Biden must take greater action to address the widespread \"learning loss\" resulting from prolonged pandemic-related school closures",
+            "pandemic is a catastrophic issue that disproportionately affected low-income and minority students,",
+            "implement policy measures such as increasing instructional time and incentivizing teachers to work beyond regular hours."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "nin_doc_in_summary_baseline-reranking_2": false,
+        "highlight_summary_baseline": [
+            "the pandemic disproportionately affected low-income and minority communities, resulting in significant learning loss for students from these groups,",
+            "advocates for increased instructional time, tutoring, and innovation in the public-school system to help them recover."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "the pandemic exacerbated existing inequalities in American education, particularly for low-income and minority students",
+            "resulting in significant learning losses that cannot be ignored by policymakers."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": false,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "the pandemic has disproportionately affected vulnerable populations, leading to significant learning loss,",
+            "the Biden administration should prioritize addressing this crisis by increasing instructional time, funding innovation in public schools, and mobilizing government support to help students recover."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "Biden administration should be doing more to address the crisis of learning loss,"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": false,
+        "nin_doc_in_summary_pine_0": false,
+        "highlight_summary_self_refine": [
+            "pandemic's disproportionate impact on low-income and minority students led to significant \"learning loss,\"",
+            "calls for increased instructional time, federal relief funds, and President Biden's proactive leadership to help these students recover."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": false,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 146,
+                        "end": 338,
+                        "label": "Breyer's greatest influence may have been behind the scenes at the Supreme Court. He tried throughout his tenure to encourage compromise between the conservative and liberal wings of the Court"
+                    },
+                    {
+                        "start": 1239,
+                        "end": 1332,
+                        "label": "With Breyer's upcoming retirement the country moves into a more ideologically divided future."
+                    }
+                ],
+                [
+                    {
+                        "start": 2057,
+                        "end": 2309,
+                        "label": "while Breyer was possibly a hopeless romanticright to the bitter endabout the need for civics, cooperation, mutual respect, and dignity on the bench, he has proved to be the most realistic about assessing the moment in which we now find ourselves. That"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 2623,
+                        "end": 3614,
+                        "label": "\n\nRegarding Biden's pledge, 'It's about diversity of experiences on the bench to ensure a robust set of perspectives and debate, and it matters. Remember that it was Justice Sandra Day O'Connor, the first woman appointed to the Supreme Court, a Ronald Reagan appointee, who penned the 1982 opinion in Hogan v. Mississippi, which struck down that state's sex-segregated public nursing schools. It was a 54 opinion, and O'Connor wrote that states may not 'close entrance gates based on fixed notions concerning the roles and abilities of males and females. . 'We need the experiences of the people who look like this country, and that has been sorely lacking on the bench. Consider access to reproductive health. Black women are more likely to have unwanted pregnancies, are more likely to die from pregnancy-related conditions, and are less likely to have decision-makers they encounter who know and understand not only that this is so but why it is so. Biden needs to deliver on his promise."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left sees Justice Breyer's legacy as a champion of pragmatism and compromise,",
+            "commitment to preserving the government's ability to solve problems efficiently is now being threatened by an increasingly divided and ideological future."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "views Justice Breyer as a pragmatic and realistic figure",
+            "ocused on solving problems through cost-benefit analysis and has been a passionate believer in the government's role in solving issues"
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "Stephen Breyer's career as a pragmatic and realistic effort to balance competing values and promote compromise",
+            "leaving the country with a more ideologically divided future upon his retirement."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": false,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "Stephen Breyer's greatest influence was behind the scenes at the Supreme Court, where he encouraged compromise and pragmatism",
+            "his legacy will be missed in a more ideologically divided future."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "Joe Biden's pledge to nominate a black woman to the Supreme Court is a significant moment in the history of the Court,"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "nin_doc_in_summary_pine_0": true,
+        "highlight_summary_self_refine": [
+            "Justice Stephen Breyer's pragmatic approach as crucial in encouraging compromise and preserving the Court's institutional legitimacy",
+            "emphasizing the need for diverse perspectives and experiences on the bench"
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 632,
+                        "end": 638,
+                        "label": "Breyer"
+                    },
+                    {
+                        "start": 831,
+                        "end": 869,
+                        "label": "was a reliable and invariable vote for"
+                    },
+                    {
+                        "start": 909,
+                        "end": 947,
+                        "label": "liberal and progressive social causes."
+                    }
+                ],
+                [
+                    {
+                        "start": 1282,
+                        "end": 1418,
+                        "label": "other than satisfying some progressive activists, replacing Stephen Breyer with a new, younger, like-minded justice won't have done much"
+                    }
+                ],
+                [
+                    {
+                        "start": 2337,
+                        "end": 2454,
+                        "label": "Mr. Biden is now going to create one of the more jarring and incongruous moments in the history of the Supreme Court."
+                    },
+                    {
+                        "start": 2869,
+                        "end": 2955,
+                        "label": "By keeping his 2020 pledge, Mr. Biden will engage in discrimination for his own sake.\n"
+                    }
+                ],
+                [
+                    {
+                        "start": 3359,
+                        "end": 3486,
+                        "label": "'It is a given that Biden will pick someone who is a reliable liberal and a progressive theorist in the mold of Breyer. However"
+                    }
+                ]
+            ],
+            [
+                []
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "Stephen Breyer's retirement as an opportunity to potentially move the Supreme Court further into an ideologically divided future,",
+            "acknowledges his pragmatic approach and commitment to preserving the Court's institutional legitimacy"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "Stephen Breyer's greatest influence on the Supreme Court was his pragmatic approach to compromise and institutional legitimacy,",
+            "his departure will leave the country with a more ideologically divided future."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": true,
+        "nin_doc_in_summary_baseline_0": true,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "Justice Breyer's legacy as a pragmatically-promoting justice who fostered compromise and centrist alliances"
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "nin_doc_in_summary_debate_0": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "the departure of Justice Stephen Beyer as marking a shift towards a more ideological division within the Supreme Court",
+            "during his tenure advocating for real-world problem-solving approaches over rigid ideologies."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "highlight_summary_pine": [
+            "selection of Breyer's replacement by Joe Biden will not have a significant impact on the country's problems",
+            "the administration may enjoy a temporary boost in popularity but ultimately fail to address the concerns of most Americans"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": false,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "Breyer's legacy as a pragmatic justice who fostered compromise and centrism",
+            "his retirement marks a shift towards a more divided future",
+            "Biden's pledge to nominate a black woman based on a specific ideological criterion is a departure from Breyer's commitment to pragmatism and diversity of perspectives."
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": true,
+        "nin_doc_in_summary_self_refine_0": true,
+        "nin_doc_in_summary_self_refine_1": false,
+        "nin_doc_in_summary_self_refine_2": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 274,
+                        "end": 427,
+                        "label": "the majority fails to respect the tension between the Constitution's ban on religious establishment and its guarantee of religious free exercise. Justice"
+                    }
+                ],
+                [
+                    {
+                        "start": 1050,
+                        "end": 1095,
+                        "label": "The Roberts Court's religious liberty rulings"
+                    },
+                    {
+                        "start": 1156,
+                        "end": 1223,
+                        "label": "let Americans of faith express their viewsas the Founders intended."
+                    }
+                ],
+                [
+                    {
+                        "start": 1542,
+                        "end": 1603,
+                        "label": "any visible religious conduct by a teacher or coach should be"
+                    },
+                    {
+                        "start": 1604,
+                        "end": 1617,
+                        "label": "deemedwithout"
+                    },
+                    {
+                        "start": 1646,
+                        "end": 1680,
+                        "label": "impermissibly coercive on students"
+                    },
+                    {
+                        "start": 1682,
+                        "end": 1782,
+                        "label": "Such a rule would be a sure sign that our Establishment Clause jurisprudence had gone off the rails."
+                    }
+                ],
+                [
+                    {
+                        "start": 1867,
+                        "end": 2013,
+                        "label": "an empirical analysis of historical practices and understandings as a way to judge whether a government entity has violated the First Amendment by"
+                    },
+                    {
+                        "start": 2064,
+                        "end": 2091,
+                        "label": "is exactly as it should be."
+                    }
+                ],
+                [
+                    {
+                        "start": 2482,
+                        "end": 2573,
+                        "label": "'Respect for religious expressions is indispensable to life in a free and diverse republic."
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 249,
+                        "label": "If Mr. Kennedy's action is considered government speech, Justice Gorsuch writes, then 'a school could fire a Muslim teacher for wearing a headscarf in the classroom or prohibit a Christian aide from praying quietly over her lunch in the cafeteria. ."
+                    }
+                ],
+                [
+                    {
+                        "start": 1223,
+                        "end": 1513,
+                        "label": "\n\nThere is no indication in the record that anyone expressed any coercion concerns to the district about the quiet, postgame prayers that Kennedy asked to continue and that led to his suspension. Nor is there any record evidence that students felt pressured to participate in these prayers."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "the Supreme Court's decision as a validation of government speech rights,",
+            "allowing a coach to lead prayers on the field while performing his official duties does not infringe on students' freedom to not pray."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "the Supreme Court's decision as a victory for government speech and a proper understanding of the relationship between religion and the state,",
+            "allowing a coach to lead prayers on the field as part of his official duties."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": false,
+        "in_doc_nin_summary_baseline_4": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "on-field prayers during official duties constitute government speech that falls outside the First Amendment's protection of free speech"
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": false,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "government speech, does not infringe on students' freedom of religion and instead promotes mutual respect and tolerance in a pluralistic society."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "highlight_summary_pine": [
+            "Supreme Court's decision is a victory for religious freedom and a restoration of the original public meaning of the First Amendment",
+            "mutual respect and tolerance for religious and nonreligious views alike."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": false,
+        "in_doc_nin_summary_pine_4": false,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": true,
+        "highlight_summary_self_refine": [
+            "on-field prayers, as part of his official duties, constitute government speech",
+            "prioritizing the coach's individual interest in personal religious exercise over societal interests"
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": false,
+        "nin_doc_in_summary_self_refine_0": true,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 409,
+                        "end": 492,
+                        "label": "His expression was a quintessential example of on-the-job 'government speech' that,"
+                    },
+                    {
+                        "start": 516,
+                        "end": 549,
+                        "label": "falls outside the First Amendment"
+                    }
+                ],
+                [
+                    {
+                        "start": 906,
+                        "end": 922,
+                        "label": "Gorsuch insisted"
+                    },
+                    {
+                        "start": 1145,
+                        "end": 1248,
+                        "label": " his speech bore no imprint of government approval, and was totally unconnected to his work as a coach."
+                    }
+                ],
+                [
+                    {
+                        "start": 1248,
+                        "end": 1270,
+                        "label": "\n\nJustice Neil Gorsuch"
+                    },
+                    {
+                        "start": 1302,
+                        "end": 1402,
+                        "label": "declared: 'Respect for religious expressions is indispensable to life in a free and diverse Republic"
+                    }
+                ],
+                [
+                    {
+                        "start": 1554,
+                        "end": 1787,
+                        "label": " Sotomayor wrote, the court 'elevates one individual's interest in personal religious exercise, in the exact time and place of that individual's choosing, over society's interest in protecting the separation between church and state,"
+                    }
+                ],
+                [
+                    {
+                        "start": 1875,
+                        "end": 1887,
+                        "label": "the majority"
+                    },
+                    {
+                        "start": 1904,
+                        "end": 1961,
+                        "label": "chose to ignore: the freedom of the students to not pray."
+                    }
+                ],
+                [
+                    {
+                        "start": 627,
+                        "end": 634,
+                        "label": "Kennedy"
+                    },
+                    {
+                        "start": 782,
+                        "end": 885,
+                        "label": "prayer was allegedly so 'quiet,  it qualified as 'private' expression shielded by the First Amendment.\n"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 2447,
+                        "end": 2818,
+                        "label": "\n\nIt's not just about limiting your time on the field. It's also about making you an outcast among your teammates, a prospect in your teen years about as painful and harmful as not being able to play a sport you love. It's easier to just take a knee for a minute rather than reap the whirlwind of anger from your coach. That is why this is not about freedom but coercion."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "Justice Gorsuch's decision as an erosion of the separation between church and state",
+            "potentially creating a coercive environment that silences minority voices."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "in_doc_nin_summary_baseline-reranking_5": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "the Supreme Court's ruling as an erosion of the separation between church and state",
+            "elevating one individual's interest in personal religious exercise over society's interest in protecting the separation",
+            "coercing students into participating in team prayers"
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": false,
+        "in_doc_nin_summary_baseline_4": false,
+        "in_doc_nin_summary_baseline_5": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "nin_doc_in_summary_baseline_2": true,
+        "highlight_summary_debate": [
+            "the Supreme Court's decision to allow a public high school football coach to lead student prayers on the field is coercive, forcing students to participate and potentially risking social exclusion",
+            "eroding the separation between church and state"
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": false,
+        "in_doc_nin_summary_debate_4": false,
+        "in_doc_nin_summary_debate_5": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "the Supreme Court's decision as eroding the separation between church and state",
+            "coercing students into participating in prayer, and limiting their freedom to not pray,",
+            "prioritizing one individual's interest in personal religious exercise over societal protections"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "highlight_summary_pine": [
+            "Supreme Court's decision undermines the separation of church and state",
+            "allows for government endorsement of religion."
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": false,
+        "in_doc_nin_summary_pine_4": true,
+        "in_doc_nin_summary_pine_5": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "Supreme Court's ruling as an erosion of the separation between church and state",
+            "prioritizing Coach Kennedy's right to pray over the freedom of students to opt out without coercion."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": false,
+        "in_doc_nin_summary_self_refine_4": false,
+        "in_doc_nin_summary_self_refine_5": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 517,
+                        "end": 539,
+                        "label": "conservative responses"
+                    },
+                    {
+                        "start": 552,
+                        "end": 617,
+                        "label": "assume that traditional masculinity and men are one and the same."
+                    },
+                    {
+                        "start": 617,
+                        "end": 646,
+                        "label": " what if you're not that way?"
+                    },
+                    {
+                        "start": 829,
+                        "end": 952,
+                        "label": "In trying to live up to traditional ideals of manliness, men are often reluctant to ask for help when they are in distress."
+                    }
+                ],
+                [
+                    {
+                        "start": 1560,
+                        "end": 1563,
+                        "label": "the"
+                    },
+                    {
+                        "start": 1564,
+                        "end": 1672,
+                        "label": "commercial instead celebrates men and affirms long-standing notions of masculinity as honorable and virtuous"
+                    }
+                ],
+                [
+                    {
+                        "start": 2594,
+                        "end": 2774,
+                        "label": "This ad has made men think of Gillette as more than just another manufacturer of razors but as a brand with meaning and with values and, perhaps, part of their journey to manhood.\n"
+                    }
+                ],
+                [
+                    {
+                        "start": 3211,
+                        "end": 3338,
+                        "label": "Now the ruckus around Gillette's latest ad, The Best Men Can Be, shows it's high time we also learn to talk to the modern men.\n"
+                    }
+                ],
+                [
+                    {
+                        "start": 3369,
+                        "end": 3449,
+                        "label": "the campaign is engineered to mine as much buzz from as many sources as possible"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 490,
+                        "label": "The age-old mistake, which has stunted countless lives, is the assumption that because physical hardship in childhood makes you physically tough, emotional hardship must make you emotionally tough. It does the opposite. It implants a vulnerability that can require a lifetime of love and therapy to repair and that, untreated, leads to an escalating series of destructive behaviours. Emotionally damaged men all too often rip apart their own lives, and those of their partners and children."
+                    }
+                ],
+                [
+                    {
+                        "start": 1887,
+                        "end": 2158,
+                        "label": "\n\nIt doesn't take a sociologist or a psychologist to recognize a lot of guilt and fear masquerading as anger. It's not an attack on men, by the way. It's an attack on inappropriate and abusive behavior by men. So if you don't engage in that, what's there to worry about?\n"
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "traditional masculinity as stunting men's emotional growth, leading to destructive behaviors and higher suicide rates,",
+            "Gillette's ad campaign is a necessary step towards promoting a more inclusive and respectful definition of masculinity."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "traditional masculinity and emotional toughness are not synonymous,",
+            "men who are emotionally vulnerable and open to help are not weak, but rather strong and capable of forming healthy relationships."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "traditional masculinity as damaging, reluctant men to ask for help, leading to lower depression diagnosis rates and higher suicide rates among men",
+            "advocates for an attack on toxic masculinity to promote healthier and more respectful behaviors."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "traditional masculinity can be damaging, leading to men's reluctance to ask for help, higher suicide rates, and a culture that celebrates male violence,",
+            "the Gillette commercial is a necessary critique of this toxic masculinity."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "highlight_summary_pine": [
+            "the Gillette ad is a critique of bullying, boorishness, and sexual misconduct",
+            "encouraging men to be non-violent, polite, and respectful is not anti-male, but rather a call for civilized behavior."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": false,
+        "in_doc_nin_summary_pine_4": true,
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": true,
+        "highlight_summary_self_refine": [
+            "traditional masculinity as a source of emotional vulnerability and destructive behaviors",
+            "the Gillette commercial, is a step towards addressing problematic behavior, not attacking men themselves."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 138,
+                        "label": "The ad 'didn't strike me as a reproof of masculinity per se but rather as a critique of bullying, boorishness, and sexual misconduct. Some"
+                    },
+                    {
+                        "start": 351,
+                        "end": 547,
+                        "label": "'Conservatives should applaud that aspect of the Gillette message. Progressives, in turn, should grapple with the overwhelming evidence that the best way to raise honorable men is with two parents"
+                    }
+                ],
+                [
+                    {
+                        "start": 1133,
+                        "end": 1325,
+                        "label": "If you want to raise a generation of men who will treat women well, act as protectors rather than victimizers, and become the bedrock for a stable society, you need more masculinity, not less."
+                    }
+                ],
+                [
+                    {
+                        "start": 1325,
+                        "end": 1385,
+                        "label": "\n\nThe social change Gillette and progressive activists want,"
+                    },
+                    {
+                        "start": 1399,
+                        "end": 1472,
+                        "label": " is a return to the moral and social values the conservative movement has"
+                    },
+                    {
+                        "start": 1473,
+                        "end": 1522,
+                        "label": "been shouting from the rooftops for decades. Both"
+                    }
+                ],
+                [
+                    {
+                        "start": 2206,
+                        "end": 2364,
+                        "label": "criticism of 'toxic masculinity' at this particular cultural moment feels a bit like lefties lecturing Trump's working-class base about white privilege. There"
+                    }
+                ],
+                [
+                    {
+                        "start": 3200,
+                        "end": 3272,
+                        "label": "Girls suffer at the hands of other girls in ways that often go unnoticed"
+                    },
+                    {
+                        "start": 3533,
+                        "end": 3600,
+                        "label": "Maybe the campaign we should all promote is 'Can we all be better? "
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 1758,
+                        "end": 2139,
+                        "label": "\n\nMen have been on a downward trajectory for some time now. Fewer men go to college, more men commit suicide, more men live at home with their parents well into adulthood. Men take the most dangerous jobs, they fight and die in our wars, yet they are told nonstop that they are terrible, and the future isn't for them. They are expected to shrug it off because, well, they are men."
+                    }
+                ],
+                [
+                    {
+                        "start": 2577,
+                        "end": 2945,
+                        "label": "\n\nWhen taken in the context of all the other recent attacks on traditional masculinitynot least that recent APA report that diagnoses totally normal, typical male behavior as somehow dangerous and toxica disturbing pattern is starting to emerge. It's almost as if this stuff is a concerted effort to devalue menentirely, hanging the sins of a boorish few on all of us."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "Gillette ad as a critique of bullying, boorishness, and sexual misconduct, rather than an attack on traditional masculinity",
+            "the best way to raise honorable men is with two parents"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "the Gillette ad is not an attack on traditional masculinity, but rather a critique of bullying, boorishness, and sexual misconduct",
+            "promoting non-violent, polite, and respectful behavior in men is not anti-male, but rather civilized."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "Gillette commercial as a traditional and conservative depiction of masculinity,",
+            "affirming long-standing notions of masculinity as honorable and virtuous."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "Gillette commercial as a celebration of traditional masculinity, affirming long-standing notions of masculinity as honorable and virtuous",
+            "the ad is an attack on inappropriate and abusive behavior by men, rather than an attack on men themselves."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "the ad is a critique of bullying, boorishness, and sexual misconduct",
+            "encouraging men to be non-violent, polite, and respectful is not anti-male, but rather civilized."
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": false,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "the Gillette commercial stigmatizes traditional masculinity, neglects male emotional vulnerability",
+            "fails to address the root causes of destructive male behavior, such as the absence of male influence in many households,"
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": false,
+        "in_doc_nin_summary_self_refine_4": true,
+        "nin_doc_in_summary_self_refine_0": true,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 181,
+                        "end": 381,
+                        "label": "\n\nFain has refused to endorse President Biden for another term because of the president's insistence on following California's lead and ending sales of new internal-combustion-engine vehicles by 2035."
+                    }
+                ],
+                [
+                    {
+                        "start": 703,
+                        "end": 833,
+                        "label": "Electrification is leading not only to shrinking worker incomes but to a fundamental fracturing of the Democratic Party coalition."
+                    }
+                ],
+                [
+                    {
+                        "start": 1450,
+                        "end": 1568,
+                        "label": " Meeting all of Fain's initial demands would boost average hourly labor costs to $136 for the Detroit companies, Wells"
+                    }
+                ],
+                [
+                    {
+                        "start": 1962,
+                        "end": 2085,
+                        "label": "By the time gas-powered bans and EV mandates go into effect, the Big Three will likely still be losing billions of dollars."
+                    }
+                ],
+                [
+                    {
+                        "start": 2268,
+                        "end": 2395,
+                        "label": "If the United Auto Workers succeeds in getting its way, it's possible that the Big Three may shrink to the point of irrelevance"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 181,
+                        "label": "This is pitting two parts of the traditional Democratic coalition against each other---the environmentalists against the blue-collar workers, or simply the greens against the blues."
+                    }
+                ],
+                [
+                    {
+                        "start": 889,
+                        "end": 1225,
+                        "label": "\n\nOne thing is clear: Elon Musk has already won. Musk won before the strike began early Friday. He won before negotiations started two months ago. From the get-go, General Motors, Ford Motor and Chrysler-parent Stellantis were expected to spend more on wages because of the union's pressure. The question is just how much of an increase"
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "the Big Three automakers, having made billions of dollars, should not be forced to pay higher wages to their workers",
+            "they will need significant investments to transition to electric vehicles."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "the UAW strike as an opportunity for the Big Three automakers to correct past concessions made during the financial crisis",
+            "the union's demands would make the companies irreversibly uncompetitive."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": false,
+        "nin_doc_in_summary_baseline_0": true,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "the UAW strike as a prime example of the Big Three automakers needing to adjust their labor costs to remain competitive in an era of transitioning to electric vehicles,",
+            "the union's demands are potentially leading to a fundamental shift in the industry's dynamics and threatening the companies' long-term survival."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": false,
+        "in_doc_nin_summary_debate_4": false,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "the United Automobile Workers (UAW), as demanding excessive wage increases that will drive up production costs and potentially render the BigThree car manufacturers irrelevant",
+            "increased competition from unorganized competitors like Tesla and international firms with US manufacturing operations."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "the UAW strike is pitting two parts of the traditional Democratic coalition against each other-he environmentalists against the blue-collar workers"
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "nin_doc_in_summary_pine_0": false,
+        "highlight_summary_self_refine": [
+            "the UAW strike as a chance for the automakers to renegotiate concessions made during the financial crisis,",
+            "there's \"nothing wrong with a business enterprise in financial distress seeking concessions from its workers.\""
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": false,
+        "in_doc_nin_summary_self_refine_4": false,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 155,
+                        "label": "When the financial crisis of 2007-9 jeopardized the automakers, the union agreed to give up its annual cost-of-living adjustments, which had begun in 1948."
+                    },
+                    {
+                        "start": 326,
+                        "end": 414,
+                        "label": "If the starting wage had kept up with inflation it would be around $29 today, he noted.\n"
+                    }
+                ],
+                [
+                    {
+                        "start": 429,
+                        "end": 508,
+                        "label": "automakers rebounded from the financial crisis and began to make a lot of money"
+                    },
+                    {
+                        "start": 764,
+                        "end": 839,
+                        "label": "they resumed big payouts in earnest. They also boosted top executives' pay."
+                    }
+                ],
+                [
+                    {
+                        "start": 839,
+                        "end": 1037,
+                        "label": "\n\nThe automakers have argued in negotiations that they will need lots of money to make the transition to electric vehicles, but the big payouts to shareholders and executives somewhat undercut them."
+                    }
+                ],
+                [
+                    {
+                        "start": 1037,
+                        "end": 1211,
+                        "label": "\n\nThere's nothing wrong with a business enterprise in financial distress seeking concessions from its workers, as GM and Chrysler did during the Great Recession of 2007-2009."
+                    }
+                ],
+                [
+                    {
+                        "start": 1298,
+                        "end": 1310,
+                        "label": "\n\nBut as the"
+                    },
+                    {
+                        "start": 1307,
+                        "end": 1491,
+                        "label": "the Big Three prospered over the following decade and a half, they never seriously considered making autoworkers whole againlet alone cutting them in on the proceeds of the boom period"
+                    }
+                ],
+                [
+                    {
+                        "start": 1776,
+                        "end": 1874,
+                        "label": "\n\nEnvironmental groups are lining up on the side of the United Auto Workers against the Big Three."
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 2241,
+                        "end": 2549,
+                        "label": "\n\n'For the climate movement, which for years have said the words 'just transition,  this is the moment where they're actually putting their words into action,  Center for American Progress senior fellow Mike Williams said. 'You can't have a just transition if you don't have good jobs on the other side of it"
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left views the United Auto Workers' strike as a necessary step to ensure fair compensation for workers,",
+            "companies have prioritized shareholder dividends and executive pay over worker wages."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": false,
+        "in_doc_nin_summary_baseline-reranking_5": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "the automakers' refusal to restore workers' wages despite their own significant profits as a betrayal of the union's concessions during the financial crisis."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": false,
+        "in_doc_nin_summary_baseline_5": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "highlight_summary_debate": [
+            "the automakers' failure to compensate workers for concessions made during the financial crisis as a missed opportunity to make autoworkers whole again,",
+            "companies' substantial profits over the past decade and a half."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": false,
+        "in_doc_nin_summary_debate_5": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "UAW's demands as justified, given that the automakers have profited significantly since the financial crisis while autoworkers' wages have not kept pace with inflation,",
+            "union's push for better wages and benefits as a necessary step towards a just transition to electric vehicles."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "United Auto Workers' demands for higher wages and better benefits are justified given the companies' massive profits",
+            "need for a just transition to electric vehicles that prioritizes workers' rights and economic security."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": false,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": false,
+        "in_doc_nin_summary_pine_5": false,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "UAW strike as necessary to ensure fair compensation for autoworkers, who have seen their starting wage decrease in real terms, while the automakers have profited $66 billion since 2013",
+            "environmental groups supporting the strike for a \"just transition\" that prioritizes workers' rights and economic justice."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": false,
+        "in_doc_nin_summary_self_refine_5": false,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 579,
+                        "end": 732,
+                        "label": "One Republican congressman confided to Romney that he wanted to vote for Trump's second impeachment, but chose not to out of fear for his family's safety"
+                    },
+                    {
+                        "start": 953,
+                        "end": 1047,
+                        "label": "Romney heard the same calculation while talking with a small group of Republican colleagues. ."
+                    }
+                ],
+                [
+                    {
+                        "start": 1047,
+                        "end": 1209,
+                        "label": "\n\nEven if there was no credible threat against the legislators with whom Romney spoke, the threat was perceived as credible and it affected their decision-making."
+                    }
+                ],
+                [
+                    {
+                        "start": 1550,
+                        "end": 1767,
+                        "label": "the violent threat from the extremist right did not end after the Capitol was retaken on January 6; indeed, the threat of violence had more effect in the days afterward, swaying the votes of terrified legislators. The"
+                    },
+                    {
+                        "start": 1768,
+                        "end": 1860,
+                        "label": "failure to convict Trump is one of the most consequential decisions in American history. Had"
+                    }
+                ],
+                [
+                    {
+                        "start": 2162,
+                        "end": 2369,
+                        "label": "vast disconnect between Romney's public and private assessments of his party. Behind closed doors, he scathingly indicts the GOP as a proto-authoritarian formation. In public, he only hints at these beliefs."
+                    }
+                ],
+                [
+                    {
+                        "start": 2758,
+                        "end": 2931,
+                        "label": "The problem is that those willing to try to push the party in that 'right' direction keep leaving, often voluntarily or with a not-so-friendly nudge from GOP primary voters."
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 577,
+                        "label": "The book excerpt is a horror movie of GOP cowardice and hypocrisy, delivered with astonishing specificity: We learn of Sen. Mitch McConnell describing Trump as 'an idiot. He doesn't think when he says things.  We meet various Senate Republicans who 'played their parts as Trump loyalists,  in public, yet in private, 'they ridiculed his ignorance, rolled their eyes at his antics, and made incisive observations about his warped, toddlerlike psyche.  Trump briefs a fawning GOP caucus lunch that gives him a standing ovation, then explodes in laughter when he leaves the room.\n"
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "stark contrast between his authentic disdain for the extreme ideologies within his own party in private conversations, versus his careful and cautious language used in public statements,",
+            "profound impact of fear generated by far-right extremism on congressional decision-making processes, specifically in relation to Trump's impeachment trial"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "failure of Republicans to convict Trump as a decision made \"functionally at gunpoint\" due to the perceived threat of violence from the extremist right"
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "highlight_summary_debate": [
+            "decision to stay in the Republican Party as a failure to challenge the extremist right and uphold democratic values",
+            "swayed by perceived threats of violence rather than conviction or principle."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": false,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "Romney's decision not to convict Donald Trump due to fears of potential retribution from extremists as indicative of the broader breakdown within the Republican party",
+            "susceptibility to authoritarianism and inability to stand up against violence-based intimidation"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "highlight_summary_pine": [
+            "Mitt Romney's decision to leave the Republican Party is a testament to his commitment to principle",
+            "willingness to stand up to the party's extremist elements."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": true,
+        "highlight_summary_self_refine": [
+            "failure of Republicans to convict Trump as a result of the perceived violent threat from the extremist right",
+            "swayed their decision-making due to fear for their families' safety",
+            "one of the most consequential decisions in American history."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": false,
+        "in_doc_nin_summary_self_refine_4": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false,
+        "nin_doc_in_summary_self_refine_2": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 81,
+                        "end": 186,
+                        "label": " If you were choosing a leader for any sort of enterprise, Mitt Romney is the kind of man you would pick:"
+                    },
+                    {
+                        "start": 293,
+                        "end": 364,
+                        "label": "Political leadership in America, however, is not just about management."
+                    },
+                    {
+                        "start": 960,
+                        "end": 1017,
+                        "label": "\n\nMitt Romney's first and final belief is in Mitt Romney."
+                    },
+                    {
+                        "start": 1275,
+                        "end": 1340,
+                        "label": "Romney abandoned any pretense of both principle and conservatism,"
+                    }
+                ],
+                [
+                    {
+                        "start": 404,
+                        "end": 497,
+                        "label": "\n\nFor all of Romney's earnestness, he always struck me as a man deeply cynical about politics"
+                    },
+                    {
+                        "start": 625,
+                        "end": 669,
+                        "label": "and utterly lacking in political principles."
+                    },
+                    {
+                        "start": 832,
+                        "end": 914,
+                        "label": "The dual conversion narrative leaves both positions sounding hollow and insincere:"
+                    }
+                ],
+                [
+                    {
+                        "start": 960,
+                        "end": 1017,
+                        "label": "\n\nMitt Romney's first and final belief is in Mitt Romney."
+                    },
+                    {
+                        "start": 1275,
+                        "end": 1339,
+                        "label": "Romney abandoned any pretense of both principle and conservatism"
+                    }
+                ],
+                [
+                    {
+                        "start": 2025,
+                        "end": 2098,
+                        "label": "\n\nRomney has a reported net worth of more than a quarter-billion dollars,"
+                    },
+                    {
+                        "start": 2378,
+                        "end": 2542,
+                        "label": "why on Earth would you choose to squabble with Biden or Trump in the swamp rather than rotate through your multiple properties and dozens of happy family members? ."
+                    }
+                ],
+                [
+                    {
+                        "start": 2663,
+                        "end": 2708,
+                        "label": " Romney is right to quit while he's ahead. In"
+                    },
+                    {
+                        "start": 2736,
+                        "end": 2842,
+                        "label": "Romney has shown respect for an electorate that deserves better than to be governed by decrepit despots so"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 1463,
+                        "end": 1691,
+                        "label": "\n\nIt is why he ran for president of the United States in 2012. It did not matter that Rick Santorum could win half a dozen crucial Rust Belt states where the chairman of Bain Capital would not have a prayer in a general election"
+                    }
+                ],
+                [
+                    {
+                        "start": 1692,
+                        "end": 2023,
+                        "label": "\n\nIt did not matter that he would have to reverse or deny virtually every position he had taken in the previous ten years if he hoped to deceive a Republican electorate, nor that this duplicity would crush his party's chances in November. It did not matter that, through all of this, he had the gall to call his opponents two-faced"
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "Romney's exit demonstrated dignity in acknowledging that the current electoral landscape may prioritize figures like Trump and Biden,",
+            "sparing himself further turmoil within the factionalized party he criticized privately",
+            "weakness and propensity towards authoritarianism"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "nin_doc_in_summary_baseline-reranking_2": true,
+        "highlight_summary_baseline": [
+            "Romney's decision to leave the Republican Party as a necessary step",
+            "exposing the GOP's cowardice and hypocrisy, particularly in the aftermath of the January 6 Capitol riot,",
+            "senators were effectively held at gunpoint by the threat of violence from the extremist right."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "nin_doc_in_summary_baseline_0": true,
+        "nin_doc_in_summary_baseline_1": true,
+        "nin_doc_in_summary_baseline_2": true,
+        "highlight_summary_debate": [
+            "culture of GOP cowardice and hypocrisy, where Republicans privately ridiculed Trump's ignorance but publicly supported him out of fear for their families' safety,",
+            "surrendering to intimidation and contributing to the party's failure to convict him and remove his presidential ambitions."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": true,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "Romney's decision to quit as a dignified move, demonstrating his respect for an electorate that deserves better than to be governed by power-hungry politicians",
+            "hope that his vision for a more populist yet principled Republican Party may ultimately prevail."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "highlight_summary_pine": [
+            "decision to leave the Republican Party is a sign of his dignity and respect for an electorate that deserves better than to be governed by decrepit despots."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": false,
+        "nin_doc_in_summary_pine_0": false,
+        "highlight_summary_self_refine": [
+            "announcement as a testament to the GOP's cowardice and hypocrisy,",
+            "one congressman voting against impeachment due to fear for his family's safety, and another senator describing Trump as \"an idiot\" who \"doesn't think when he says things.\""
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "nin_doc_in_summary_self_refine_0": true,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 192,
+                        "end": 431,
+                        "label": "Public support should come at the state level through funding of state university systems and at the federal level through a simple, means-tested grant that covers, say, 50 percent of the median state's four-year public university tuition."
+                    }
+                ],
+                [
+                    {
+                        "start": 885,
+                        "end": 951,
+                        "label": " colleges should be expected to finance the education they provide"
+                    }
+                ],
+                [
+                    {
+                        "start": 1855,
+                        "end": 1871,
+                        "label": "they're saddling"
+                    },
+                    {
+                        "start": 1891,
+                        "end": 1979,
+                        "label": "vulnerable Dems with indefensible regressive wealth redistribution on an enormous scale."
+                    }
+                ],
+                [
+                    {
+                        "start": 2277,
+                        "end": 2363,
+                        "label": "Congress authorized none of Mr. Biden's loan relief and appropriated no funds for it.\n"
+                    }
+                ],
+                [
+                    {
+                        "start": 2455,
+                        "end": 2565,
+                        "label": "Mr. Biden said in December 2020 it was 'pretty questionable' whether he had authority to cancel debt this way."
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 952,
+                        "end": 1403,
+                        "label": "\n\nPaying a huge bribe to college graduates at a moment when Democrats' political fortunes are looking up is insanely risky, potentially even disastrous. Maybe the bribe works by tilting a few suburban swing voters who were leaning Republican back towards the Dems. But even if it does, that's a net loss for Democrats if it ends up tilting even more furious working-class voters into the GOP's column. Remember, most Americans haven't gone to college."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "Biden's student debt relief plan is a Band-Aid solution that does not address the root cause of rising college costs",
+            "mitigated by requiring institutions to cut costs and improve their financial efficiency."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "Biden's student loan relief plan disproportionately benefits those making less than $75,000 per year",
+            "Band-Aid solution that fails to address the root cause of the issue,",
+            "increasing cost of higher education due to colleges and universities jacking up their prices."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "nin_doc_in_summary_baseline_0": true,
+        "nin_doc_in_summary_baseline_1": true,
+        "nin_doc_in_summary_baseline_2": true,
+        "highlight_summary_debate": [
+            "reasonable measure to help lower-income individuals,",
+            "due to the government's subsidization of colleges and universities leading to inflated tuition costs."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": true,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "Band-Aid solution that unfairly excludes the truly rich",
+            "colleges and universities should be held accountable for their role in inflating prices and should provide debt-free education to students."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "Band-Aid that will collapse",
+            "colleges should be expected to finance the education they provide"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "plan benefits low-income individuals",
+            "the root cause of the student debt crisis lies in government subsidies to colleges, which have led to inflated tuition prices."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 198,
+                        "label": "Ron DeSantis had to counter the perception that his campaign is in free-fall, and he did a good job of explaining his greatest hits as Florida Governor on Covid and fighting progressive prosecutors."
+                    }
+                ],
+                [
+                    {
+                        "start": 872,
+                        "end": 989,
+                        "label": "\n\nIt was Vivek Ramaswamy's night in Milwaukee, but not necessarily in a way that advances his presidential ambitions."
+                    }
+                ],
+                [
+                    {
+                        "start": 1377,
+                        "end": 1426,
+                        "label": "Ramaswamy provided Ron DeSantis with cover. There"
+                    },
+                    {
+                        "start": 1513,
+                        "end": 1586,
+                        "label": "DeSantis is no longer Donald Trump's most viable challenger in the race.\n"
+                    }
+                ],
+                [
+                    {
+                        "start": 1585,
+                        "end": 1671,
+                        "label": "\n\nBut DeSantis polls strongest among Republicans, particularly in the early states. He"
+                    }
+                ],
+                [
+                    {
+                        "start": 1989,
+                        "end": 2100,
+                        "label": "Pence had a strong debate---arguably the strongest of any of the candidates. He presented himself with dignity."
+                    }
+                ],
+                [
+                    {
+                        "start": 2183,
+                        "end": 2424,
+                        "label": "How do you convince the average center-right primary voter that you're a better choice to lead the Republican party into the future? How do you distinguish yourself from the also-rans? How do you displace Trump without taking him on directly"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 429,
+                        "end": 873,
+                        "label": "\n\nVivek Ramaswamy is close to Mr. DeSantis in the polls, and he has the gift of energy and verbal facility. He can sling appealing phrases, and his line that Americans are hungry for purpose will resonate with many voters. But he can also sound like a young man in too much of a hurry, and his rapid-fire one-liners and insults ('I'm the only person on the stage who isn't bought and paid for') give him the air of a supercilious grad student.\n"
+                    }
+                ],
+                []
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "portrays the Republican debate as a contest between Donald Trump and any other candidate,",
+            "other candidates failing to differentiate themselves from Trump and struggling to address issues in a meaningful way",
+            "no one is ready to challenge Trump's dominance"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "in_doc_nin_summary_baseline-reranking_5": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "nin_doc_in_summary_baseline-reranking_2": false,
+        "highlight_summary_baseline": [
+            "Ron DeSantis, failed to effectively differentiate themselves from former President Donald Trump",
+            "focused on criticizing \"wokeness\" and other perceived liberal issues, ultimately failing to showcase a clear alternative to Trump."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "in_doc_nin_summary_baseline_5": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "Republican presidential candidates as failing to distinguish themselves from Donald Trump and each other",
+            "avoiding direct criticism of Trump and engaging in unhelpful and uniform rhetoric on issues"
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "in_doc_nin_summary_debate_5": false,
+        "nin_doc_in_summary_debate_0": true,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "debate highlighted the weakness of candidates other than Donald Trump",
+            "struggling to differentiate themselves from him and failing to address key issues,",
+            "rump to remain a dominant force in the Republican primary."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "highlight_summary_pine": [
+            "debate was a contest between Trump and Anybody Else",
+            "candidates mostly agreeing on issues like climate change, border security, and the decline of the nation"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": false,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "in_doc_nin_summary_pine_5": false,
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": true,
+        "highlight_summary_self_refine": [
+            "debate as a missed opportunity for candidates to differentiate themselves from Donald Trump",
+            "candidates seeming \"too uniform, too preoccupied with 'wokeness' and other far-right inanities\" to challenge Trump's dominance."
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "in_doc_nin_summary_self_refine_5": false,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 4,
+                        "end": 171,
+                        "label": "candidates 'spent much of the debate pretending Trump wasn't even in the race. When candidates did draw seeming contrasts, they often avoided using Trump's name. About"
+                    }
+                ],
+                [
+                    {
+                        "start": 663,
+                        "end": 767,
+                        "label": " The risk for Trump in not showing up was that he wouldn't be able to defend himself. He didn't have to."
+                    }
+                ],
+                [
+                    {
+                        "start": 767,
+                        "end": 909,
+                        "label": "\n\nThe big loser in all of this was DeSantis, who desperately needed to show he was still the clear second-place candidate, and failed to do so"
+                    },
+                    {
+                        "start": 1136,
+                        "end": 1181,
+                        "label": "DeSantis also dodged question after question:"
+                    }
+                ],
+                [
+                    {
+                        "start": 1762,
+                        "end": 1835,
+                        "label": "this is, at the end of the day, a contest between Trump and Anybody Else."
+                    }
+                ],
+                [
+                    {
+                        "start": 2213,
+                        "end": 2305,
+                        "label": "\n\nNearly everyone agreed that climate change was real but we shouldn't do anything about it."
+                    },
+                    {
+                        "start": 2538,
+                        "end": 2578,
+                        "label": "There was precious little actual debate."
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 1339,
+                        "end": 1757,
+                        "label": "\n\nThere were surprises: Nikki Haley laid the blame on Republicans, not Democrats, over spending; Doug Burgum, the first of the field to pull out his pocket Constitution, offered an almost measured answer on abortion, while his stage-mates like DeSantis ranted about so-called 'post-birth' abortion (isn't this just. murder? ); and even the Fox News audience seemed to boo Ramaswamy for calling climate change a 'hoax.\n"
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "debate was dominated by a contest between Trump and his potential challengers,",
+            "candidates failing to differentiate themselves from the former president and struggling to articulate their own policies and positions."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "candidates failing to differentiate themselves from the former president and struggling to articulate their own policies and positions.",
+            "candidates failing to differentiate themselves from Trump and mostly agreeing on right-wing talking points,"
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": false,
+        "in_doc_nin_summary_baseline_4": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "debate as a contest between Donald Trump and the rest of the field",
+            "candidates failing to differentiate themselves from Trump and his ideology."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": false,
+        "in_doc_nin_summary_debate_4": false,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "contest between Donald Trump and \"Anybody Else,",
+            "candidates failing to differentiate themselves from the former president and largely agreeing on conservative talking points."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "Republican candidates in the debate failed to differentiate themselves from each other and from Donald Trump",
+            "mostly agreed on issues such as climate change, border security, and the decline of the nation."
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": false,
+        "in_doc_nin_summary_pine_4": false,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "contest between Donald Trump and any other candidate",
+            "candidates struggling to differentiate themselves from Trump's brand of politics,",
+            "failing to provide meaningful contrasts or policy proposals, with DeSantis and others notably underwhelming."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": false,
+        "in_doc_nin_summary_self_refine_4": false,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false,
+        "nin_doc_in_summary_self_refine_2": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 303,
+                        "end": 464,
+                        "label": "Moreover, Trump's remarks on NATO seem to suggest that Europe must pay the US for protection from Russia, when this is not how the alliance is meant to function."
+                    }
+                ],
+                [
+                    {
+                        "start": 947,
+                        "end": 971,
+                        "label": "The Trump administration"
+                    },
+                    {
+                        "start": 1099,
+                        "end": 1378,
+                        "label": "deserves blame not simply for questioning the defense commitments that hold U.S. alliances together, but also for denigrating democratic norms and procedures, fawning over powerful autocrats, and often treating issues of democracy promotion and human rights as mere distractions."
+                    }
+                ],
+                [
+                    {
+                        "start": 1686,
+                        "end": 1812,
+                        "label": "But Trump's hostility to NATO and the lack of U.S. leadership make the situation in 2019 quite different from past challenges."
+                    }
+                ],
+                [
+                    {
+                        "start": 2120,
+                        "end": 2356,
+                        "label": "Previous presidents have raised the spending issue, though Trump has stood out for the harshness of his rhetoric, including a reported threat at a NATO conference in Brussels last summer to 'go it alone' if the allies didn't pay up. One"
+                    },
+                    {
+                        "start": 2473,
+                        "end": 2512,
+                        "label": "Such aggressive messages can boomerang."
+                    }
+                ],
+                [
+                    {
+                        "start": 3410,
+                        "end": 3464,
+                        "label": "NATO is still the world's strongest military alliance."
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "vital for collective defense against authoritarian powers like Russia and China",
+            "criticizing President Trump's criticism and mishandling of NATO diplomacy, which undermines the alliance's effectiveness and democratic values."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "criticism of NATO as misguided, as it distorts the alliance's purpose and function",
+            "rhetoric has created a hostile environment that undermines the alliance's cohesion and effectiveness in defending against common threats."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": false,
+        "in_doc_nin_summary_baseline_4": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "President Trump's criticism of NATO undermines democratic norms, erodes the alliance's cohesion, and weakens its ability to counter authoritarian powers."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": false,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "Trump's criticism of NATO as misguided and damaging to the alliance, as it distorts the purpose and functioning of the organization and undermines democratic norms and institutions."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "highlight_summary_pine": [
+            "NATO's purpose is to serve the common interest of its member states",
+            "the alliance is a necessary one in an era of rising authoritarianism"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": true,
+        "highlight_summary_self_refine": [
+            "criticism of NATO as misguided and damaging",
+            "undermining democratic norms and prioritizing a flawed \"principled realism.\""
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": false,
+        "in_doc_nin_summary_self_refine_4": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 325,
+                        "end": 456,
+                        "label": " In an era of rising Russian aggression and continuing terrorist threats, NATO continues to be an alliance of paramount importance."
+                    }
+                ],
+                [
+                    {
+                        "start": 456,
+                        "end": 608,
+                        "label": "\n\nNATO's efficacy defending Europe has allowed successive U.S. Administrations to shift their focus elsewhere, lately toward China and domestic concerns"
+                    },
+                    {
+                        "start": 848,
+                        "end": 968,
+                        "label": "NATO is a modest investment in deterrence to prevent a European war that America would have to return to Europe to fight"
+                    }
+                ],
+                [
+                    {
+                        "start": 1055,
+                        "end": 1266,
+                        "label": "Germany, one of the wealthiest countries in Europe, spends just 1. 24 percent of its gross domestic product on defense---in the bottom half of NATO allies. (The U.S. spends 3.5 percent of GDP on its military. )."
+                    },
+                    {
+                        "start": 1619,
+                        "end": 1674,
+                        "label": "NATO needs some tough love, and Trump is delivering it."
+                    }
+                ],
+                [
+                    {
+                        "start": 1781,
+                        "end": 1941,
+                        "label": "that the actions of the current Hungarian government, both at home and in their relations with Ukraine, run counter to their longstanding commitment to NATO and"
+                    }
+                ],
+                [
+                    {
+                        "start": 2341,
+                        "end": 2462,
+                        "label": "increasingly, Turkey is no friend to America or the West. In fact, Turkey would not be invited to join the alliance today"
+                    },
+                    {
+                        "start": 2623,
+                        "end": 2688,
+                        "label": "the allies should begin considering how to ease Turkey out. There"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 2963,
+                        "end": 3370,
+                        "label": "\n\nMinority view: 'With the Soviet Union a wasted corpse twenty-seven years after its death, what is NATO's purpose? Is a revanchist but nonetheless economically stagnant Russia really interested (let alone capable) of invading the Baltics? And with so many other priorities on its desk, is it time for the United States to at the very least transfer more security responsibility for Europe to the Europeans?"
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "NATO remains a crucial military alliance essential for countering emerging threats from rival powers such as Russia and authoritarians from regions across the globe,",
+            "flaws within individual member nation governance systems which may call for improved performance regarding increased contributions to funding for further strength"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "necessary alliance",
+            "requires a re-balancing of defense spending among member states, with some countries, such as Germany, not contributing enough to their common defense."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "necessary yet imperfect alliance",
+            "demands increased defense spending and effective leadership from its member states",
+            "criticizes President Trump's rhetoric for being counterproductive to achieving these goals."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "nin_doc_in_summary_debate_2": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "criticism of NATO's funding and defense spending has been misinterpreted",
+            "europe's failure to meet its defense commitments undermines the alliance's purpose",
+            "alliance's continued relevance in the face of global threats from Russia and China."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "highlight_summary_pine": [
+            "necessary alliance",
+            "relevant in the face of rising Russian aggression and authoritarian challenges from China."
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "importance of collective defense spending and NATO's continued relevance",
+            "President Trump's harsh rhetoric and pressure on other member states, which undermines the alliance's original purpose and creates a transactional relationship."
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 38,
+                        "label": "Biden is right to call Putin a killer."
+                    },
+                    {
+                        "start": 849,
+                        "end": 992,
+                        "label": "If Biden wants to send a signal to Moscow that he's taking a tougher line, there's a simple way to do it: Declassify Kara-Murza's test results."
+                    }
+                ],
+                [
+                    {
+                        "start": 1374,
+                        "end": 1531,
+                        "label": "was Biden who told Dmitry Medvedev, the lackey half of the Putin tandemocracy, that Russia's accession to the WTO was 'the most important item on our agenda."
+                    }
+                ],
+                [
+                    {
+                        "start": 1856,
+                        "end": 2018,
+                        "label": "\n\nPutin's gangsterism has been ignored by administrations of both parties, starting with George W. Bush and most definitely including the Barack Obama/Biden terms"
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "Biden's labeling of Putin as a 'killer' is truthful and a necessary change in tone from the previous administration,",
+            "shift away from the Obama-Biden era's lenient approach towards Russia and towards a more forceful stance against its aggression."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "Biden's labeling of Putin as a killer as a truthful statement, supported by evidence",
+            "shift in tone in US-Russia relations that may lead to improved relations if Russia stops its malicious activities."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "Biden's characterization of Putin as a \"killer\" as a truthful effort",
+            "sharp contrast with his predecessor and to mark a shift towards a tougher stance on Russia,"
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": false,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "labeling of Putin as a \"killer\" as a truthful statement, acknowledging Russia's targeted attacks on opposition figures and its invasion of Crimea",
+            "necessary shift in tone in US-Russia relations after Trump's more conciliatory approach."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "The Biden administration's approach to Russia is a departure from the Obama administration's'reset' policy,",
+            "he Biden administration is taking a tougher stance on Russia, with President Biden calling Putin a 'killer' and announcing new sanctions against Russian officials.",
+            "The Biden administration's approach is also seen as a way to push back against Russia's interference in U.S. elections and other aggressive"
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": false,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "nin_doc_in_summary_pine_2": true,
+        "highlight_summary_self_refine": [
+            "labeling of Putin as a \"killer\" as a truthful statement",
+            "shift in US-Russia relations."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": true
+    }
+]

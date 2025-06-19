@@ -1,0 +1,17 @@
+backbone:
+  model: hf:meta-llama/Llama-3.1-8B-Instruct
+generation:
+  method: rerank
+  num_responses_per_type: 12
+  types:
+  - generation_type: standard
+    temperature: 1
+  metric:
+    list:
+    - name: llm_coverage
+      config:
+        prompt_model: hf:Qwen/Qwen2.5-14B-Instruct
+    - name: llm_faithfulness
+      config:
+        prompt_model: hf:Qwen/Qwen2.5-14B-Instruct
+    combine_method: average

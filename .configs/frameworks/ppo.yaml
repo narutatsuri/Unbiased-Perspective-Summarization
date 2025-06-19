@@ -1,0 +1,48 @@
+backbone: 
+  model: hf:meta-llama/Llama-3.1-8B-Instruct
+  params:
+    use_flash_attention: false
+    augments:
+      lora:
+        use: false # PPO does not yet support PEFT
+        alpha: 16
+        bias: none
+        dropout: 0.1
+        r: 8
+        target_modules:
+        - q_proj
+        - v_proj
+ppo:
+  batch_size: 4
+  config: .config/frameworks/ppo.yaml
+  data_dir: data/theflipside/config=multi-split=train.json
+  epochs: 1
+  eval_interval: 50
+  generations:
+    num_responses_per_type: 3
+    types:
+      - generation_type: nucleus
+        p: 0.9
+      - generation_type: top_k
+        k: 100
+      - generation_type: hybrid
+        p: 0.9
+        temperature: 1.2
+        repetition_penalty: 1.2
+        no_repeat_ngram_size: 3
+  learning_rate:
+  log_interval: 10
+  metric:
+    list:
+     - name: llm_coverage
+       config:
+         prompt_model: hf:Qwen/Qwen2.5-14B-Instruct
+     - name: llm_faithfulness
+       config:
+         prompt_model: hf:Qwen/Qwen2.5-14B-Instruct
+    combine_method: average
+  num_iterations: 10
+  save_data: true
+  save_dir: "[BASE FOLDER TO STORE DPO WEIGHTS]"
+  seed: 42
+  use_wandb: true

@@ -1,0 +1,56 @@
+prompts:
+  excerpt_to_evidence: |
+    [TASK]
+    You are given an article that makes an argument related to the provided topic. An excerpt from the document highlights the main key argument that the author of the article is trying to assert. Please write a concise, short, one-sentence paraphrase (as short as possible) that reflects the argument implied or present in the provided excerpt. **Your paraphrase should begin with "The article argues"**.
+
+    ---
+
+    Topic: {{topic}}
+
+    Article: {{article}}
+
+    Excerpt: {{excerpt}}
+
+    ---
+
+    One-Line Argument Summary starting with "The article argues":
+
+  adversarial_evidence: |
+    [TASK]
+    You are given one main argument from a political news article (either left-leaning or right-leaning). **Rewrite the argument so that the argument is completely reversed or semantically opposite.** If the original argument supports or praises a policy/idea/group, the reversed version should criticize or oppose it, and vice versa. Only return the reversed argument itself, with no extra commentary or analysis.
+
+    [EXAMPLES]
+    1.
+    ORIGINAL: The article argues that stricter immigration laws help protect domestic jobs and strengthen national identity.
+    REVERSED: The article argues that relaxed immigration laws create more job opportunities and enhance cultural diversity.
+
+    2.
+    ORIGINAL: The article insists that climate change is primarily caused by human activity and demands immediate government intervention.
+    REVERSED: The article insists that human activity has minimal impact on climate change and calls for minimal government involvement.
+
+    3.
+    ORIGINAL: The article advocates for universal healthcare, stating it ensures equitable medical access for every citizen.
+    REVERSED: The article opposes universal healthcare, stating it undermines fair distribution of medical resources and burdens the system.
+
+    [INFERENCE]
+    ORIGINAL: {}
+    REVERSED: 
+  evidence_to_summary: | 
+    [TASK]
+    Below is a list of key points from a multi-document text. Your job is to produce a single short and concise one-sentence summary that incorporates every point without omitting any information. Begin your summary with the phrase "The article."
+
+    [RULES]
+     - Only provide the final summary—no additional commentary or explanations.
+     - Do not simply copy and paste; paraphrase the points but perfectly preserve their content.
+     - Keep the summary as succinct as possible. 
+     - Your summary should only be one sentence.
+
+    [KEY POINTS]
+    {}
+  zero_shot: | 
+    [TASK]
+    Produce a short, single sentence summary of given the following multi-document text. Begin your summary with "The article".
+
+    [RULES]
+    - Ensure your output is as short as possible. 
+    - Only return the combined summary and nothing else.

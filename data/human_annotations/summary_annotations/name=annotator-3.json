@@ -1,0 +1,1646 @@
+[
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 105,
+                        "label": "President Trump has a clear path to 270 electoral votes and he's busy earning each and every one of them."
+                    }
+                ],
+                [
+                    {
+                        "start": 2339,
+                        "end": 2348,
+                        "label": "campaigns"
+                    },
+                    {
+                        "start": 2357,
+                        "end": 2458,
+                        "label": "They have to ask voters to participate, and keep following up, with effective community-based efforts"
+                    }
+                ],
+                [
+                    {
+                        "start": 3944,
+                        "end": 4149,
+                        "label": "They are still unlikely to capture the vast enthusiasm gap between Trump and Biden voters and fail to pick up the 'shy Trump voters, ---people afraid to admit they back Trump---who may be shyer than ever. "
+                    }
+                ],
+                [
+                    {
+                        "start": 4860,
+                        "end": 4947,
+                        "label": "Trump can't win the electoral college if Biden wins the national popular vote this time"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 1065,
+                        "end": 2305,
+                        "label": "\n\nFlorida went for Trump in '16 by a mere 1. 2 points. He's been trailing in the polls there, but Trump's popularity with Hispanic voters has been surging, so look for Florida to stay---barely---red. Minnesota, meanwhile, went for Clinton in 2016 by less than two points, and a long summer of urban violence in the wake of George Floyd's death at the hands of Minneapolis police may lead to a 2020 law-and-order win here for Trump. The same is true of neighboring Wisconsin, where violence also flared in Kenosha. 'Early voting generally favors the Democrats, but in several states Trump needs to win, including Florida and North Carolina, Republicans are closing the gap. The good news for Trump is that if he can win Nevada and hold on to Florida, North Carolina, Iowa, Arizona and Georgia, he can afford to lose Pennsylvania, Michigan and Minnesota and still cross the finish line with at least 275 electoral votes. In the weird year of 2020, that's as good as a landslide. 'Michael Walsh, New York PostIn Florida, 'Democrats need to run up the score in Miami-Dade to have any hope of winning the state's 29 Electoral College votes, and so far the Biden campaign's turnout isn't even keeping up with Hillary Clinton's failed 2016 effort."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "President Biden is ahead in key battleground states",
+            "his higher net favorable ratings compared to Hillary Clinton in these states, particularly among independents, make it difficult for President Trump to win the electoral college"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "Biden's lead in the polls, his strong favorability ratings, and his ability to raise more money than Trump make it increasingly likely that he will win the election"
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "nin_doc_in_summary_baseline_0": true,
+        "highlight_summary_debate": [
+            "President Biden's strong polling numbers, large margins in key states, and high favorability ratings indicate a significant advantage for the Democratic candidate"
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "nin_doc_in_summary_debate_0": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "Biden's strong lead in the polls, particularly in key states such as Pennsylvania, Wisconsin, and Florida, makes it unlikely for Trump to win the election",
+            "Trump would need a significant polling error to overcome his current deficit."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "highlight_summary_pine": [
+            "President Trump has a clear path to 270 electoral votes and is busy earning each and every one of them"
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "nin_doc_in_summary_pine_0": true,
+        "highlight_summary_self_refine": [
+            "Biden's high net favorable ratings, perceived moderation, and strong fundraising make him a strong candidate, potentially leading to a Biden win"
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "nin_doc_in_summary_self_refine_0": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 153,
+                        "end": 269,
+                        "label": "Biden were to win just the states where he led by 5 points or more, he'd still get over the 270 electoral vote mark."
+                    }
+                ],
+                [
+                    {
+                        "start": 530,
+                        "end": 631,
+                        "label": "Biden would get more than 300 electoral votes if the 2016 errors repeated themselves exactly in 2020."
+                    }
+                ],
+                [
+                    {
+                        "start": 930,
+                        "end": 1028,
+                        "label": "In order to win, Trump would need to benefit from a much bigger polling error than four years ago."
+                    }
+                ],
+                [
+                    {
+                        "start": 1690,
+                        "end": 1808,
+                        "label": "The last voters to make up their minds are independents, and they're way more open to Biden than they were to Clinton."
+                    }
+                ],
+                [
+                    {
+                        "start": 2031,
+                        "end": 2199,
+                        "label": "\n\nGeneral election voters still perceive Biden as relatively moderate, and historically, more moderate presidential candidates generally do better in general elections."
+                    }
+                ],
+                [
+                    {
+                        "start": 2570,
+                        "end": 2707,
+                        "label": "Despite struggling with online donations in the primary, Biden is now raising 1, 000 times as much online per day as he was last year. He"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 3023,
+                        "end": 5054,
+                        "label": "\n\nTrump's relentless campaigning across the Rust Belt has masked the fact that many of his most powerful advisersincluding Jared Kushner, Treasury Secretary Steven Mnuchin, and his former top economic adviser Gary Cohnare closely aligned with the free-trade ethos of Wall Street. The five hundred thousand pre-coronavirus manufacturing jobs that the Trump Administration is touting, Robert E. Scott, a senior economist at the Economic Policy Institute noted, is the same relatively small number that were created during the last three years of Obama's term. 'Bernie Porn, the president of EPIC-MRA, one of Michigan's oldest pollsters, told me that a week before the 2016 election 'Clinton was leading among union members by only forty-six to thirty-eight per cent, with eight per cent for third-party candidates and thirteen per cent undecidedmost of which went to Trump.  In EPIC-MRA's most recent poll, Biden is leading among union members, seventy-one to twenty-three per cent. 'Dan Kaufman, New YorkerRegarding voter turnout, 'Texans have already cast more ballots in the 2020 election than they did in 2016. the state's urban and suburban counties have been the primary drivers of the turnout spike, with Harris County (home to Houston) mounting an especially impressive showing. Nearly 1. 4 million people have already cast ballots in Harris, setting a new record for the county. 'In 2018, a 27-year-old Colombian American immigrant named Lina Hidalgo narrowly defeated an 11-year Republican incumbent to become Harris's 'county judge,  its top elective position. In 2016, Harris spent roughly $4 million on administering its elections. Under Hidalgo's leadership, the county pumped that budget up to $31 million: Enough money to triple the number of early voting sites in the county, and keep some locations open 24 hours during the final days of early voting. no matter how the final vote tally shakes out, the existing data already offers Democrats one vital lesson: Obscure local elections can have enormous consequences."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left suggests that Joe Biden is well-positioned to win the election, leading in key states and polls",
+            "and benefiting from lower unfavorable ratings compared to Hillary Clinton in 2016"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "in_doc_nin_summary_baseline-reranking_5": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "The Left views Biden as having a strong path to the presidency, with significant leads in key battleground states, a high net favorable rating among voters, and strong fundraising and voter turnout numbers",
+            "he is well-positioned to win the Electoral College and the popular vote"
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "in_doc_nin_summary_baseline_5": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "The Left views Biden as having a strong path to the presidency",
+            "leading in key battleground states and traditionally Republican strongholds due to his higher net favorable ratings and improved voter turnout estimates"
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "in_doc_nin_summary_debate_5": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Left believes that Joe Biden's lead in key states, combined with his improved favorability ratings among independents and union members, positions him for a strong general election victory",
+            "potentially surpassing 300 electoral votes"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "The Left argues that the Biden campaign's turnout efforts are failing, particularly in Florida",
+            "the campaign's reliance on an air war may not be enough to win in a pandemic"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "in_doc_nin_summary_pine_5": true,
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": true,
+        "highlight_summary_self_refine": [
+            "The Left believes Biden is leading in key states, including those Hillary Clinton won in 2016 by more than 5 points",
+            "with a strong national lead and favorable ratings exceeding Clinton's by significant margins, particularly among independents",
+            "is outraising Trump",
+            "suggesting a strong chance of winning the electoral college"
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": false,
+        "in_doc_nin_summary_self_refine_4": true,
+        "in_doc_nin_summary_self_refine_5": false,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false,
+        "nin_doc_in_summary_self_refine_2": false,
+        "nin_doc_in_summary_self_refine_3": true
+    },
+    {
+        "highlight_document": [
+            [
+                [],
+                [
+                    {
+                        "start": 72,
+                        "end": 145,
+                        "label": "it is crucial they focus on the fundamental roles of Speaker of the House"
+                    }
+                ],
+                [
+                    {
+                        "start": 637,
+                        "end": 709,
+                        "label": "Her speakership during the Obama presidency left a legacy of achievement"
+                    }
+                ],
+                [
+                    {
+                        "start": 1962,
+                        "end": 2102,
+                        "label": "Ousting Pelosi would be a blow to ordinary women and LGBTQ people whose concerns will lose priority status if the anti-Pelosi wing prevails."
+                    }
+                ],
+                [
+                    {
+                        "start": 2216,
+                        "end": 2346,
+                        "label": "Members old and new need to air their grievances, hash out their differences and set a course for how the team can better function"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 1074,
+                        "end": 1314,
+                        "label": "\n\nThe anti-Pelosi movement is a mashup of opportunism on the part of a few wannabe leaders, such as Moulton and Ryan, combined with a dose of ageism, sexism and defensive tactical moves by a few Democrats who won in conservative districts. "
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left believes that keeping Nancy Pelosi as Speaker due to her vast experience and proven ability to effectively navigate Congress towards Democratic achievements and maintain party unity is vital",
+            "amidst any challenges faced or proposed replacements who do not offer comparable qualifications or stronger alliances, especially regarding marginalized groups interests"
+        ],
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "The Left emphasizes that Nancy Pelosi's experience, legislative skill, and ability to pass significant bills... make her the ideal choice to lead the House Democrats"
+        ],
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "highlight_summary_debate": [
+            "The Left emphasizes the importance of retaining Nancy Pelosi as Speaker of the House due to her extensive experience, legislative skill, and ability to pass key progressive policies",
+            "with her being a crucial figure in landmark legislative successes and there not being a clear alternative"
+        ],
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Left emphasizes that retaining Nancy Pelosi as Speaker of The House is crucial due to her extensive experience, successful legislation passing track record, ability to effectively oversee the Democratic Party, and importance in maintaining progress on key issues like LGBTQ rights and access to affordable healthcare"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "highlight_summary_pine": [
+            "The Left argues that Nancy Pelosi is a highly effective legislator who has consistently been in the top third of most liberal Democrats in the House",
+            "ousting her would be a blow to ordinary women and LGBTQ people whose concerns will lose priority status if the anti-Pelosi wing prevails"
+        ],
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": false,
+        "in_doc_nin_summary_pine_3": false,
+        "in_doc_nin_summary_pine_4": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "The Left believes Nancy Pelosi's experience and effectiveness make her the best choice for Speaker",
+            "despite potential risks to LGBTQ rights and ordinary women's concerns"
+        ],
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 178,
+                        "end": 295,
+                        "label": "But it makes zero sense for a party trying to brand itself as an agent of change and a better approach to government."
+                    }
+                ],
+                [
+                    {
+                        "start": 502,
+                        "end": 542,
+                        "label": " She's less popular than President Trump"
+                    }
+                ],
+                [
+                    {
+                        "start": 1308,
+                        "end": 1530,
+                        "label": "Democrats are better off booting her, installing a younger team, and letting them use these next two years as low-stakes on-the-job training in the hope/expectation that they'll have total control of government after 2020."
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right perspective emphasizes Nancy Pelosi's extensive experience and legislative skills, highlighting her ability to pass bills and steer the House through challenging times",
+            "making her a crucial leader for Democrats"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "The Right emphasizes the importance of Nancy Pelosi's experience and legislative skill, highlighting her ability to pass bills and steer the House",
+            "argues that her leadership is crucial for the party's success"
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "nin_doc_in_summary_baseline_0": true,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "The Right views Nancy Pelosi as a crucial and effective leader who has passed significant legislation",
+            "steers the House through experienced oversight",
+            "should remain Speaker due to her toughness, focus, and legislative skill"
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "nin_doc_in_summary_debate_0": true,
+        "nin_doc_in_summary_debate_1": true,
+        "nin_doc_in_summary_debate_2": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right believes that Nancy Pelosi is the ideal choice for Speaker of the House due to her extensive experience, legislative skill, and ability to pass bills",
+            "which would be crucial for leading the party through the next two years"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "highlight_summary_pine": [
+            "The Right argues that Nancy Pelosi is a highly effective legislator who has a wealth of experience and success",
+            "she should be retained as Speaker of the House"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": true,
+        "highlight_summary_self_refine": [
+            "The Right perspective emphasizes Nancy Pelosi's experience, legislative skill, and ability to pass bills",
+            "dismissing the anti-Pelosi movement as driven by opportunism, ageism, sexism, and bias"
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "nin_doc_in_summary_self_refine_0": true,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 903,
+                        "end": 971,
+                        "label": "the search on Mar-a-Lago was disproportionate to the likely offense."
+                    }
+                ],
+                [
+                    {
+                        "start": 971,
+                        "end": 1054,
+                        "label": "\n\nThe specter of the FBI investigation of Hillary Clinton haunts these proceedings."
+                    },
+                    {
+                        "start": 1813,
+                        "end": 1922,
+                        "label": " If that's the prudential standard that was applied to Clinton, the same standard should be applied to Trump."
+                    }
+                ],
+                [
+                    {
+                        "start": 1922,
+                        "end": 2107,
+                        "label": "\n\nTrump's intentnot so much what he did with classified documents, but what he intended to happen based on his actionswill decide his innocence or guilt if the case ever comes to court."
+                    }
+                ],
+                [
+                    {
+                        "start": 2632,
+                        "end": 2755,
+                        "label": "It is thus unlikely, based on what we know at present, that Trump would go to jail for storing the documents in Mar-a-Lago."
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 425,
+                        "label": "It's possible the redactions in the 38-page document release contain some undisclosed bombshell. But given the contours of what the affidavit and attachments reveal, this really does seem to boil down to a fight over the handling of classified documents. As always with Mr. Trump, he seems to have been his own worst enemy in this dispute. He and his staff appear to have been sloppy, even cavalier, in storing the documents."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right perspective argues that the classified documents taken by Trump posed a significant risk to national security",
+            "Trump's possession of them without authorization is a clear offense that warrants investigation and potential prosecution"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "The Right perspective suggests that the handling of classified documents at Mar-a-Lago poses a significant risk to national security",
+            "Trump's possession of them without proper authorization could jeopardize US intelligence gathering and put lives at risk"
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "nin_doc_in_summary_baseline_0": true,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "The Right perspective views Trump's possession of top-secret classified documents as a serious threat to national security"
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "nin_doc_in_summary_debate_0": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right perspective emphasizes that the evidence indicates Trump's possession of top-secret documents posed a clear risk to national security",
+            "he may be guilty of possessing and mishandling classified information, even if his intent is unclear"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "highlight_summary_pine": [
+            "The Right argues that the search of Mar-a-Lago was disproportionate to the likely offense",
+            "the government could have gone to a district court and sought an order for the proper handling and storage of documents"
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "The Right perspective argues that Trump's unauthorized possession of top-secret documents... poses a serious risk to national security",
+            "his potential defense is unlikely to succeed"
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "nin_doc_in_summary_self_refine_0": true,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 220,
+                        "end": 258,
+                        "label": "Should information about those sources"
+                    },
+                    {
+                        "start": 314,
+                        "end": 466,
+                        "label": "get into unauthorized hands, not only could it jeopardize US intelligence gathering, but it puts the lives of people who spy on behalf of the US at risk"
+                    }
+                ],
+                [
+                    {
+                        "start": 604,
+                        "end": 705,
+                        "label": "Those levels protect what is rightly described as the crown jewel of the national security community."
+                    }
+                ],
+                [
+                    {
+                        "start": 705,
+                        "end": 826,
+                        "label": "\n\nThese documents belong to the government, and their having been taken away posed a clear risk to our national security."
+                    }
+                ],
+                [
+                    {
+                        "start": 1436,
+                        "end": 1550,
+                        "label": "If you take Top Secret classified documents from a government facility and store them at your home, you're guilty."
+                    }
+                ],
+                [
+                    {
+                        "start": 1550,
+                        "end": 1624,
+                        "label": "\n\nThe only viable defense Trump has is to point the finger at someone else"
+                    }
+                ],
+                [
+                    {
+                        "start": 2144,
+                        "end": 2219,
+                        "label": "while a president can declassify documents, there is a process for doing so"
+                    }
+                ]
+            ],
+            [
+                []
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left believes that former President Trump potentially put U.S. intelligence gathering and individuals working under cover at risk when he took top-secret documents without authorization from Mar-A-Lago",
+            "posing a threat to national security despite his claims that the documents were declassified"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "in_doc_nin_summary_baseline-reranking_5": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "The Left believes that the release of the redacted affidavit provides further clarity on why Attorney General Merrick Garland took the extraordinary step of approving the search of certain locations at Mar-a-Lago",
+            "citing the high level of security and the risk to national security posed by the unauthorized possession of top-secret information."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "in_doc_nin_summary_baseline_5": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "The Left views the unauthorized possession of classified documents by former President Trump as a serious national security risk that jeopardizes intelligence gathering",
+            "puts lives at risk if the information falls into the wrong hands"
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "in_doc_nin_summary_debate_5": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Left believes that Donald Trump knowingly possessed and stored top-secret classified documents belonging to the U.S. government without authorization at Mar-A-Lago",
+            "posing significant risks to national security, putting sources and spies under threat, and violating the law regardless of any potential defenses he may attempt"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "The Left argues that the search of Mar-a-Lago was justified because the documents in question contained top-secret information that posed a clear risk to national security",
+            "Trump's intent in taking and storing the documents is the key to determining his guilt or innocence"
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": false,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "in_doc_nin_summary_pine_5": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": true,
+        "highlight_summary_self_refine": [
+            "The Left views Trump's unauthorized possession of top-secret documents as a clear breach of security protocols",
+            "his actions putting lives at risk and making it unlikely for him to successfully defend himself by pointing the finger at others"
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": false,
+        "in_doc_nin_summary_self_refine_5": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 398,
+                        "end": 459,
+                        "label": "Barr is plainly setting up straw men just to knock them down."
+                    }
+                ],
+                [
+                    {
+                        "start": 459,
+                        "end": 720,
+                        "label": "\n\nDuring the hearing, he 'criticized former FBI Director James Comey for his decision, mere weeks before the 2016 election, to publicly criticize Hillary Clinton when announcing the decision to not prosecute her over her email security while secretary of state."
+                    }
+                ],
+                [
+                    {
+                        "start": 1461,
+                        "end": 1596,
+                        "label": "But Barr is someone who is proudly and in a highly traditional way presenting himself as a mainstream, experienced, Republican official"
+                    }
+                ],
+                [
+                    {
+                        "start": 2183,
+                        "end": 2297,
+                        "label": "he came across as highly qualified and committed to the traditions, procedures and mores of the Justice Department"
+                    }
+                ],
+                [
+                    {
+                        "start": 1598,
+                        "end": 1672,
+                        "label": "Expect Barr to defend the president's legal prerogatives aggressively. But"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 973,
+                        "end": 1328,
+                        "label": "\n\nHe also 'claimed not to know what the emoluments clause is. but the emoluments clause---and litigation around it---has become a key flashpoint in the larger debate over Trump's financial conflicts of interest and lack of disclosure about his finances. Under the circumstances, the safest path for Barr was probably to say nothing---which is what he did."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left views Barr as setting up straw men and making uninformed opinions, raising questions about how much information he'll disclose about the Russia investigation",
+            "expect him to defend Trump's legal prerogatives aggressively but potentially act accordingly if evidence of wrongdoing is presented"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "The Left views Barr as a conservative Republican who, despite his reassuring message about upholding the rule of law, is expected to defend the president's legal prerogatives aggressively",
+            "may not disclose sufficient information about the Russia investigation"
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": false,
+        "in_doc_nin_summary_baseline_4": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "The Left views Barr as having likely set up a defense for President Trump based on assumptions about the Russia investigation and having presented himself as a conservative and experienced Republican official"
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": false,
+        "nin_doc_in_summary_debate_0": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Left views Barr as a conservative Republican who, despite his reassurances of upholding the rule of law, is likely to defend Trump's legal prerogatives aggressively",
+            "may not disclose sufficient information about the Russia investigation"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "Left:Right:"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "nin_doc_in_summary_pine_0": true,
+        "highlight_summary_self_refine": [
+            "The Left views William Barr as a conservative Republican who may prioritize defending President Trump's interests over the rule of law"
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "nin_doc_in_summary_self_refine_0": true
+    },
+    {
+        "highlight_document": [
+            [
+                [],
+                [
+                    {
+                        "start": 193,
+                        "end": 417,
+                        "label": "President Trump has sought no assurances, promises, or commitments from me of any kind, either expressed or implied, and I have not given him any, other than that I would run the department with professionalism and integrity"
+                    }
+                ],
+                [
+                    {
+                        "start": 1182,
+                        "end": 1350,
+                        "label": "it is imperative to the health of our system and to our national cohesion that any claim of wrongdoing is solidly based on evidence of a real crimenot a debatable one. "
+                    }
+                ],
+                [
+                    {
+                        "start": 637,
+                        "end": 803,
+                        "label": "Barr's even-handedness and straight-arrow approach will give Senate Democrats few opportunities to launch any effective attacks that will paint Barr as a Trump toady."
+                    }
+                ],
+                [
+                    {
+                        "start": 1350,
+                        "end": 1494,
+                        "label": "\n\nBarr 'not only survived his eight-hour Senate confirmation hearing on Tuesday but left it with a strong chance of picking up Democratic votes."
+                    }
+                ],
+                [
+                    {
+                        "start": 1918,
+                        "end": 2119,
+                        "label": "Barr is the right man to clean up the political gamesmanship that corrupted the upper echelons of the Justice Department and FBI under the previous administration and should be confirmed without delay."
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right views William Barr as a qualified and experienced mainstream Republican official who will likely defend the president's legal prerogatives aggressively",
+            "but will also act accordingly if presented with definitive evidence of wrongdoing"
+        ],
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "in_doc_nin_summary_baseline-reranking_5": true,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "The Right views William Barr as a mainstream, experienced, Republican official who will defend the president's legal prerogatives aggressively while also upholding the rule of law",
+            "potentially taking action if evidence of wrongdoing is presented"
+        ],
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "in_doc_nin_summary_baseline_5": true,
+        "nin_doc_in_summary_baseline_0": true,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "The Right views William Barr as a highly qualified, mainstream, and experienced Republican official who is committed to upholding the rule of law",
+            "while also defending the president's legal prerogatives"
+        ],
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "in_doc_nin_summary_debate_5": false,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right views William Barr as a qualified and experienced mainstream Republican official who will aggressively defend the president's legal prerogatives",
+            "will also uphold the rule of law and act accordingly if evidence of wrongdoing is presented"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "The Right argues that William Barr is a highly qualified and experienced official who will run the Justice Department with professionalism and integrity",
+            "will defend the president's legal prerogatives aggressively",
+            "but also listen and act if Mueller's report definitively shows Trump's wrongdoing"
+        ],
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "in_doc_nin_summary_pine_5": false,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": true,
+        "nin_doc_in_summary_pine_2": false,
+        "highlight_summary_self_refine": [
+            "The Right views William Barr as a qualified, mainstream Republican official who upholds the rule of law",
+            "and defends the president's legal prerogatives"
+        ],
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "in_doc_nin_summary_self_refine_5": false,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 224,
+                        "label": "If Beijing had reported the true size of the outbreak there, public-health experts would've been sounding much louder alarms at the start---and the rest of the world would have begun making much greater preparations, sooner."
+                    }
+                ],
+                [
+                    {
+                        "start": 795,
+                        "end": 910,
+                        "label": "much of the current data about coronavirus is largely worthless because most of it comes from China's cooked books."
+                    }
+                ],
+                [
+                    {
+                        "start": 2189,
+                        "end": 2268,
+                        "label": " Once this pandemic is under control, WHO leadership should be held to account."
+                    }
+                ],
+                [
+                    {
+                        "start": 2328,
+                        "end": 2440,
+                        "label": "Maintaining current levels of U. S. contributions should depend on whether the WHO can reclaim its independence."
+                    }
+                ],
+                [
+                    {
+                        "start": 2440,
+                        "end": 2635,
+                        "label": "\n\nThe United States---the country now most affected by COVID-19---must demand China make institutional changes in their domestic food safety policies to help eliminate the threat of pandemic. How"
+                    }
+                ],
+                [
+                    {
+                        "start": 3683,
+                        "end": 3817,
+                        "label": "We need to prioritize economic independence as a permanent national security goal, not just a temporary solution to supply disruption."
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right perspective emphasizes that the US and the world should be cautious of China's intentions and actions, particularly its propaganda efforts",
+            "US should prioritize economic independence and not rely on China for aid or information",
+            "also acknowledging that the US has made mistakes in its response to the pandemic."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "in_doc_nin_summary_baseline-reranking_5": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "nin_doc_in_summary_baseline-reranking_2": true,
+        "highlight_summary_baseline": [
+            "The Right suggests that the United States should not completely decouple from China on public-health matters",
+            "rather demands institutional changes in China's domestic food safety policies",
+            "calls for greater economic independence from China"
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": false,
+        "in_doc_nin_summary_baseline_5": false,
+        "nin_doc_in_summary_baseline_0": true,
+        "nin_doc_in_summary_baseline_1": false,
+        "nin_doc_in_summary_baseline_2": false,
+        "highlight_summary_debate": [
+            "The Right views China's actions as deceitful and propaganda-driven",
+            "acknowledges that both the US and China have mishandled the pandemic, with the US's decoupling from China on public health matters and the US's bumbling response to the pandemic exacerbating the crisis"
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "in_doc_nin_summary_debate_5": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right emphasizes that while China failed catastrophically during the COVID-9 crisis through its aggressive disinformation campaign and inadequate initial response",
+            "the sudden shift towards dependency on China-led relief efforts actually highlights broader risks inherent in the interconnection between nations, necessitating reconsideration of international relationships and prioritization of economic sovereignty"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "The Right argues that the United States should distance itself from China and prioritize economic independence as a permanent national security goal"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "in_doc_nin_summary_pine_5": false,
+        "nin_doc_in_summary_pine_0": false,
+        "highlight_summary_self_refine": [
+            "The Right believes that China's disastrous cover-up and propaganda efforts have been matched by the US's own bumbling response to the crisis"
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "in_doc_nin_summary_self_refine_5": true,
+        "nin_doc_in_summary_self_refine_0": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 650,
+                        "end": 765,
+                        "label": "Countries around the world are suddenly waking up to the real dangers of depending on China for aid or information."
+                    }
+                ],
+                [
+                    {
+                        "start": 765,
+                        "end": 919,
+                        "label": "\n\nAt the same time, 'U. S. -Chinese collaboration against infectious disease isn't a globalist fantasy. It has proved immensely effective in the past. And"
+                    }
+                ],
+                [
+                    {
+                        "start": 1297,
+                        "end": 1401,
+                        "label": "To be sure, Beijing responded to the outbreak with a disastrous cover-up, followed by a harsh quarantine"
+                    },
+                    {
+                        "start": 1479,
+                        "end": 1799,
+                        "label": "Nonetheless, academics who study U. S. -Chinese cooperation on public health told me that had experts from the CDC and the National Institutes of Health maintained close contact with their Chinese counterparts, those informal channels would have given the United States much better information in the virus's early days."
+                    }
+                ],
+                [
+                    {
+                        "start": 1799,
+                        "end": 1878,
+                        "label": "\n\nThe reality is that neither side has acquitted itself well during the crisis."
+                    },
+                    {
+                        "start": 1879,
+                        "end": 2108,
+                        "label": "China's propaganda efforts to cast its response to the outbreak as a model for the rest of the world are falling somewhat flat, with scrutiny mounting over the credibility of China's reported numbers of infections and deaths. Its"
+                    },
+                    {
+                        "start": 2343,
+                        "end": 2415,
+                        "label": " 'Meanwhile, the United States has become the epicenter of the pandemic,"
+                    },
+                    {
+                        "start": 2562,
+                        "end": 2730,
+                        "label": "New reporting has shed even more light on the administration's dawdling and inattention in the early weeks of the outbreak, missteps that could cost thousands of lives."
+                    }
+                ],
+                [
+                    {
+                        "start": 3712,
+                        "end": 3943,
+                        "label": "Trump's bumbling response to the pandemic is only expediting this trend. when this pandemic abates and Americans welcome the end of social distancing, they will nonetheless find the United States a very lonely country in the world."
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left emphasizes that neither China nor the US has acquitted itself well during the crisis",
+            "the US should not decouple from China on public-health matters, but rather strengthen collaboration to better understand and combat the pandemic"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "The Left argues that neither the US nor China has acquitted itself well during the crisis",
+            "a hard decoupling on public-health matters between the two countries has likely undermined the US government's initial understanding of COVID-19"
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": false,
+        "in_doc_nin_summary_baseline_4": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "The Left believes that both the United States and China have made mistakes that have hindered the global response to the pandemic",
+            "with the US decoupling from China on public health matters and China engaging in propaganda efforts and delaying information"
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": false,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Left emphasizes that while China's response to the pandemic has been flawed, the US has also made critical mistakes, including Trump's delayed response and the decoupling of US public health experts from their Chinese counterparts"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "highlight_summary_pine": [
+            "The Left argues that the US should not rely on China for aid or information during the pandemic",
+            "US should prioritize economic independence as a permanent national security goal."
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": true,
+        "highlight_summary_self_refine": [
+            "The Left argues that China's response to the pandemic has been marred by a disastrous cover-up and propaganda efforts",
+            "but the US, particularly under the Trump administration, has also failed to effectively address the crisis"
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": false,
+        "in_doc_nin_summary_self_refine_4": false,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 110,
+                        "label": "Despite its surging popularity, there's no good evidence that ivermectin is effective against the coronavirus."
+                    }
+                ],
+                [
+                    {
+                        "start": 594,
+                        "end": 708,
+                        "label": "\n\nThe pro-ivermectin crowd would have you believe that the science on ivermectin is being 'suppressed.  It is not."
+                    }
+                ],
+                [
+                    {
+                        "start": 1508,
+                        "end": 1596,
+                        "label": "\n\nThese fringe groups of contrarian physicians are small and have damning track records."
+                    },
+                    {
+                        "start": 2719,
+                        "end": 2992,
+                        "label": "It means that there's a search for an alternative solution to the government-backed vaccines which requires turning to sources who have perceived ideological credibility. This has substantial implications for how we go about trying to persuade those resisting the vaccines."
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 2992,
+                        "end": 3523,
+                        "label": "\n\nEarlier this week, Senator Rand Paul (R-Ky. ), who is an ophthalmologist, argued that 'hatred for Trump' was hindering ivermectin research. Actually, Sen. Paul is who's hindering ivermectin research: He voted against the March stimulus bill that included funding for the NIH ACTIV-6 trial, which is studying ivermectin. And the researchers I spoke to last week were worried about exactly the opposite dynamic: At this point, many Americans are just taking ivermectin instead of enrolling in trials for potential COVID treatments."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left notes that despite growing popularity, there is no good evidence that ivermectin is effective against the coronavirus",
+            "its promotion by fringe groups and individuals often ignores the harm it can cause and the established scientific consensus"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "The Left emphasizes that despite its popularity, there is no good evidence that ivermectin is effective against the coronavirus",
+            "increasing reports of side effects and emergency room visits have become alarming, largely among patients unwilling to get vaccinated"
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "The Left views proponents of ivermectin as spreading misinformation and exploiting ideological credibility to persuade those resistant to vaccination",
+            "legitimate scientific research has found the drug to be ineffective against COVID-19"
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": false,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Left asserts that despite its growing popularity, ivermection shows no clinical benefits against COVID",
+            "causing concerning adverse reactions largely among unvaccinated patients, particularly those persuaded by misinformation spread by discredited \"fringe\" groups and charlatans claiming suppressed science to avoid lost profits"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "highlight_summary_pine": [
+            "The Left argues that the medical community and public health officials are being responsible in their approach to ivermectin",
+            "the pro-ivermectin crowd is being misled by misinformation and a desire for alternative solutions."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": false,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "The Left argues that ivermectin's promotion as a COVID treatment is driven by ideological motivations, despite a lack of evidence and alarming consequences, often championed by fringe groups with questionable credentials"
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": false,
+        "nin_doc_in_summary_self_refine_0": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 272,
+                        "end": 438,
+                        "label": "But the bigger story is that seemingly many thousands of Americans are hunting around for a drug which at least 14 different studies have shown doesn't work on COVID."
+                    }
+                ],
+                [
+                    {
+                        "start": 1375,
+                        "end": 1527,
+                        "label": "we should be emphasizing the use of what we know works rather than take flyers on medicines that haven't been demonstrated effective against any viruses"
+                    },
+                    {
+                        "start": 1696,
+                        "end": 1809,
+                        "label": "Stick to what we already know is effective. That's the responsible approach to personal health in this pandemic. "
+                    }
+                ],
+                [
+                    {
+                        "start": 3393,
+                        "end": 3477,
+                        "label": "If ivermectin has a shot at helping people turn the corner, why not give it to them?"
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right notes that despite growing popularity, extensive clinical testing finds little to no efficacy for ivermection in treating COVID-9 cases",
+            "simultaneously warning of rising concerns over misused medication leading to serious consequences among primarily uninsured Americans choosing to avoid vaccination"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "The Right views the promotion of ivermectin as a COVID-19 treatment as baseless, despite some fringe groups claiming otherwise, due to a lack of good evidence and alarming reports of side effects and misuse among anti-vaxxers"
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "nin_doc_in_summary_baseline_0": true,
+        "highlight_summary_debate": [
+            "The Right emphasizes that despite its growing popularity, there is no good evidence that ivermectin is effective against the coronavirus",
+            "its use has been linked to alarming reports of side effects and emergency room visits."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right views the promotion of ivermectin as a coronavirus treatment as a misguided effort with no good evidence of its effectiveness",
+            "despite claims of suppression of science",
+            "warns that its popularity has led to alarming reports of side effects and emergency room visits among unvaccinated patients"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "highlight_summary_pine": [
+            "The Right argues that the media is being irresponsible in ridiculing people who take ivermectin",
+            "public health officials should be emphasizing the use of what we know works rather than take flyers on medicines that haven't been demonstrated effective against any viruses"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": false,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "The Right notes that despite its surging popularity, there's no good evidence that ivermectin is effective against the coronavirus",
+            "with alarming reports of emergency room visits and side effects, largely among anti-vaxxers, and its promotion by fringe groups with questionable credibility, including those involved in fraudulent business practices"
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 114,
+                        "label": "The problem now is that segments of the economy are under continual stress because the virus is not under control."
+                    },
+                    {
+                        "start": 684,
+                        "end": 845,
+                        "label": "problem. That means less focus on traditional stabilizers such as extended unemployment benefits and more focus on the ongoing support for industries as a whole."
+                    }
+                ],
+                [
+                    {
+                        "start": 1250,
+                        "end": 1406,
+                        "label": "\n\nRather than simply blocking any stimulus legislation that contains elements they object to, Republicans and Democrats in Congress should strike a bargain:"
+                    }
+                ],
+                [
+                    {
+                        "start": 3213,
+                        "end": 3421,
+                        "label": "Pelosi can try to counter that by insisting that it's not the size of the stimulus that matters most, it's how money is allocated among the component parts, but most voters don't get into the weeds on policy."
+                    },
+                    {
+                        "start": 3710,
+                        "end": 3799,
+                        "label": "'She's also getting pressure from the left to bite the bullet and make a deal with Trump."
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 2399,
+                        "end": 3052,
+                        "label": "\n\nThe House Speaker issued her latest ultimatum Sunday, saying that the White House has 48 hours to reach a deal before the election. This came after she rejected the latest White House offer of $1. 88 trillion, which followed her rejection of $1. 6 trillion, which followed her rejection of $1 trillion. 'The mystery at this stage is why Mr. Trump won't take no for an answer. A last-minute spending blowout won't change the presidential race, and it won't help the economy in time for the election and not much after that. Agreeing to Mrs. Pelosi's terms of surrender would divide Senate Republicans and might hurt their chances of keeping a majority."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right believes that the Trump administration's demand for indemnification of employers from Covid-19 lawsuits should not be compromised in order to secure aid for unemployed people and state workers",
+            "it would unfairly harm frontline workers"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "The Right believes that the Trump administration's demand for indemnification of employers from Covid-19 lawsuits is an unacceptable non-monetary price to secure aid for unemployed people and state workers",
+            "any deal should prioritize the interests of frontline workers"
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "nin_doc_in_summary_baseline_0": true,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "The Right views the Trump administration's demand for indemnification of employers from Covid-19-related lawsuits as an unacceptable non-monetary price",
+            "that would harm frontline workers"
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "nin_doc_in_summary_debate_0": true,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right supports bipartisan cooperation to create targeted economic relief programs focusing on industries struggling due to COVID-related lockdowns and regulations",
+            "while preventing employer liability shields"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "highlight_summary_pine": [
+            "The Right argues that the Senate should not agree to a large stimulus package that includes direct payments to households and state and local aid, as it would be an attempt to use the virus to fulfill a longstanding Democratic goal to bail out states with large unfunded liabilities"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "nin_doc_in_summary_pine_0": false,
+        "highlight_summary_self_refine": [
+            "The Right believes that the Trump administration's demand for employers to be indemnified from Covid-19 lawsuits... is an unacceptable \"non-monetary price\" that would \"screw frontline workers\" and is a major sticking point in negotiations"
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "nin_doc_in_summary_self_refine_0": true
+    },
+    {
+        "highlight_document": [
+            [
+                [],
+                [
+                    {
+                        "start": 0,
+                        "end": 108,
+                        "label": "The really thorny aspect of the continuing negotiations between Pelosi and Treasury Secretary Steven Mnuchin"
+                    },
+                    {
+                        "start": 369,
+                        "end": 471,
+                        "label": "is the indemnification of employers from lawsuits brought by workers who contract Covid-19 on the job."
+                    }
+                ],
+                [
+                    {
+                        "start": 1519,
+                        "end": 1635,
+                        "label": "If Trump is serious about an agreement, his public and private negotiating stances need to come together immediately"
+                    }
+                ],
+                [
+                    {
+                        "start": 1636,
+                        "end": 1728,
+                        "label": "\n\nEven if Ms. Pelosi and Mr. Mnuchin come to terms, the Senate would still have to go along."
+                    }
+                ],
+                [
+                    {
+                        "start": 2439,
+                        "end": 2711,
+                        "label": "The American people continue to suffer the economic impact of the coronavirus, with the brunt of it being borne by low-income people and people of color. All sides involved in the negotiations over much-needed new funds should act with the urgency this situation requires."
+                    }
+                ],
+                [
+                    {
+                        "start": 3176,
+                        "end": 3281,
+                        "label": "\n\nSNAP is a proven way to lift families out of poverty, reduce food insecurity and boost the economy. And"
+                    },
+                    {
+                        "start": 3767,
+                        "end": 3872,
+                        "label": "To meet unmet needs, the House HEROES bills included a temporary 15 percent increase in the SNAP benefit,"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 2711,
+                        "end": 3176,
+                        "label": "\n\nThe unemployment rate fell to 7. 9 percent in September, but if you dig into the numbers, you see an uneven picture. Women are dropping out of the workforce at a staggering rate, as school closures and the burden of childcare often falls on women. For white workers, the unemployment rate is 7 percent, but for Black workers, it is 12. 1 percent, and for Hispanic workers, 10. 3 percent. Recessions are always uneven, but this appears on track to be even more so."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left advocates for a stimulus package that prioritizes supporting frontline workers",
+            "providing sufficient aid to households and state governments",
+            "strengthening the safety net",
+            "particularly through a temporary 15 percent increase in the SNAP benefit to help low-income families meet their basic needs"
+        ],
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "in_doc_nin_summary_baseline-reranking_5": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "nin_doc_in_summary_baseline-reranking_2": false,
+        "nin_doc_in_summary_baseline-reranking_3": false,
+        "highlight_summary_baseline": [
+            "The Left believes that the Trump administration's demand for employers to be indemnified from Covid-19 lawsuits is an unacceptable non-monetary price for securing aid for unemployed people and state workers",
+            "saving unemployment benefits isn't worth selling out frontline workers."
+        ],
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "in_doc_nin_summary_baseline_5": true,
+        "nin_doc_in_summary_baseline_0": true,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "The Left believes that any aid package must prioritize frontline workers' protections from Covid-19 by not including liability shields for employers",
+            "which would unfairly harm low-income people and people of color",
+            "strengthen measures such as SNAP benefits to effectively support them"
+        ],
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "in_doc_nin_summary_debate_5": false,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": true,
+        "nin_doc_in_summary_debate_2": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Left believes that any deal with the Trump administration should not come at the cost of indemnifying employers from lawsuits brought by workers who contract Covid-19 on the job"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "highlight_summary_pine": [
+            "The Left argues that the unemployment rate fell to 7.9 percent in September",
+            "the numbers show an uneven picture, with women dropping out of the workforce at a staggering rate, and Black and Hispanic workers facing higher unemployment rates than white workers"
+        ],
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "in_doc_nin_summary_pine_5": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "The Left believes the Trump administration's demand for employers' indemnification from Covid-19 lawsuits prioritizes corporate interests over frontline workers"
+        ],
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "in_doc_nin_summary_self_refine_5": true,
+        "nin_doc_in_summary_self_refine_0": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 403,
+                        "end": 508,
+                        "label": "Mr. Trump has said he will invoke executive privilege to curtail testimony by Mr. Bolton and others. That"
+                    }
+                ],
+                [
+                    {
+                        "start": 1096,
+                        "end": 1232,
+                        "label": "So, his claims are the epitome of 'generalized assertions'---which are not sufficient to trigger the application of executive privilege."
+                    },
+                    {
+                        "start": 1691,
+                        "end": 1961,
+                        "label": " Chief Justice Burger explained that when the president's assertion of executive privilege 'is based only on the generalized interest in confidentiality, it cannot prevail over the fundamental demands of due process of law in the fair administration of criminal justice."
+                    }
+                ],
+                [
+                    {
+                        "start": 1962,
+                        "end": 2122,
+                        "label": "\n\nThe choice of House managers underscores the Democrats' effort to press Senate Republicans to treat this is a real trial, as mandated by the Constitution. The"
+                    }
+                ],
+                [
+                    {
+                        "start": 2856,
+                        "end": 3088,
+                        "label": "\n\nGiuliani's letter states that he was explicitly working in his capacity as Trump's personal attorney, undercutting the president's claim that the effort was in the country's interest because it was aimed at rooting out corruption."
+                    }
+                ],
+                [
+                    {
+                        "start": 3609,
+                        "end": 3794,
+                        "label": "What the revelations do underscore is how little Americans actually know about one of the worst political scandals in the nation's historyand the fierce urgency of shedding light on it."
+                    },
+                    {
+                        "start": 4268,
+                        "end": 4409,
+                        "label": "But it's still vital to uncover it so Americans can definitively answer the most important question about the Ukraine scandal: What happened?"
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left argues that the Senate should not be deterred by President Trump's obstruction and executive privilege claims,  they are based on generalized assertions and have been repeatedly rejected by the courts",
+            "the House managers are pressing Senate Republicans to treat this as a real trial, with a strong group of attorneys and a former police chief who are familiar with court proceedings and criminal activities"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "The Left argues that President Trump's obstruction and claims of executive privilege are a cynical attempt to prevent the Senate from gathering evidence and holding him accountable for his actions",
+            "the Senate should press on with a thorough investigation despite his efforts to block it."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "The Left emphasizes that President Trump's obstruction justifies the Senate's scrutiny of evidence gaps",
+            "underscores the Democrats' commitment to upholding due process and transparency"
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Left argues that the Senate should not be deterred by the President's obstruction and should fill gaps in the evidence to ensure a fair trial",
+            "as the House was hindered by the President's stonewalling",
+            "the Senate has a constitutional duty to investigate and decide on impeachment"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "highlight_summary_pine": [
+            "The Left believes that the Senate should not be limited to the evidence gathered by the House",
+            "should instead conduct a thorough investigation into the Ukraine scandal, including calling witnesses like John Bolton and releasing documents from the White House, State Department, and Pentagon"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "The Left emphasizes the Senate's constitutional duty to conduct a fair trial, despite the House's rushed investigation",
+            "highlights the obstruction by Mr. Trump and the importance of new evidence to uncover the truth about the Ukraine scandal"
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": false,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false
+    }
+]

@@ -1,0 +1,5 @@
+backbone:
+  model: hf:meta-llama/Llama-3.1-8B-Instruct
+instruction: |
+  Produce a short, single sentence summary of ONLY the {}-leaning political perspective given the following text. Begin your summary with "The {}".
+max_new_tokens: 512

@@ -1,0 +1,109 @@
+prompt_model: hf:mistralai/Mistral-7B-Instruct-v0.3
+prompt_mode: standard
+extract: False
+bert_model: microsoft/deberta-large-mnli
+budget: 4096
+nli_model: cross-encoder/nli-deberta-v3-base
+prompt_standard: | 
+  You are an evaluator. Your task is to determine how well a generated summary captures all of the main arguments from a source article. This is a measure of "coverage," which does not necessarily address factual accuracy (faithfulness) but focuses on completeness of content.
+
+  The scale for coverage is:
+  1. No Coverage: The summary does not include any of the main arguments from the article.
+  2. Low Coverage: The summary includes only a few of the main arguments from the article, omitting most.
+  3. Medium Coverage: The summary contains around half of the article's main arguments.
+  4. High Coverage: The summary contains most of the main arguments from the article, missing only a few.
+  5. Perfect Coverage: The summary includes all major points and arguments mentioned in the article, leaving out nothing important.
+
+  Follow these steps carefully:
+
+  1. **Read the Source Article**: Examine the text provided in the article. Identify all major points, arguments, or facts it contains.
+  2. **Read the Summary**: Look at the text in the summary. List each argument or point the summary includes.
+  3. **Compare for Completeness**:
+    - Check if each major point from the source article is present in the summary.
+    - Count how many major points are covered versus how many are omitted.
+  4. **Determine the Score**:
+    - Assign a score from 1 (no coverage) to 5 (perfect coverage), based on how many main arguments are included in the summary relative to the source.
+  5. **Output Instructions**:
+    - Output only the final numeric score (1, 2, 3, 4, or 5) without any explanation or additional text.
+
+  ---
+
+  # Source Article:
+
+  {{article}}
+
+  # Generated Summary:
+
+  {{summary}}
+
+  # Final Coverage Score (1~5 only):
+prompt_binary: |
+  You are an evaluator. Your task is to determine whether a generated summary captures the main arguments from a source article. This measure focuses on completeness (coverage) rather than factual accuracy (faithfulness).
+
+  Use a binary scale for coverage:
+  - **0**: The summary is missing at least one main argument from the article.
+  - **1**: The summary includes all main arguments from the article.
+
+  Follow these steps carefully:
+
+  1. **Read the Source Article**: Identify all major points, arguments, or facts it contains.
+  2. **Read the Summary**: Note each major point or argument the summary includes.
+  3. **Compare for Completeness**:
+    - Check whether every major point from the article is present in the summary.
+  4. **Determine the Score**:
+    - Output **0** if **any** main argument is missing.
+    - Output **1** if **all** main arguments are included.
+  5. **Output Instructions**:
+    - Output **only** the final numeric score (0 or 1) without any explanation or additional text.
+
+  ---
+
+  # Source Article:
+
+  {{article}}
+
+  # Generated Summary:
+
+  {{summary}}
+
+  # Final Coverage Score (0 or 1 only):
+prompt_simple: | 
+  You are an evaluator. Your task is to determine how well a generated summary captures all of the main arguments from a source article. This is a measure of "coverage," which does not necessarily address factual accuracy (faithfulness) but focuses on completeness of content.
+
+  The scale for coverage is:
+  1. No Coverage: The summary does not include any of the main arguments from the article.
+  2. Low Coverage: The summary includes only a few of the main arguments from the article, omitting most.
+  3. Medium Coverage: The summary contains around half of the article's main arguments.
+  4. High Coverage: The summary contains most of the main arguments from the article, missing only a few.
+  5. Perfect Coverage: The summary includes all major points and arguments mentioned in the article, leaving out nothing important.
+
+  ---
+
+  # Source Article:
+
+  {{article}}
+
+  # Generated Summary:
+
+  {{summary}}
+
+  # Final Coverage Score (1~5 only):
+prompt_ternary: | 
+  You are an evaluator. Your task is to determine how well a generated summary captures all of the main arguments from a source article. This is a measure of "coverage," which does not necessarily address factual accuracy (faithfulness) but focuses on completeness of content.
+
+  The scale for coverage is:
+  1. Low Coverage: The summary include very few or none of the main arguments from the article.
+  2. Medium Coverage: The summary contains around a moderate number of the article's main arguments.
+  3. High Coverage: The summary includes all major points and arguments mentioned in the article.
+  
+  ---
+
+  # Source Article:
+
+  {{article}}
+
+  # Generated Summary:
+
+  {{summary}}
+
+  # Final Coverage Score (1~3 only):

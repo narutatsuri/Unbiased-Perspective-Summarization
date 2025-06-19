@@ -1,0 +1,7 @@
+backbone:
+  model: hf:meta-llama/Llama-3.1-8B-Instruct
+temperature: 1
+agents: 9
+rounds: 9
+final_agent: false
+final_temperature: 0

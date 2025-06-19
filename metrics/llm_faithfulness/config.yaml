@@ -1,0 +1,112 @@
+prompt_model: hf:mistralai/Mistral-7B-Instruct-v0.3
+prompt_mode: standard
+extract: False
+bert_model: microsoft/deberta-large-mnli
+budget: 4096
+nli_model: cross-encoder/nli-deberta-v3-base
+prompt_standard: |
+  You are an evaluator. Your task is to analyze how faithfully a generated summary represents the information found in the source article. Faithfulness here means the absence of factual errors---i.e., any claims in the summary must be either directly stated, heavily implied, or logically entailed by the source article.
+
+  The scale for faithfulness is:
+  1. Unfaithful: The summary is almost entirely incorrect or unrelated to the source.
+  2. Mostly Unfaithful: The summary includes only a few relevant arguments or correct details but is largely incorrect or missing.
+  3. Neutral: The summary has about half of the important points correct, but also includes notable inaccuracies or omissions.
+  4. Mostly Faithful: The summary reflects most of the article's arguments accurately, with only minor errors or omissions.
+  5. Perfectly Faithful: The summary includes all of the article's main arguments accurately and does not introduce any contradictory or unsupported claims.
+
+  Follow these steps carefully:
+
+  1. **Read the Source Article**: Examine the text provided in the article. Identify the main points, arguments, or facts it contains.
+  2. **Read the Summary**: Look at the text in the summary. Itemize or note each claim or statement made in the summary.
+  3. **Compare for Accuracy**:
+    - Check if each claim in the summary is explicitly or logically supported by the source. 
+    - Mark any claim that appears to be contradicting the source or not found in the source. 
+    - Check if the summary omits major arguments that are central to the source.
+  4. **Determine the Score**: 
+    - Assign a score from 1 (completely unfaithful) to 5 (perfectly faithful), based on how many claims match (and do not contradict) the source article and whether key points are included.
+  5. **Output Instructions**:
+    - Output only the final numeric score (1, 2, 3, 4, or 5) without any additional explanation or text.
+
+  ---
+
+  # Source Article:
+
+  {{article}}
+
+  # Generated Summary:
+
+  {{summary}}
+
+  # Final Faithfulness Score (1~5 only):
+prompt_binary: | 
+  You are an evaluator. Your task is to analyze how faithfully a generated summary represents the information found in the source article. Faithfulness here means the absence of inconsistencies---i.e., any claims in the summary must be either directly stated, heavily implied, or logically entailed by the source article.
+
+  Use a binary scale for faithfulness:
+  - **0**: The summary introduces any contradictory or unsupported claims, or omits crucial information in such a way that it distorts the source article's meaning.
+  - **1**: The summary is faithful to the source, accurately reflecting the source article's content without introducing any errors or omissions that affect understanding.
+
+  Follow these steps carefully:
+
+  1. **Read the Source Article**: Identify the main points, arguments, or facts it contains.
+  2. **Read the Summary**: Note each claim or statement the summary makes.
+  3. **Compare for Accuracy**:
+    - Check if each claim is supported (explicitly or logically) by the source.
+    - Note any claims that seem contradictory or are not found in the source.
+    - Check if the summary omits key information in a way that changes the overall meaning.
+  4. **Determine the Score**:
+    - Assign **1** if every claim is both accurate and supported by the source, with no critical omissions.
+    - Assign **0** otherwise.
+  5. **Output Instructions**:
+    - Output only the final numeric score (0 or 1) without any explanation or additional text.
+
+  ---
+
+  # Source Article:
+
+  {{article}}
+
+  # Generated Summary:
+
+  {{summary}}
+
+  # Final Faithfulness Score (0 or 1 only):
+prompt_simple: |
+  You are an evaluator. Your task is to analyze how faithfully a generated summary represents the information found in the source article. Faithfulness here means the absence of factual errors---i.e., any claims in the summary must be either directly stated, heavily implied, or logically entailed by the source article.
+
+  The scale for faithfulness is:
+  1. Unfaithful: The summary is almost entirely incorrect or unrelated to the source.
+  2. Mostly Unfaithful: The summary includes only a few relevant arguments or correct details but is largely incorrect or missing.
+  3. Neutral: The summary has about half of the important points correct, but also includes notable inaccuracies or omissions.
+  4. Mostly Faithful: The summary reflects most of the article's arguments accurately, with only minor errors or omissions.
+  5. Perfectly Faithful: The summary includes all of the article's main arguments accurately and does not introduce any contradictory or unsupported claims.
+
+  ---
+
+  # Source Article:
+
+  {{article}}
+
+  # Generated Summary:
+
+  {{summary}}
+
+  # Final Faithfulness Score (1~5 only):
+prompt_ternary: |
+  You are an evaluator. Your task is to analyze how faithfully a generated summary represents the information found in the source article. Faithfulness here means the absence of factual errors---i.e., any claims in the summary must be either directly stated, heavily implied, or logically entailed by the source article.
+
+  The scale for faithfulness is:
+  2. Unfaithful: The summary includes only a few relevant arguments or correct details but is largely incorrect or missing.
+  3. Moderately Faithful: The summary has a moderate amount of the important points correct, but also includes notable inaccuracies or omissions.
+  4. Mostly Faithful: The summary reflects most of the article's arguments accurately, with only minor errors or omissions.
+
+  ---
+
+  # Source Article:
+
+  {{article}}
+
+  # Generated Summary:
+
+  {{summary}}
+
+  # Final Faithfulness Score (1~5 only):  

@@ -1,0 +1,3213 @@
+[
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 123,
+                        "end": 239,
+                        "label": "A college education does not guarantee personal wealth, and student-loan debt by definition excludes the truly rich."
+                    },
+                    {
+                        "start": 431,
+                        "end": 490,
+                        "label": "Biden's plan is hardly some giveaway to the American elite."
+                    }
+                ],
+                [
+                    {
+                        "start": 1029,
+                        "end": 1080,
+                        "label": "that there are enough public resources to help both"
+                    },
+                    {
+                        "start": 1086,
+                        "end": 1217,
+                        "label": "that graduates in the present are worse off than graduates in the past who benefited from more affordable public university tuition"
+                    }
+                ],
+                [
+                    {
+                        "start": 1297,
+                        "end": 1311,
+                        "label": "the government"
+                    },
+                    {
+                        "start": 1321,
+                        "end": 1354,
+                        "label": "shoveling subsidies into colleges"
+                    },
+                    {
+                        "start": 1401,
+                        "end": 1452,
+                        "label": "they have responded by jacking their prices through"
+                    },
+                    {
+                        "start": 1510,
+                        "end": 1583,
+                        "label": "it's long since time for the government to start demanding a better deal."
+                    }
+                ],
+                [
+                    {
+                        "start": 1820,
+                        "end": 1925,
+                        "label": "Department of Education would 'hold accountable colleges that have contributed to the student debt crisis"
+                    },
+                    {
+                        "start": 1928,
+                        "end": 1989,
+                        "label": "but this consists of an annual watch list of college programs"
+                    },
+                    {
+                        "start": 2110,
+                        "end": 2133,
+                        "label": "this could be stronger."
+                    }
+                ],
+                [
+                    {
+                        "start": 2490,
+                        "end": 2607,
+                        "label": "we should start moving toward a national policy that provides a college education, debt-free, to anyone who wants it."
+                    }
+                ]
+            ],
+            [
+                [],
+                [
+                    {
+                        "start": 490,
+                        "end": 904,
+                        "label": "\n\nA 36-year-old today who went straight to college from high school graduated right into the teeth of the Great Recession, when career-starting jobs were incredibly scarce. For many, graduate school felt like a safe harbor and good long-term investment---or so the college recruiters said. But that meant loans for living expenses along with pricey tuition, which can quickly inflate balances to $100, 000 or more."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "the current student-debt burden disproportionately affects low-earning individuals who invested in college degrees during economically tumultuous times",
+            "advocating for policies providing free access to post-secondary education",
+            "holding institutions accountable for excessive spending"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "nin_doc_in_summary_baseline-reranking_2": false,
+        "highlight_summary_baseline": [
+            "the Left views Biden's student debt relief plan as a necessary measure",
+            "to address the economic catastrophe faced by graduates who were thrown into a job market ravaged by the Great Recession",
+            "argues that the government should demand a better deal from colleges and universities to provide a debt-free college education to all who want it."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": true,
+        "nin_doc_in_summary_baseline_2": false,
+        "highlight_summary_debate": [
+            "The Left views Biden's student debt relief plan as a necessary measure to address the economic catastrophe faced by graduates."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "Biden's student debt relief plan is a necessary measure to help working-class Americans who are struggling with overwhelming student loan debt.",
+            "it highlights the need for a national policy providing free college education to anyone who wants it"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "the student debt crisis is a result of decades of government subsidies to colleges and universities that have led to skyrocketing tuition prices",
+            "Biden's plan is a necessary step to address the crisis and provide relief to those who have been most affected"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": false,
+        "in_doc_nin_summary_pine_3": false,
+        "in_doc_nin_summary_pine_4": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "Biden's student debt relief plan is a necessary measure to help those worse off due to increased tuition costs and economic hardship",
+            "past graduates benefited from more affordable public university tuition and weren't thrown defenseless into economic catastrophes",
+            "colleges must be held accountable for their role in the crisis"
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": false,
+        "in_doc_nin_summary_self_refine_4": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false,
+        "nin_doc_in_summary_self_refine_2": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 161,
+                        "end": 300,
+                        "label": "two years after a Ruth Bader Ginsburg's death made the elimination of that right more likely than not, President Joe Biden entered the chat"
+                    }
+                ],
+                [
+                    {
+                        "start": 765,
+                        "end": 849,
+                        "label": "The fumbling about for a spell before he awakens to the fire is a recurring pattern."
+                    }
+                ],
+                [
+                    {
+                        "start": 884,
+                        "end": 927,
+                        "label": "inflationBiden has been notably tucked away"
+                    },
+                    {
+                        "start": 1069,
+                        "end": 1116,
+                        "label": "With Roe, the situation is particularly galling"
+                    },
+                    {
+                        "start": 1334,
+                        "end": 1386,
+                        "label": "damning indictment of the administration's messaging"
+                    }
+                ],
+                [
+                    {
+                        "start": 1387,
+                        "end": 1435,
+                        "label": "\n\nBiden appears to be trapped in a vicious cycle"
+                    },
+                    {
+                        "start": 1474,
+                        "end": 1576,
+                        "label": "he and his advisers appear to be gripped with anxiety that doing anything will only make things worse."
+                    },
+                    {
+                        "start": 1800,
+                        "end": 1825,
+                        "label": "It clearly isn't working."
+                    }
+                ],
+                [
+                    {
+                        "start": 1861,
+                        "end": 1909,
+                        "label": "Democrats need to give voters reasons to believe"
+                    },
+                    {
+                        "start": 1915,
+                        "end": 2026,
+                        "label": "the only way to reverse Biden's sliding popularity is for him to step forward and start providing these reasons"
+                    }
+                ],
+                [
+                    {
+                        "start": 2308,
+                        "end": 2373,
+                        "label": "'Our immediate goal within the Democratic Party is to 'dump Biden"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 301,
+                        "end": 615,
+                        "label": "\n\nDescribing the Dobbs decision as 'an exercise in raw political power' from an 'out of control' court, Biden on July 8 signed an executive order that would safeguard certain reproductive health services, protect patients' private medical records, form an interagency reproductive health care task force, and more."
+                    }
+                ],
+                [
+                    {
+                        "start": 2584,
+                        "end": 2976,
+                        "label": "\n\nIt's true that Johnson withdrew from the 1968 race in the face of massive intra-party opposition, famously declaring: 'I shall not seek, and I will not accept, the nomination of my party for another term as your president.  But the eventual winner of the White House in that election was neither McCarthy nor Kennedy, who was assassinated after the California primary: It was Richard Nixon."
+                    }
+                ],
+                [
+                    {
+                        "start": 2976,
+                        "end": 3215,
+                        "label": "\n\nOver the last 60 years, intraparty challenges to sitting presidents have succeeded mostly in damaging those presidents. But they haven't led to short-term electoral success for the challengers: Their party lost the White House each time."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "the Left views President Biden's response to the Dobbs decision as inadequate and slow",
+            "with many feeling that he has been ineffective in communicating his administration's policies",
+            "[his admin] has been trapped in a vicious cycle of inaction due to fear of further decreasing his approval ratings."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "in_doc_nin_summary_baseline-reranking_5": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "nin_doc_in_summary_baseline-reranking_2": false,
+        "highlight_summary_baseline": [
+            "The Left believes that President Joe Biden's slow response to the Supreme Court's elimination of the constitutional right to an abortion, and his overall lack of effective communication and decisive action, are major reasons for his declining popularity and the Democrats' electoral struggles."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": false,
+        "in_doc_nin_summary_baseline_4": true,
+        "in_doc_nin_summary_baseline_5": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "highlight_summary_debate": [
+            "Joe Biden's recent actions on reproductive health services are insufficient and too little too late",
+            "inaction due to fear of making things worse",
+            "reflecting a recurring pattern of delay and inaction by the administration in responding to major crises"
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": false,
+        "in_doc_nin_summary_debate_4": true,
+        "in_doc_nin_summary_debate_5": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "nin_doc_in_summary_debate_2": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "Joe Bidden's delayed response to the SCOTUS abortion ruling further exacerbating his declining public image,",
+            "hindering his ability to provide meaningful solutions amidst various national crises",
+            "his leadership style may undermine democratic values and ultimately harm Democrats' chances at re-election"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "highlight_summary_pine": [
+            "The Left is struggling to articulate a clear message on how to address the economic crisis",
+            "some arguing that the administration's spending policies are exacerbating inflation,",
+            "others believe that the president's inaction on key issues like abortion is a major liability."
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": false,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "in_doc_nin_summary_pine_5": true,
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": true,
+        "nin_doc_in_summary_pine_2": false,
+        "highlight_summary_self_refine": [
+            "Joe Biden's slow response to the Supreme Court's elimination of the constitutional right to an abortion as a \"recurring pattern\" of fumbling inaction",
+            "his anxiety about taking action, which has contributed to his plummeting approval rating and created a vicious cycle of doing too little, too late."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": false,
+        "in_doc_nin_summary_self_refine_4": true,
+        "in_doc_nin_summary_self_refine_5": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 3053,
+                        "end": 3236,
+                        "label": "\n\nIt's easier to point fingers than to acknowledge that liberals should blame themselves for inflationary spending policies, unrealistic legislative goals and social-issue maximalism."
+                    }
+                ],
+                [
+                    {
+                        "start": 361,
+                        "end": 397,
+                        "label": "Biden has never been taken seriously"
+                    }
+                ],
+                [
+                    {
+                        "start": 775,
+                        "end": 852,
+                        "label": "Joe Biden is guilty more of accelerating a corrosive trend than of causing it"
+                    },
+                    {
+                        "start": 879,
+                        "end": 1005,
+                        "label": "the presidency itself whose power to persuade, and just as important to instill fear in rogue regimes, has suffered diminution"
+                    }
+                ],
+                [
+                    {
+                        "start": 1006,
+                        "end": 1017,
+                        "label": "\n\nDemocrats"
+                    },
+                    {
+                        "start": 1130,
+                        "end": 1141,
+                        "label": "are alarmed"
+                    },
+                    {
+                        "start": 1192,
+                        "end": 1224,
+                        "label": "that he is too inept for the job"
+                    },
+                    {
+                        "start": 1280,
+                        "end": 1311,
+                        "label": "it's his advancing unpopularity"
+                    }
+                ],
+                [
+                    {
+                        "start": 1670,
+                        "end": 1725,
+                        "label": "Mr. Biden hasn't lost his capacities. He never had them"
+                    }
+                ],
+                [
+                    {
+                        "start": 2140,
+                        "end": 2213,
+                        "label": "\n\nInflation is eating away at Democrats just as it is at purchasing power"
+                    },
+                    {
+                        "start": 2402,
+                        "end": 2512,
+                        "label": "Biden started his presidency with the view that he needed to go big on spending to avoid Obama's alleged error"
+                    },
+                    {
+                        "start": 2569,
+                        "end": 2610,
+                        "label": "In retrospect, that judgment was mistaken"
+                    }
+                ],
+                [
+                    {
+                        "start": 2656,
+                        "end": 2724,
+                        "label": "\n\nLiberal frustration at Biden over abortion is especially misplaced"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 1,
+                        "end": 307,
+                        "label": "End of the quote. Repeat the line.  Such is the senescence of the 46th president of the United States that when he is not flat-out misspeaking, it is because he is reading the cues as he stumbles through the see-Jane-run prose of White House speechwriters. Like life at 79, the teleprompts come at you fast"
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right sees Joe Biden as a ineffective leader, hindered by his age and ineptitude",
+            "failing leadership contributes to declining public trust in the presidency and rising concerns about America's problems like high inflation",
+            "despite previous assumptions being incorrect regarding other possible results including rival candidate proposals."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": false,
+        "in_doc_nin_summary_baseline-reranking_5": false,
+        "in_doc_nin_summary_baseline-reranking_6": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "nin_doc_in_summary_baseline-reranking_2": true,
+        "highlight_summary_baseline": [
+            "The Right believes that President Joe Biden's presidency has suffered from a corrosive trend of ineptitude,",
+            "with his approval rating plummeting due to his advancing unpopularity and lack of effective leadership, rather than his age."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": false,
+        "in_doc_nin_summary_baseline_4": false,
+        "in_doc_nin_summary_baseline_5": true,
+        "in_doc_nin_summary_baseline_6": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "The Right views President Joe Biden as inept, unpopularity-ridden, and ineffective in responding to crises, which threatens his Democratic Party's electoral goals and potentially their control of the White House."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": false,
+        "in_doc_nin_summary_debate_4": false,
+        "in_doc_nin_summary_debate_5": true,
+        "in_doc_nin_summary_debate_6": false,
+        "nin_doc_in_summary_debate_0": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "Joe Biden's administration has been ineffective in addressing various crises",
+            "his approval rating is plummeting due to his inability to provide clear leadership and reasons for voters to believe in his policies."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_6": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "The Right argues that Joe Biden is guilty of accelerating a corrosive trend of inflationary spending policies, unrealistic legislative goals, and social-issue maximalism,",
+            "which has led to his unpopularity and the erosion of the presidency's power to persuade and instill fear in rogue regimes."
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": false,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "in_doc_nin_summary_pine_5": true,
+        "in_doc_nin_summary_pine_6": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "The Right views Joe Biden as inept, trapped in a vicious cycle of inaction, and fumbling through crises like Roe and inflation",
+            "has led to a plummeting approval rating",
+            "and sets the stage for a potential Republican victory."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": false,
+        "in_doc_nin_summary_self_refine_4": true,
+        "in_doc_nin_summary_self_refine_5": false,
+        "in_doc_nin_summary_self_refine_6": false,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false,
+        "nin_doc_in_summary_self_refine_2": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 19,
+                        "label": "The biggest problem"
+                    },
+                    {
+                        "start": 21,
+                        "end": 23,
+                        "label": "is"
+                    },
+                    {
+                        "start": 24,
+                        "end": 95,
+                        "label": "his plan to increase the generosity of the direct checks to individuals"
+                    }
+                ],
+                [
+                    {
+                        "start": 1485,
+                        "end": 1535,
+                        "label": "the payments have done little to boost the economy"
+                    },
+                    {
+                        "start": 1692,
+                        "end": 1809,
+                        "label": "it should be focused on small businesses and individuals who have suffered hardship from government-imposed lockdowns"
+                    }
+                ],
+                [
+                    {
+                        "start": 2492,
+                        "end": 2669,
+                        "label": "We might have been better off with Pelosi's last position before the final bill of $2. 4 trillion, rather than the combined spending between the two bills of $3 trillion or more"
+                    }
+                ],
+                [
+                    {
+                        "start": 2670,
+                        "end": 2725,
+                        "label": "\n\nWhat Biden has presented isn't a COVID-19 relief bill"
+                    },
+                    {
+                        "start": 2727,
+                        "end": 2769,
+                        "label": "It is a Sen. Bernie Sanders-type wish list"
+                    },
+                    {
+                        "start": 3200,
+                        "end": 3322,
+                        "label": "there is a less expensive and much more effective way to get employers to hire and workers to get back in the labor market"
+                    },
+                    {
+                        "start": 3584,
+                        "end": 3691,
+                        "label": "we now get Phase 7 of debt spending---and Biden wants another trillion-dollar infrastructure bill to follow"
+                    }
+                ],
+                [
+                    {
+                        "start": 3692,
+                        "end": 3750,
+                        "label": "\n\nThe case for another stimulus appears entirely political"
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right sees the current relief package proposals as having some merit.",
+            "items such as expanding the Child Tax Credits to combat child poverty effectively and increasing vaccination efforts, suggesting these aspects align well with President Biden's intentions to address the ongoing pandemic challenges."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": false,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "The Right views the Biden Administration's relief plan as a necessary measure",
+            "to address the pandemic, particularly in terms of vaccine distribution and financial support for families and small businesses, and",
+            "sees the expanded Child Tax Credit and minimum wage increase as potential long-term benefits."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "nin_doc_in_summary_baseline_0": true,
+        "nin_doc_in_summary_baseline_1": false,
+        "nin_doc_in_summary_baseline_2": true,
+        "highlight_summary_debate": [
+            "The Right perspective emphasizes that the Biden Administration's economic relief package includes necessary measures to address the COVID-19 pandemic, such as a national vaccination program, a more generous child tax credit,",
+            "and support for sectors and families affected by the crisis."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": true,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right believes that the Biden Administration's $1.9 trillion relief plan while having some beneficial provisions such as expanding the Child Tax Credit and increasing the minimum wage,",
+            "is overly ambitious and includes unnecessary elements that should be considered separately, and that the focus should be on the vaccine rollout and emergency pandemic measures."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "The Right perspective is that the $1.9 trillion relief package proposed by President Biden is a wish list of liberal policies that should be passed separately, not as part of a relief bill",
+            "the direct checks to individuals will go to households with high incomes and do little to stimulate the economy."
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": false,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "The Right views the Biden administration's proposed $1.9 trillion relief package as a necessary measure to address the pandemic, particularly the vaccine piece,",
+            "expressing concerns about its size and potential long-term implications, and advocating for a more targeted approach to address specific issues."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": false,
+        "in_doc_nin_summary_self_refine_4": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 110,
+                        "end": 270,
+                        "label": "what the federal government has done so far has been inadequate and they want to 'actually underwrite the resources necessary for a national vaccination program"
+                    },
+                    {
+                        "start": 363,
+                        "end": 442,
+                        "label": "the Biden Administration will be actually taking some measure of responsibility"
+                    },
+                    {
+                        "start": 443,
+                        "end": 468,
+                        "label": "for the vaccine situation"
+                    },
+                    {
+                        "start": 653,
+                        "end": 834,
+                        "label": "while many of its provisions really are just emergency pandemic measures including stuff like the expanded CTC child tax credit, it really feels like it ought to be permanent policy"
+                    },
+                    {
+                        "start": 1996,
+                        "end": 2120,
+                        "label": "If passed Poverty among children would fall from 14. 8 percent to 9. 5 percent, meaning 4 million kids would escape poverty."
+                    },
+                    {
+                        "start": 2526,
+                        "end": 2603,
+                        "label": "So far the overall plan has, however, united two diametrically opposed forces"
+                    },
+                    {
+                        "start": 2660,
+                        "end": 2785,
+                        "label": "The US Chamber of Commerce, an influential lobbying organization that represents business interests, praised Biden's proposal"
+                    },
+                    {
+                        "start": 2788,
+                        "end": 2960,
+                        "label": "We applaud the president-elect's focus on vaccinations and on economic sectors and families that continue to suffer as the pandemic rages on,  the group said in a statement"
+                    }
+                ],
+                [
+                    {
+                        "start": 2961,
+                        "end": 3116,
+                        "label": "\n\nThe $1. 9 trillion in relief Biden is proposing is more than double the $800 billion American Recovery and Reinvestment Act that Democrats passed in 2009"
+                    },
+                    {
+                        "start": 3153,
+                        "end": 3171,
+                        "label": "The size and scope"
+                    },
+                    {
+                        "start": 3189,
+                        "end": 3243,
+                        "label": "is a reflection of some lessons Democrats have learned"
+                    },
+                    {
+                        "start": 3245,
+                        "end": 3314,
+                        "label": "In 2009, many lawmakers believed they'd have a chance at another bill"
+                    },
+                    {
+                        "start": 3337,
+                        "end": 3355,
+                        "label": "but they never did"
+                    }
+                ],
+                [
+                    {
+                        "start": 3714,
+                        "end": 3797,
+                        "label": "Biden says he wants to try and pass his initial relief bill with bipartisan support"
+                    },
+                    {
+                        "start": 4093,
+                        "end": 4216,
+                        "label": "Smuggling in the entire Democratic agenda, immediately, in the context of a 'relief' bill, seems like a recipe for disaster"
+                    },
+                    {
+                        "start": 4522,
+                        "end": 4610,
+                        "label": "my belief and the belief of numerous members of the Senate is that 60 votes exist for it"
+                    },
+                    {
+                        "start": 4612,
+                        "end": 4686,
+                        "label": "building some mega-bill gives Republicans an easy out for their opposition"
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left advocates for increased investment in resources, a robust national vaccination plan, permanently expanding social safety nets especially the child tax credits, raising the minimum wages, addressing deep-seated societal issues,",
+            "alleviating suffering, promoting economic development through comprehensive policies aimed at uplifting all citizens equitably rather than targeting short-term gains or solely bolstering wealthy households with arbitrary subsidies that offer limited benefits due to excessive limitations and low utilization rates as observed historically."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "The Left believes that the Biden Administration's relief package, with its focus on a national vaccination program, expanded Child Tax Credit, and minimum wage increase, is a necessary step towards addressing the economic and health crises caused by the pandemic."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "highlight_summary_debate": [
+            "The Left views the Biden Administration's relief bill as a significant step towards treating the vaccine situation as a national issue",
+            "aims to drastically reduce child poverty with a permanently expanded Child Tax Credit and other measures."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Left believes that the Biden Administration's proposed $1.9 trillion relief package, which includes a national vaccination program, expanded Child Tax Credit, and minimum wage increase, is a necessary and ambitious effort to address the economic and health crises caused by the pandemic, and that it has the potential to drastically reduce child poverty and stimulate economic growth."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "highlight_summary_pine": [
+            "The Left argues that the $1.9 trillion relief package proposed by President Biden is a necessary measure to address the ongoing economic crisis caused by the COVID-19 pandemic,",
+            "and that it will help to alleviate suffering and support the most vulnerable members of society."
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "The Left believes that the Biden Administration's proposed relief bill is a necessary step to address the economic and pandemic-related hardship",
+            "and create permanent policy improvements that benefit the most vulnerable populations."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 4,
+                        "end": 67,
+                        "label": "asylum seekers have a right to have their claims heard in court"
+                    },
+                    {
+                        "start": 69,
+                        "end": 137,
+                        "label": "yet the US must ensure the system doesn't get completely overwhelmed"
+                    },
+                    {
+                        "start": 139,
+                        "end": 257,
+                        "label": "Of the imperfect options available, Remain in Mexico (formally, the Migrant Protection Protocols) makes the most sense"
+                    }
+                ],
+                [
+                    {
+                        "start": 366,
+                        "end": 530,
+                        "label": "\n\nLonger-term, the US needs comprehensive reforms that would pair increased funding for law enforcement and immigration courts with an expanded guest-worker program"
+                    },
+                    {
+                        "start": 544,
+                        "end": 648,
+                        "label": "relieve pressure on the border and ease labor shortages in the agriculture and food-producing industries"
+                    },
+                    {
+                        "start": 821,
+                        "end": 833,
+                        "label": "The problems"
+                    },
+                    {
+                        "start": 834,
+                        "end": 887,
+                        "label": "at the southern border are complex but not unsolvable"
+                    },
+                    {
+                        "start": 889,
+                        "end": 945,
+                        "label": "They should never have reached this point of near-crisis"
+                    }
+                ],
+                [
+                    {
+                        "start": 984,
+                        "end": 1002,
+                        "label": "\n\nLocal organizers"
+                    },
+                    {
+                        "start": 1017,
+                        "end": 1037,
+                        "label": "have been frustrated"
+                    },
+                    {
+                        "start": 1049,
+                        "end": 1118,
+                        "label": "at what they say is a 'vacuum of leadership' among officials in D. C."
+                    }
+                ],
+                [
+                    {
+                        "start": 1496,
+                        "end": 1579,
+                        "label": "the federal government has failed for years to put together real immigration reform"
+                    },
+                    {
+                        "start": 1585,
+                        "end": 1678,
+                        "label": "has not shown enough urgency under the Biden administration to meaningfully address the issue"
+                    }
+                ],
+                [
+                    {
+                        "start": 1811,
+                        "end": 1912,
+                        "label": "\n\nIf we analyze deterrence strategies as tools for reducing migration, it's clear that they've failed"
+                    },
+                    {
+                        "start": 2095,
+                        "end": 2205,
+                        "label": "CBP has admitted that 'border security alone cannot overcome the powerful push factors of poverty and violence"
+                    },
+                    {
+                        "start": 2254,
+                        "end": 2298,
+                        "label": "walls alone cannot prevent illegal migration"
+                    }
+                ],
+                [
+                    {
+                        "start": 2714,
+                        "end": 2898,
+                        "label": "Instead of criminalizing aid workers' efforts to keep migrants alive, the government could avoid these deaths altogether by letting people sponsor Haitian and Central American refugees"
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "current border issues require a multifaceted approach including increased funding, expanded worker programs, improved asylum processes, and investments in central American regions causing mass migrations to alleviate crises",
+            "without solely relying on deterrence measures or militarization."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": false,
+        "in_doc_nin_summary_baseline-reranking_5": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "asylum seekers have a right to have their claims heard in court and that the US should implement comprehensive reforms,",
+            "including increased funding for law enforcement and immigration courts, an expanded guest-worker program, and investment in northern Central America to address the root causes of migration."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "in_doc_nin_summary_baseline_5": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "the border crisis as a complex issue that requires comprehensive reforms, including increased funding for law enforcement and immigration courts, an expanded guest-worker program, and investment in Central America to address the root causes of migration",
+            "prioritizing asylum seekers' right to a fair and humane process."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "in_doc_nin_summary_debate_5": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "despite the complexities surrounding asylum seekers, the most viable option remains remaining in Mexico temporarily before having their claims heard in a fair judicial process",
+            "paired with long-term solutions including expanded guest worker programs, targeted foreign investments and meaningful leadership addressing root causes of migration"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "the US needs comprehensive reforms that would pair increased funding for law enforcement and immigration courts with an expanded guest-worker program",
+            "would relieve pressure on the border and ease labor shortages in the agriculture and food-producing industries."
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": false,
+        "in_doc_nin_summary_pine_5": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "asylum seekers have a right to have their claims heard in court",
+            "advocates for comprehensive reforms, including improving the Remain in Mexico program, investing in northern Central America, and pairing increased funding with an expanded guest-worker program."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "in_doc_nin_summary_self_refine_5": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 143,
+                        "label": "The Border Patrol reports it has encountered more than 1. 8 million illegally crossing migrants so far this fiscal year, which ends on Sept. 30"
+                    },
+                    {
+                        "start": 281,
+                        "end": 384,
+                        "label": "border encounters for this fiscal year are on track to exceed the total for Trump's full four-year term"
+                    }
+                ],
+                [
+                    {
+                        "start": 826,
+                        "end": 957,
+                        "label": "This means hundreds of thousands of people have been allowed to reside in the United States even though they arrived here illegally"
+                    }
+                ],
+                [
+                    {
+                        "start": 1294,
+                        "end": 1454,
+                        "label": "Even back in March, Biden admitted that his Department of Homeland Security allowed 'thousands' to cross every day, and the situation has grown worse since then"
+                    }
+                ],
+                [
+                    {
+                        "start": 1455,
+                        "end": 1542,
+                        "label": "\n\nTexas and Arizona have been 'overwhelmed' by Biden's border crisis since January 2021"
+                    },
+                    {
+                        "start": 1883,
+                        "end": 2068,
+                        "label": "If that 'overwhelms' them, then perhaps they should rethink their cheap talk and put some pressure on Biden to adopt the proper resources and policies to end the border crisis down here"
+                    }
+                ],
+                [
+                    {
+                        "start": 2317,
+                        "end": 2570,
+                        "label": "Requiring asylum seekers at the southern U. S. border to remain in Mexico until an immigration court can hear their case' was the most popular policy chosen, with 77% of Republicans, 54% of independents, and 57% of all adults agreeing with the statement"
+                    }
+                ],
+                [
+                    {
+                        "start": 2732,
+                        "end": 2829,
+                        "label": "It does not appear that Biden cares what his immigration policies are doing to border communities"
+                    },
+                    {
+                        "start": 2831,
+                        "end": 2958,
+                        "label": "He has never visited the southern border and has also ignored pleas for federal help from Washington, D. C. , and New York City"
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right believes that the US must ensure the asylum system doesn't get overwhelmed and proposes solutions such as Remain in Mexico, comprehensive reforms and expanded guest-worker programs"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "in_doc_nin_summary_baseline-reranking_5": true,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "highlight_summary_baseline": [
+            "The Right believes that a comprehensive solution to the border crisis requires a combination of increased funding for law enforcement and immigration courts, an expanded guest-worker program, and investment in northern Central America to address the root causes of migration."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "in_doc_nin_summary_baseline_5": true,
+        "nin_doc_in_summary_baseline_0": true,
+        "highlight_summary_debate": [
+            "The Right believes that the US needs comprehensive reforms that pair increased funding for law enforcement and immigration courts with an expanded guest-worker program, relieving pressure on the border and easing labor shortages in key industries."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "in_doc_nin_summary_debate_5": true,
+        "nin_doc_in_summary_debate_0": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right believes that the US should ensure asylum seekers have their claims heard in court, and implement policies such as Remain in Mexico and comprehensive reforms, including increased funding for law enforcement and immigration courts, an expanded guest-worker program, and investment in northern Central America to address the root causes of migration."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "highlight_summary_pine": [
+            "The Right argues that the US should require asylum seekers at the southern border to remain in Mexico until an immigration court can hear their case."
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": false,
+        "in_doc_nin_summary_pine_3": false,
+        "in_doc_nin_summary_pine_4": true,
+        "in_doc_nin_summary_pine_5": false,
+        "nin_doc_in_summary_pine_0": false,
+        "highlight_summary_self_refine": [
+            "The Right emphasizes the need for comprehensive reforms pairing increased funding for law enforcement and immigration courts with an expanded guest-worker program, addressing the root causes of migration in northern Central America, and recognizing that deterrence strategies have failed to reduce migration."
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "in_doc_nin_summary_self_refine_5": true,
+        "nin_doc_in_summary_self_refine_0": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 71,
+                        "label": "It's hard to observe wealth: the IRS does not collect information on it"
+                    },
+                    {
+                        "start": 221,
+                        "end": 286,
+                        "label": "Taxing wealth also encourages people to shift their assets abroad"
+                    }
+                ],
+                [
+                    {
+                        "start": 512,
+                        "end": 665,
+                        "label": "\n\nHow the IRS will determine which households are worth $100 million is unclear; the agency does not have the capabilities or manpower to do such a thing"
+                    }
+                ],
+                [
+                    {
+                        "start": 1100,
+                        "end": 1187,
+                        "label": "the wealthy already pay a lot more than their proportionate share of federal income tax"
+                    },
+                    {
+                        "start": 1219,
+                        "end": 1247,
+                        "label": "top 10 percent of households"
+                    },
+                    {
+                        "start": 1266,
+                        "end": 1290,
+                        "label": "pay more than 70 percent"
+                    },
+                    {
+                        "start": 1384,
+                        "end": 1397,
+                        "label": "top 1 percent"
+                    },
+                    {
+                        "start": 1398,
+                        "end": 1433,
+                        "label": "make about 20 percent of all income"
+                    },
+                    {
+                        "start": 1438,
+                        "end": 1478,
+                        "label": "pay 40 percent of the federal income tax"
+                    }
+                ],
+                [
+                    {
+                        "start": 2081,
+                        "end": 2154,
+                        "label": "\n\nThe president's budget includes $773 billion for the Defense Department"
+                    },
+                    {
+                        "start": 2290,
+                        "end": 2330,
+                        "label": "That request is certainly a lot of money"
+                    },
+                    {
+                        "start": 2332,
+                        "end": 2385,
+                        "label": "equivalent to about 3. 9 percent of the U. S. economy"
+                    }
+                ],
+                [
+                    {
+                        "start": 2386,
+                        "end": 2458,
+                        "label": "\n\nBut 3. 9 percent of GDP is roughly what the defense budget was in 1995"
+                    },
+                    {
+                        "start": 2548,
+                        "end": 2609,
+                        "label": "when international tensions were much lower than they are now"
+                    },
+                    {
+                        "start": 2611,
+                        "end": 2633,
+                        "label": "The budget for defense"
+                    },
+                    {
+                        "start": 2771,
+                        "end": 2838,
+                        "label": "assumes that inflation for the coming fiscal year will be only 2. 3"
+                    },
+                    {
+                        "start": 2852,
+                        "end": 2888,
+                        "label": "inflation is running at 7. 5 percent"
+                    },
+                    {
+                        "start": 2893,
+                        "end": 2948,
+                        "label": "the Department of Defense is losing ground to inflation"
+                    }
+                ],
+                [
+                    {
+                        "start": 1784,
+                        "end": 1806,
+                        "label": "\n\nIn the United States"
+                    },
+                    {
+                        "start": 1808,
+                        "end": 1824,
+                        "label": "a married couple"
+                    },
+                    {
+                        "start": 1891,
+                        "end": 1934,
+                        "label": "would pay a top marginal rate of 22 percent"
+                    },
+                    {
+                        "start": 1936,
+                        "end": 1945,
+                        "label": "in Sweden"
+                    },
+                    {
+                        "start": 1947,
+                        "end": 1968,
+                        "label": "the equivalent couple"
+                    },
+                    {
+                        "start": 2008,
+                        "end": 2017,
+                        "label": "would pay"
+                    },
+                    {
+                        "start": 2033,
+                        "end": 2080,
+                        "label": "a little more than two and a half times as much"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 1479,
+                        "end": 1783,
+                        "label": "\n\nIf the Democrats want a Scandinavian-style welfare state, then let them propose Scandinavian-style taxes, too. What's different about the United States compared to the European welfare states admired by our progressives is not taxes on the very wealthy but taxes on those in the middle and upper-middle"
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right notes that the top 1 percent make about 20 percent of all income but pay 40 percent of the federal income tax, indicating that their income-tax burden is twice their share of income,",
+            "which is often misleadingly cited as evidence of tax unfairness."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "in_doc_nin_summary_baseline-reranking_5": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "The Right notes that the federal income tax burden on the top 1 percent is twice their share of income, and that the actual redistributive effect of the tax code is quite modest when considering all components of taxation."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "in_doc_nin_summary_baseline_5": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "highlight_summary_debate": [
+            "The Right notes that the wealthy already pay a disproportionate share of federal income taxes",
+            "the primary issue is addressing the need for more social welfare programs and increased military spending to address global threats."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": false,
+        "in_doc_nin_summary_debate_5": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right argues that the wealthy already pay a disproportionate share of federal income taxes, with the top 1 percent making about 20 percent of all income but paying 40 percent of federal income tax,",
+            "a wealth tax would be ineffective and overly complicated."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "The Right argues that the Biden administration's proposal to tax the wealthy is misguided",
+            "would not effectively address the country's needs, given that the wealthy already pay a disproportionate share of federal income tax."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": false,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "in_doc_nin_summary_pine_5": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "The Right notes that the federal income tax burden is already progressive",
+            "argues for prioritizing military funding and basic social support systems."
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": false,
+        "in_doc_nin_summary_self_refine_5": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 28,
+                        "end": 269,
+                        "label": "The top 1 percent make about 20 percent of all income but pay 40 percent of the federal income tax---their income-tax burden is twice their share of income.  This misleading statistic is a favorite of plutocrats, but it is deeply misleading."
+                    }
+                ],
+                [
+                    {
+                        "start": 269,
+                        "end": 320,
+                        "label": "\n\nYes, the federal income tax is highly progressive"
+                    },
+                    {
+                        "start": 326,
+                        "end": 386,
+                        "label": "the income tax is just one component of the federal tax code"
+                    },
+                    {
+                        "start": 388,
+                        "end": 456,
+                        "label": "and the federal tax code is just one component of the total tax code"
+                    }
+                ],
+                [
+                    {
+                        "start": 831,
+                        "end": 998,
+                        "label": "the banal fact remains that redistribution in general, and taxing the rich in particular, remains the primary ground the two parties are fighting over on a daily basis"
+                    }
+                ],
+                [
+                    {
+                        "start": 1068,
+                        "end": 1074,
+                        "label": "\n\nWith"
+                    },
+                    {
+                        "start": 1136,
+                        "end": 1168,
+                        "label": "the world's stability threatened"
+                    },
+                    {
+                        "start": 1192,
+                        "end": 1251,
+                        "label": "it makes sense that Biden would need a well-funded military"
+                    },
+                    {
+                        "start": 1253,
+                        "end": 1263,
+                        "label": "What makes"
+                    },
+                    {
+                        "start": 1264,
+                        "end": 1274,
+                        "label": "less sense"
+                    },
+                    {
+                        "start": 1284,
+                        "end": 1286,
+                        "label": "is"
+                    },
+                    {
+                        "start": 1337,
+                        "end": 1411,
+                        "label": "that the country can't afford robust and necessary social welfare programs"
+                    }
+                ],
+                [
+                    {
+                        "start": 1412,
+                        "end": 1666,
+                        "label": "\n\nThe need for the basic social support systems on offer in most of our economic peer nations -- affordable child care, universal health care, paid parental leave, even paid sick days -- became devastatingly clear when Covid-19 upended life as we knew it"
+                    }
+                ],
+                [
+                    {
+                        "start": 2045,
+                        "end": 2172,
+                        "label": "So how would spending $900 billion or $1 trillion a year thwart Putin's imperial dreams in a way that $800 billion a year won't"
+                    }
+                ],
+                [
+                    {
+                        "start": 2304,
+                        "end": 2353,
+                        "label": "one thing we're not facing is a lack of resources"
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "while the top 1 percent pay a significant share of federal income tax, the overall redistributive effect of the tax code is modest",
+            "other federal, state, and local taxes are more regressive, requiring a more comprehensive approach to taxation and social welfare."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "in_doc_nin_summary_baseline-reranking_5": true,
+        "in_doc_nin_summary_baseline-reranking_6": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "The Left notes that while the top 1 percent pay 40 percent of the federal income tax, the overall redistributive effect of the tax code is modest",
+            "the country can afford robust social welfare programs alongside a well-funded military."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": false,
+        "in_doc_nin_summary_baseline_4": false,
+        "in_doc_nin_summary_baseline_5": true,
+        "in_doc_nin_summary_baseline_6": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "The Left notes that while the top 1 percent pay a significant share of the federal income tax, the total redistributive effect of the tax code is quite modest",
+            "highlighting the need to look beyond the income tax and invest in social welfare programs to achieve meaningful redistribution."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": false,
+        "in_doc_nin_summary_debate_5": true,
+        "in_doc_nin_summary_debate_6": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Left notes that while the federal income tax is progressive, other federal, state, and local taxes are more regressive",
+            "the total redistributive effect of the tax code is quite modest."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_6": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "The left notes that the Biden administration's proposal to tax wealth above 100 million is a step towards a more progressive tax code",
+            "but it is unclear how the IRS will determine which households are worth 100 million",
+            "the proposal's complexity and potential loopholes make it difficult to implement."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": false,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "in_doc_nin_summary_pine_5": true,
+        "in_doc_nin_summary_pine_6": true,
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": true,
+        "nin_doc_in_summary_pine_2": false,
+        "highlight_summary_self_refine": [
+            "The Left emphasizes that despite the progressive federal income tax, the overall tax system remains regressive",
+            "the top 1 percent paying 40 percent of federal income tax while making 20 percent of all income",
+            "this imbalance hinders the country's ability to fund essential social support systems like affordable child care, universal healthcare, and paid parental leave, as seen in more progressive economic peer nations."
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": false,
+        "in_doc_nin_summary_self_refine_5": true,
+        "in_doc_nin_summary_self_refine_6": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false,
+        "nin_doc_in_summary_self_refine_2": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 13,
+                        "label": "His candidacy"
+                    },
+                    {
+                        "start": 48,
+                        "end": 62,
+                        "label": "will guarantee"
+                    },
+                    {
+                        "start": 89,
+                        "end": 172,
+                        "label": "Biden's age and alleged feebleness will never be out of the public eye for a moment"
+                    },
+                    {
+                        "start": 282,
+                        "end": 497,
+                        "label": "Phillips's secondary message---that Democrats are a bunch of cowards who know Biden is a doddering relic but don't have the guts to do anything about it---will also find an avid audience full of amplifying bullhorns"
+                    }
+                ],
+                [
+                    {
+                        "start": 786,
+                        "end": 967,
+                        "label": "if Phillips, or the sort of 'centrist governor' he earlier implored to run, tried to deny her the nomination, there would be intraparty bloodletting for real, all benefiting the GOP"
+                    }
+                ],
+                [
+                    {
+                        "start": 1084,
+                        "end": 1143,
+                        "label": "\n\nWhat, exactly, is the litmus test he wishes Biden to pass"
+                    },
+                    {
+                        "start": 1301,
+                        "end": 1363,
+                        "label": "If the president's immutable age is the center of his campaign"
+                    },
+                    {
+                        "start": 1365,
+                        "end": 1369,
+                        "label": "then"
+                    },
+                    {
+                        "start": 1383,
+                        "end": 1464,
+                        "label": "effort will serve one purpose: to clumsily fuel the GOP false equivalency machine"
+                    },
+                    {
+                        "start": 1465,
+                        "end": 1495,
+                        "label": " giving Republicans ammunition"
+                    }
+                ],
+                [
+                    {
+                        "start": 1844,
+                        "end": 1922,
+                        "label": "The rational verdict on whether Joe Biden is up to the job lies in the results"
+                    },
+                    {
+                        "start": 2084,
+                        "end": 2133,
+                        "label": "You know, all legislation that Phillips supported"
+                    }
+                ],
+                [
+                    {
+                        "start": 2134,
+                        "end": 2190,
+                        "label": "\n\nPhillips would be a long shot in any presidential race"
+                    },
+                    {
+                        "start": 2192,
+                        "end": 2238,
+                        "label": "He's a rank-and-file Democratic representative"
+                    },
+                    {
+                        "start": 2239,
+                        "end": 2251,
+                        "label": "with limited"
+                    },
+                    {
+                        "start": 2266,
+                        "end": 2277,
+                        "label": "recognition"
+                    },
+                    {
+                        "start": 2300,
+                        "end": 2337,
+                        "label": "outside of his recent Biden criticism"
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left views Phillips's candidacy as a self-serving attempt to exploit concerns about Biden's age",
+            "ultimately benefit the GOP and lead to intraparty bloodletting if Phillips tries to deny Kamala Harris the nomination."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "The Left views Phillips's candidacy as a partisan and ideological effort to discredit Biden",
+            "fueling Republican attacks on his age and potentially leading to intraparty bloodletting that would benefit the GOP."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "The Left argues that a primary challenge against President Biden by Representative Dean Phillips would ultimately benefit the Republican Party",
+            "sparking intraparty bloodletting",
+            "allowing the GOP to focus on unfair age-based attacks against the President."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "nin_doc_in_summary_debate_2": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Left believes that a primary challenge against President Biden by Representative Dean Phillips would ultimately benefit the Republican Party",
+            "it would lead to intraparty bloodletting and potentially allow Vice President Kamala Harris or a \"centrist governor\" to take the nomination",
+            "rather than being a genuine attempt to address concerns about Biden's age and ability to serve."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "highlight_summary_pine": [
+            "The Left is highlighting the need for a new generation of leaders to take over the party",
+            "address the concerns of voters who feel that the current president is too old and out of touch with their needs."
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": false,
+        "in_doc_nin_summary_pine_3": false,
+        "in_doc_nin_summary_pine_4": false,
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": true,
+        "highlight_summary_self_refine": [
+            "The Left believes Representative Dean Phillips's primary challenge will amplify Republican attacks on Biden's age, guarantee GOP benefits, and potentially spark intraparty bloodletting if he tries to deny Kamala Harris the nomination."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "nin_doc_in_summary_self_refine_0": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 55,
+                        "end": 116,
+                        "label": "Mr. Phillips's campaign is a vanity project or midlife crisis"
+                    },
+                    {
+                        "start": 117,
+                        "end": 139,
+                        "label": " but look at the polls"
+                    },
+                    {
+                        "start": 222,
+                        "end": 368,
+                        "label": "A Morning Consult survey last week had him trailing Mr. Trump by one point in Pennsylvania, two in Wisconsin, four in Arizona, and five in Georgia"
+                    }
+                ],
+                [
+                    {
+                        "start": 369,
+                        "end": 496,
+                        "label": "\n\nMr. Phillips isn't likely to win the nomination, but his candidacy will be a proxy for the Democratic desire for more choices"
+                    }
+                ],
+                [
+                    {
+                        "start": 823,
+                        "end": 880,
+                        "label": "\n\nIf Mr. Phillips can build momentum in the Granite State"
+                    },
+                    {
+                        "start": 882,
+                        "end": 1009,
+                        "label": "perhaps there's still a chance of making the Democratic primary interesting in a way that could help the party in November 2024"
+                    },
+                    {
+                        "start": 1022,
+                        "end": 1064,
+                        "label": "at least some Democrat had the guts to try"
+                    },
+                    {
+                        "start": 1072,
+                        "end": 1129,
+                        "label": "many of them are equally worried about Mr. Biden's health"
+                    }
+                ],
+                [
+                    {
+                        "start": 1225,
+                        "end": 1309,
+                        "label": "\n\nLots of Americans, including many Democrats, don't want the president to run again"
+                    },
+                    {
+                        "start": 1464,
+                        "end": 1549,
+                        "label": "Phillips, therefore, need only present himself as a receptacle for unease about Biden"
+                    },
+                    {
+                        "start": 1644,
+                        "end": 1716,
+                        "label": "they will use him to send a clear message to the party: anyone but Biden"
+                    }
+                ],
+                [
+                    {
+                        "start": 1717,
+                        "end": 1812,
+                        "label": "\n\nThe notable thing about the whole controversy is that much of what Phillips is saying is true"
+                    },
+                    {
+                        "start": 2058,
+                        "end": 2100,
+                        "label": "of course Biden is too old to be president"
+                    },
+                    {
+                        "start": 2102,
+                        "end": 2164,
+                        "label": "something Phillips can't bring himself to say in so many words"
+                    }
+                ],
+                [
+                    {
+                        "start": 2279,
+                        "end": 2390,
+                        "label": "each operative and officeholder afraid his or her future in the party will be damaged if they admit the obvious"
+                    },
+                    {
+                        "start": 2392,
+                        "end": 2470,
+                        "label": "That makes it highly unlikely the Dean Phillips campaign will ever go anywhere"
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right views Dean Phillips's candidacy primarily as an opportunistic ploy fueled by left-wing discomfort with President Biden's policies and age, rather than a genuine attempt to lead a \"new generation\"",
+            "will merely amplify Republican criticisms while potentially causing damaging infighting within the Democratic party."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": false,
+        "in_doc_nin_summary_baseline-reranking_5": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "The Right views Dean Phillips's candidacy as a guaranteed way to keep Biden's age and alleged feebleness in the public eye",
+            "fueling Republican attacks and benefiting the GOP",
+            "also risking intraparty bloodletting and a divided Democratic party."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": false,
+        "in_doc_nin_summary_baseline_4": false,
+        "in_doc_nin_summary_baseline_5": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "nin_doc_in_summary_baseline_2": false,
+        "highlight_summary_debate": [
+            "The Right claims that Dean Phillips's candidacy against Joe Biden will inadvertently fuel Republican attacks on Biden's age, create intraparty divisions, and potentially benefit the GOP in the 2024 election."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": false,
+        "in_doc_nin_summary_debate_4": false,
+        "in_doc_nin_summary_debate_5": false,
+        "nin_doc_in_summary_debate_0": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right views Dean Phillips's potential presidency as a guaranteed platform to constantly highlight President Biden's aging issues and perceived weaknesses without solving internal Democratic problems,",
+            "ultimately benefiting Republican interests due to subsequent intra-party conflicts and negative campaigning over age-related criticisms."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "The Right argues that the Dean Phillips campaign will serve as a proxy for the Democratic desire for more choices",
+            "and will fuel the GOP false equivalency machine, giving Republicans ammunition for their unfair age-based attack on Joe Biden."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": false,
+        "in_doc_nin_summary_pine_4": false,
+        "in_doc_nin_summary_pine_5": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "The Right sees Dean Phillips's candidacy as a guaranteed way to keep Biden's age and alleged feebleness in the public eye,",
+            "amplified by conservative media serving to portray Democrats as cowards who won't speak out against the incumbent."
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": false,
+        "in_doc_nin_summary_self_refine_5": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 280,
+                        "end": 369,
+                        "label": "A leadership transition doesn't need to happen urgently, but the wheels should be turning"
+                    }
+                ],
+                [
+                    {
+                        "start": 370,
+                        "end": 451,
+                        "label": "\n\nStepping aside from leadership would not necessarily require leaving the Senate"
+                    },
+                    {
+                        "start": 629,
+                        "end": 755,
+                        "label": "The time has come for the Kentucky senator, after his long, impressive run, to make the decision to step aside from leadership"
+                    }
+                ],
+                [
+                    {
+                        "start": 756,
+                        "end": 831,
+                        "label": "\n\nWe ought to add an upper age limit for president, Congress, and judges in"
+                    }
+                ],
+                [
+                    {
+                        "start": 2268,
+                        "end": 2319,
+                        "label": "Senate leaders are chosen by their party colleagues"
+                    },
+                    {
+                        "start": 2397,
+                        "end": 2541,
+                        "label": "If they think Mr. McConnell can still be an effective leader of an increasingly fractious GOP Senate conference, then he should stay in the job."
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 1129,
+                        "end": 1545,
+                        "label": "\n\nRemoving a president or a Supreme Court justice from office on grounds of mental or physical unfitness would instigate a titanic political power struggle; doing so because they'd hit a constitutional age limit would be a routine thing. Many state courts, for example, already have mandatory retirement ages. Adding such limits is likely to save us more grief than it will cost us in the services of wise old heads."
+                    },
+                    {
+                        "start": 1545,
+                        "end": 1936,
+                        "label": "\n\nOthers argue, 'We act as if these septuagenarians and octogenarians have been thrust upon us by some unknown force. We put them there. If three-quarters of voters truly believed President Joe Biden is too old for office, they would find someone else to run. But Democrats would rather pretend that the president. is an intellectual and physical dynamo because they want to hold onto power."
+                    },
+                    {
+                        "start": 1936,
+                        "end": 2189,
+                        "label": "\n\nThe reality is that when it matters, voters across the country love the old-timers---perhaps because they are known quantities or maybe they bring home the money or maybe people genuinely like them. If they didn't, none of them would be in Washington."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right views Mitch McConnell's potential exit from leadership as potentially catastrophic due to fears of increased partisan chaos, divisiveness, and democratic instability without a figure possessing significant influence to bridge gaps between warring factions within the party"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "highlight_summary_baseline": [
+            "The Right believes that pushing out Mitch McConnell would be a strategic mistake for Republicans,",
+            "as it could lead to a fractious and irresponsible Senate GOP that would be detrimental to democracy and stable governance."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "The Right-leaning perspective views McConnell's potential retirement as a potentially disastrous mistake",
+            "it could lead to a loss of legislative viability, destabilization, chaos in governance, and potentially damage the Republican Party's chances in the 2024 election."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "nin_doc_in_summary_debate_0": true,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right believes that pushing out Senate leader Mitch McConnell, who is aging and has had health issues, would be a mistake",
+            "that could lead to a more fractious and irresponsible Senate GOP,",
+            "potentially destabilizing democracy and governance."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "highlight_summary_pine": [
+            "The Right argues that McConnell's age and health issues have made him a liability for the Republican Party and that it is time for him to step aside from leadership"
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "nin_doc_in_summary_pine_0": false,
+        "highlight_summary_self_refine": [
+            "The Right believes that removing Mitch McConnell from leadership could destabilize democracy and governance,",
+            "as a more fractious Senate GOP,",
+            "fueled by Donald Trump's influence and a contested 2024 election, would be a risk to the country."
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": false,
+        "nin_doc_in_summary_self_refine_0": true,
+        "nin_doc_in_summary_self_refine_1": false,
+        "nin_doc_in_summary_self_refine_2": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 210,
+                        "end": 360,
+                        "label": "McConnell's most dramatic feats of partisanship are in the past, and a party still in former president Donald Trump's thrall is ready to be rid of him"
+                    }
+                ],
+                [
+                    {
+                        "start": 532,
+                        "end": 611,
+                        "label": "McConnell's biggest problem might be that he hasn't made Biden's life miserable"
+                    },
+                    {
+                        "start": 613,
+                        "end": 712,
+                        "label": "Instead, Biden got a great deal of legislation passed in his first two years, some of it bipartisan"
+                    }
+                ],
+                [
+                    {
+                        "start": 838,
+                        "end": 976,
+                        "label": "\n\nMcConnell's hold on the Senate GOP is the fulcrum on which a divided government depends for its rare but essential legislative viability"
+                    },
+                    {
+                        "start": 978,
+                        "end": 1082,
+                        "label": "He's the often silent partner with the White House and Senate Democrats in figuring out how to cut deals"
+                    },
+                    {
+                        "start": 1083,
+                        "end": 1087,
+                        "label": "with"
+                    },
+                    {
+                        "start": 1150,
+                        "end": 1163,
+                        "label": "MAGA fanatics"
+                    }
+                ],
+                [
+                    {
+                        "start": 1236,
+                        "end": 1360,
+                        "label": "\n\nIt's unclear that any likely McConnell successor will have the influence and authority to keep Senate Republicans together"
+                    },
+                    {
+                        "start": 1470,
+                        "end": 1599,
+                        "label": "In his absence, the odds are high that the Senate GOP will become as fractious and irresponsible as its counterparts in the House"
+                    },
+                    {
+                        "start": 1647,
+                        "end": 1698,
+                        "label": "that's not good for democracy and stable governance"
+                    }
+                ],
+                [
+                    {
+                        "start": 1908,
+                        "end": 2064,
+                        "label": "In six months, McConnell has gone from the G. O. P. 's feared power broker to a symbol of how quickly things can go wrong for America's fragile gerontocracy"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 713,
+                        "end": 838,
+                        "label": "\n\nIn the coming days, expect more Republicans to say publicly what they might now only be saying privately about the senator."
+                    }
+                ],
+                [
+                    {
+                        "start": 2141,
+                        "end": 2588,
+                        "label": "\n\nWhat if Biden has his own McConnell moment? Imagine it happening in the latter days of the 2024 campaign, with Trump as the Republican nominee and the fate of the free world itself on the line. This is hardly an implausible hypothetical. There are, sadly, a million possibilitiesa health scare, a bad fall as McConnell experienced, just the accelerated condition of advanced old age. The reign of the octogenarians is a risky bet for a democracy"
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left notes that Mitch McConnell's increasing frailty raises concerns over whether other aging politicians, including President Biden, may experience similarly debilitating moments and potentially compromise democratic stability."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "highlight_summary_baseline": [
+            "The Left believes that if Senate Minority Leader Mitch McConnell's health forces him from his position, it could lead to a more divided and irresponsible Senate GOP, posing a threat to democracy and stable governance."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": false,
+        "in_doc_nin_summary_baseline_4": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "highlight_summary_debate": [
+            "The Left believes that Mitch McConnell's health issues and potential departure from the Senate GOP leadership pose a risk to democracy and stable governance,",
+            "his absence could lead to a more fractious and irresponsible party."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": false,
+        "in_doc_nin_summary_debate_4": false,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Left believes that Senate Minority Leader Mitch McConnell's health issues and advanced age make him a liability for the Republican Party and the country",
+            "and that his departure could lead to a more fractious and irresponsible Senate GOP."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "The Left believes that the time has come for Senator Mitch McConnell to step aside from his leadership role in the Senate, given his recent health issues and advanced age",
+            "adding an upper age limit for public office would be a necessary step to ensure the country's stability and democracy."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": true,
+        "highlight_summary_self_refine": [
+            "The Left believes that Mitch McConnell's hold on the Senate GOP is crucial for legislative viability",
+            "his potential departure could lead to a more divided and irresponsible party, with negative consequences for democracy and stable governance."
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": false,
+        "in_doc_nin_summary_self_refine_4": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 675,
+                        "end": 804,
+                        "label": "This discrimination did not just happen in a history bookit happened to me, and it happened to Buttigieg, too. 'Identity matters."
+                    },
+                    {
+                        "start": 1062,
+                        "end": 1138,
+                        "label": "These facets of their identities mean that they can understand the powerless"
+                    },
+                    {
+                        "start": 1161,
+                        "end": 1229,
+                        "label": "and that they can understand the alienated, having been marginalized"
+                    }
+                ],
+                [
+                    {
+                        "start": 1230,
+                        "end": 1528,
+                        "label": "\n\nAs interest in Buttigieg grows, so too will interest in his idea that while Trump may be the 'evangelical dream president,  he has been a nightmare for Christians whose faith is more liberal when it comes to LGBT issues, women's rights, racial reconciliation and other topics related to diversity"
+                    },
+                    {
+                        "start": 1719,
+                        "end": 1853,
+                        "label": "He seems to be interested in winning the majority of Americans who believe that a great America includes a more inclusive Christianity"
+                    }
+                ],
+                [
+                    {
+                        "start": 1854,
+                        "end": 1868,
+                        "label": "\n\nProgressives"
+                    },
+                    {
+                        "start": 1890,
+                        "end": 1925,
+                        "label": "are challenging the fundamentalists"
+                    },
+                    {
+                        "start": 1940,
+                        "end": 1972,
+                        "label": "on what it means to be Christian"
+                    },
+                    {
+                        "start": 1982,
+                        "end": 2070,
+                        "label": "40 years after some prominent evangelical Christians organized a Moral Majority movement"
+                    },
+                    {
+                        "start": 2131,
+                        "end": 2193,
+                        "label": "a comparable effort by liberal religious leaders is coalescing"
+                    },
+                    {
+                        "start": 2287,
+                        "end": 2336,
+                        "label": "Buttigieg is a symbol for a rising Christian left"
+                    }
+                ],
+                [
+                    {
+                        "start": 2337,
+                        "end": 2384,
+                        "label": "\n\nThe three Democrats Buttigieg, Warren, Booker"
+                    },
+                    {
+                        "start": 2385,
+                        "end": 2427,
+                        "label": "discussing their faith are right to insist"
+                    },
+                    {
+                        "start": 2482,
+                        "end": 2519,
+                        "label": "Lord Jesus spent far more time urging"
+                    },
+                    {
+                        "start": 2593,
+                        "end": 2659,
+                        "label": "treat people with dignity than he did discussing any sexual issues"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 386,
+                        "label": "For voters. who gathered to celebrate a record 'rainbow wave' of LGBT political candidatesless than five years removed from victory in the fight for same-sex marriage, and fighting the Trump administration's policies on transgender rights to this daywitnessing a same-sex couple run for president as a team was a powerful sight, a magic that no other presidential campaign can replicate"
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left emphasizes the significance of Buttigieg's identity as a gay man in understanding his ability to connect with marginalized communities and promote a more inclusive form of Christianity that prioritizes social justice and compassion."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "highlight_summary_baseline": [
+            "The Left sees Buttigieg as a symbol of a rising Christian left, who can understand and represent the powerless and marginalized due to his own experiences with identity and discrimination."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "highlight_summary_debate": [
+            "The Left views Pete Buttigieg as a powerful symbol of a rising Christian left,",
+            "highlighting the importance of identity and diversity in understanding the powerless and marginalized,",
+            "and positioning him as a unifying force for a more inclusive America."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "nin_doc_in_summary_debate_2": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Left sees Buttigieg as a symbol of a rising Christian left,",
+            "who can understand the powerless and marginalized due to his own experiences of discrimination,",
+            "and is now running to win the majority of Americans who believe in a more inclusive Christianity."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "highlight_summary_pine": [
+            "The Left is portraying Buttigieg as a symbol of a more inclusive and progressive Christianity",
+            "that is more welcoming to marginalized communities, including the LGBT community."
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "The Left believes that Cory Booker, Kamala Harris, and Pete Buttigieg's diverse identities and experiences as marginalized individuals uniquely qualify them to understand and represent the powerless,",
+            "their identities are essential to challenging the dominant, conservative narrative around Christianity and promoting a more inclusive, equitable, and progressive Christianity."
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": false,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 79,
+                        "label": "Buttigieg may not have wanted to run as 'the gay candidate' in the 2020 primary"
+                    },
+                    {
+                        "start": 85,
+                        "end": 158,
+                        "label": "that's the angle that many national media reporters find most interesting"
+                    },
+                    {
+                        "start": 701,
+                        "end": 851,
+                        "label": "But the media knows what it likes, and the Democratic candidates will feel a gravitational pull in the direction of these kinds of familiar narratives"
+                    }
+                ],
+                [
+                    {
+                        "start": 852,
+                        "end": 890,
+                        "label": "\n\nPence has never criticized Buttigieg"
+                    },
+                    {
+                        "start": 892,
+                        "end": 962,
+                        "label": "He has never attacked Buttigieg for his homosexuality or anything else"
+                    },
+                    {
+                        "start": 1035,
+                        "end": 1202,
+                        "label": "The only time Pence publicly referred to the South Bend mayor was to pay him a compliment. 'I hold Mayor Buttigieg in the highest personal regard,  wrote Pence in 2015"
+                    },
+                    {
+                        "start": 1527,
+                        "end": 1627,
+                        "label": "To stand a chance in 2020, the elite young mayor must somehow portray himself as an aggrieved victim"
+                    },
+                    {
+                        "start": 1682,
+                        "end": 1739,
+                        "label": "to make his sexuality the central issue of his campaign.\n"
+                    }
+                ],
+                [
+                    {
+                        "start": 1738,
+                        "end": 1808,
+                        "label": "\n\nButtigieg 'holds himself out as a more tolerant Christian than Pence"
+                    },
+                    {
+                        "start": 1877,
+                        "end": 1966,
+                        "label": "He uses Pence's Christian orthodoxy to suggest Buttigieg's Christianity is somehow better"
+                    }
+                ],
+                [
+                    {
+                        "start": 2177,
+                        "end": 2318,
+                        "label": "But I'm hard-pressed to see why progressive Christians should be particularly bothered by their relative weakness within the Democratic Party"
+                    },
+                    {
+                        "start": 2721,
+                        "end": 2852,
+                        "label": "it is not at all absurd for clear-eyed conservative Christians to vote for Trump, given that any conceivable Democratic alternative"
+                    },
+                    {
+                        "start": 2855,
+                        "end": 2974,
+                        "label": "including Pete Buttigieg---is going to be very bad on abortion and religious liberty when it conflicts with LGBT rights"
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right views Pete Buttigieg as a symbol of a rising Christian left,",
+            "who is targeting a majority of Americans who believe in a more inclusive Christianity",
+            "and is part of a broader movement of progressive Christians challenging the fundamentalists' stranglehold on what it means to be Christian."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "nin_doc_in_summary_baseline-reranking_2": true,
+        "highlight_summary_baseline": [
+            "The Right perspective views Buttigieg as a symbol of a rising Christian left, who, along with other Democrats, is challenging the conservative stranglehold on Christianity",
+            "and promoting a more inclusive faith that emphasizes generosity to the poor, welcoming to strangers, and treating people with dignity."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "nin_doc_in_summary_baseline_0": true,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "The Right emphasizes that Pete Buttigieg's identity as a gay candidate has the potential to tap into a more inclusive and tolerant form of Christianity that aligns with the values of many Americans."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": false,
+        "nin_doc_in_summary_debate_0": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right views Buttigeg's emphasis on his identity and attacks on Pence as an attempt to tap into familiar media-driven narratives about heroic minorities standing up to oppressive forces",
+            "rather than running genuine campaigns centered around his qualifications and policy proposals."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "highlight_summary_pine": [
+            "The Right argues that Buttigieg's campaign is an attempt to portray himself as an aggrieved victim in order to stand a chance in the Democratic primaries, and that he is intolerant of Pence's Christian orthodoxy."
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "nin_doc_in_summary_pine_0": false,
+        "highlight_summary_self_refine": [
+            "The Right perspective views Buttigieg's campaign as a symbol of a rising Christian left,",
+            "emphasizing inclusivity and welcoming to all."
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": true,
+        "nin_doc_in_summary_self_refine_0": true,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 76,
+                        "label": "Ron DeSantis had to counter the perception that his campaign is in free-fall"
+                    },
+                    {
+                        "start": 78,
+                        "end": 131,
+                        "label": "and he did a good job of explaining his greatest hits"
+                    },
+                    {
+                        "start": 152,
+                        "end": 160,
+                        "label": "on Covid"
+                    },
+                    {
+                        "start": 165,
+                        "end": 197,
+                        "label": "fighting progressive prosecutors"
+                    },
+                    {
+                        "start": 207,
+                        "end": 241,
+                        "label": "he would have sacked Anthony Fauci"
+                    },
+                    {
+                        "start": 243,
+                        "end": 273,
+                        "label": "a nice contrast with Mr. Trump"
+                    }
+                ],
+                [
+                    {
+                        "start": 429,
+                        "end": 446,
+                        "label": "\n\nVivek Ramaswamy"
+                    },
+                    {
+                        "start": 493,
+                        "end": 535,
+                        "label": "has the gift of energy and verbal facility"
+                    },
+                    {
+                        "start": 537,
+                        "end": 567,
+                        "label": "He can sling appealing phrases"
+                    },
+                    {
+                        "start": 582,
+                        "end": 596,
+                        "label": "that Americans"
+                    },
+                    {
+                        "start": 597,
+                        "end": 611,
+                        "label": "are hungry for"
+                    },
+                    {
+                        "start": 652,
+                        "end": 690,
+                        "label": "But he can also sound like a young man"
+                    }
+                ],
+                [
+                    {
+                        "start": 872,
+                        "end": 988,
+                        "label": "\n\nIt was Vivek Ramaswamy's night in Milwaukee, but not necessarily in a way that advances his presidential ambitions"
+                    },
+                    {
+                        "start": 1264,
+                        "end": 1335,
+                        "label": "He swung for the fences in pursuit of as many viral moments as possible"
+                    }
+                ],
+                [
+                    {
+                        "start": 1421,
+                        "end": 1438,
+                        "label": "There is a notion"
+                    },
+                    {
+                        "start": 1508,
+                        "end": 1572,
+                        "label": "that DeSantis is no longer Donald Trump's most viable challenger"
+                    }
+                ],
+                [
+                    {
+                        "start": 1591,
+                        "end": 1633,
+                        "label": "DeSantis polls strongest among Republicans"
+                    },
+                    {
+                        "start": 1773,
+                        "end": 1814,
+                        "label": "And no one so much as laid a glove on him"
+                    }
+                ],
+                [
+                    {
+                        "start": 1815,
+                        "end": 1831,
+                        "label": "\n\nMike Pence had"
+                    },
+                    {
+                        "start": 1841,
+                        "end": 1862,
+                        "label": "substantive exchanges"
+                    },
+                    {
+                        "start": 1989,
+                        "end": 2064,
+                        "label": "Pence had a strong debate---arguably the strongest of any of the candidates"
+                    }
+                ],
+                []
+            ],
+            [
+                [
+                    {
+                        "start": 2100,
+                        "end": 2614,
+                        "label": "\n\nRegardless, the problem for all of these candidates remains the fundamental one: How do you convince the average center-right primary voter that you're a better choice to lead the Republican party into the future? How do you distinguish yourself from the also-rans? How do you displace Trump without taking him on directly? Only 45 men have ever been president of the United States. It's an office that doesn't fall into your lap. If you want to be president, you can't be a wallflower. You've got to go take it."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right-leaning perspective portrays the Republican debate as a contest between Donald Trump and any other candidate,",
+            "the other candidates failing to differentiate themselves from Trump and struggling to address issues in a meaningful way, ultimately making it seem like no one is ready to challenge Trump's dominance."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "in_doc_nin_summary_baseline-reranking_5": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "The Right-leaning perspective emphasizes that the Republican candidates, particularly Ron DeSantis, failed to effectively differentiate themselves from former President Donald Trump",
+            "instead focused on criticizing \"wokeness\" and other perceived liberal issues, ultimately failing to showcase a clear alternative to Trump."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": false,
+        "in_doc_nin_summary_baseline_4": true,
+        "in_doc_nin_summary_baseline_5": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "The Right-leaning perspective portrays the Republican presidential candidates as failing to distinguish themselves from Donald Trump and each other",
+            "many of them avoiding direct criticism of Trump and engaging in unhelpful and uniform rhetoric on issues like climate change and \"wokeness\"."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": false,
+        "in_doc_nin_summary_debate_4": true,
+        "in_doc_nin_summary_debate_5": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right-leaning perspective is that the debate highlighted the weakness of candidates other than Donald Trump,",
+            "with many struggling to differentiate themselves from him and failing to address key issues, allowing Trump to remain a dominant force in the Republican primary."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "The Right argues that the debate was a contest between Trump and Anybody Else,",
+            "the candidates mostly agreeing on issues like climate change, border security, and the decline of the nation."
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": false,
+        "in_doc_nin_summary_pine_4": true,
+        "in_doc_nin_summary_pine_5": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": true,
+        "highlight_summary_self_refine": [
+            "The Right-leaning perspective views the debate as a missed opportunity for candidates to differentiate themselves from Donald Trump",
+            "most candidates seeming \"too uniform, too preoccupied with 'wokeness' and other far-right inanities\" to challenge Trump's dominance."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": false,
+        "in_doc_nin_summary_self_refine_4": true,
+        "in_doc_nin_summary_self_refine_5": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 83,
+                        "end": 164,
+                        "label": "When candidates did draw seeming contrasts, they often avoided using Trump's name"
+                    },
+                    {
+                        "start": 172,
+                        "end": 232,
+                        "label": "the closest anyone got to a true broadside against Trump was"
+                    },
+                    {
+                        "start": 260,
+                        "end": 274,
+                        "label": "Chris Christie"
+                    }
+                ],
+                [
+                    {
+                        "start": 514,
+                        "end": 662,
+                        "label": "Hutchinson floating the idea that Trump's role in the Jan. 6 insurrection might have disqualified him to serve as president under the 14th Amendment"
+                    },
+                    {
+                        "start": 664,
+                        "end": 747,
+                        "label": "The risk for Trump in not showing up was that he wouldn't be able to defend himself"
+                    }
+                ],
+                [
+                    {
+                        "start": 767,
+                        "end": 810,
+                        "label": "\n\nThe big loser in all of this was DeSantis"
+                    },
+                    {
+                        "start": 812,
+                        "end": 815,
+                        "label": "who"
+                    },
+                    {
+                        "start": 828,
+                        "end": 888,
+                        "label": "needed to show he was still the clear second-place candidate"
+                    },
+                    {
+                        "start": 1005,
+                        "end": 1007,
+                        "label": "he"
+                    },
+                    {
+                        "start": 1013,
+                        "end": 1033,
+                        "label": "added few highlights"
+                    },
+                    {
+                        "start": 1035,
+                        "end": 1037,
+                        "label": "He"
+                    },
+                    {
+                        "start": 1108,
+                        "end": 1134,
+                        "label": "ended up sounding clinical"
+                    },
+                    {
+                        "start": 1136,
+                        "end": 1180,
+                        "label": "DeSantis also dodged question after question"
+                    }
+                ],
+                [
+                    {
+                        "start": 1363,
+                        "end": 1434,
+                        "label": "Nikki Haley laid the blame on Republicans, not Democrats, over spending"
+                    },
+                    {
+                        "start": 1436,
+                        "end": 1447,
+                        "label": "Doug Burgum"
+                    },
+                    {
+                        "start": 1509,
+                        "end": 1554,
+                        "label": "offered an almost measured answer on abortion"
+                    },
+                    {
+                        "start": 1583,
+                        "end": 1636,
+                        "label": "DeSantis ranted about so-called 'post-birth' abortion"
+                    },
+                    {
+                        "start": 1670,
+                        "end": 1720,
+                        "label": "even the Fox News audience seemed to boo Ramaswamy"
+                    }
+                ],
+                [
+                    {
+                        "start": 1756,
+                        "end": 1834,
+                        "label": "\n\nBut this is, at the end of the day, a contest between Trump and Anybody Else"
+                    },
+                    {
+                        "start": 2049,
+                        "end": 2212,
+                        "label": "the candidates mostly just seemed too uniform, too preoccupied with 'wokeness' and other far-right inanities to differentiate themselves from the other Trump Lites"
+                    }
+                ],
+                [
+                    {
+                        "start": 2478,
+                        "end": 2578,
+                        "label": "almost every person on the stage agreed with everyone else. There was precious little actual debate."
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left notes that the Republican debate was dominated by a contest between Trump and his potential challengers",
+            "most candidates failing to differentiate themselves from the former president and struggling to articulate their own policies and positions."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": false,
+        "in_doc_nin_summary_baseline-reranking_5": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "The Left sees the debate as a contest between Donald Trump and \"Anybody Else,\"",
+            "the other candidates failing to differentiate themselves from Trump and mostly agreeing on right-wing talking points, resulting in a lack of actual debate."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": false,
+        "in_doc_nin_summary_baseline_5": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "The Left views the recent Republican debate as a contest between Donald Trump and the rest of the field",
+            "most candidates failing to differentiate themselves from Trump and his ideology."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": false,
+        "in_doc_nin_summary_debate_5": false,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Left emphasizes that the Republican debate was a contest between Donald Trump and \"Anybody Else\"",
+            "Most candidates failing to differentiate themselves from the former president and largely agreeing on conservative talking points."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "The Left argues that the Republican candidates in the debate failed to differentiate themselves from each other and from Donald Trump",
+            "They mostly agreed on issues such as climate change, border security, and the decline of the nation."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": false,
+        "in_doc_nin_summary_pine_5": false,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "The Left notes that the Republican debate was a contest between Donald Trump and any other candidate",
+            "most candidates struggling to differentiate themselves from Trump's brand of politics, sounding too uniform and preoccupied with \"far-right inanities\" and \"Trump Lites,\"",
+            "failing to provide meaningful contrasts or policy proposals, with DeSantis and others notably underwhelming."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": false,
+        "in_doc_nin_summary_self_refine_5": false,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false,
+        "nin_doc_in_summary_self_refine_2": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 21,
+                        "end": 106,
+                        "label": "President Donald Trump has repeatedly criticized NATO over how the alliance is funded"
+                    },
+                    {
+                        "start": 187,
+                        "end": 239,
+                        "label": "he has made a number of misleading claims about NATO"
+                    },
+                    {
+                        "start": 313,
+                        "end": 407,
+                        "label": "Trump's remarks on NATO seem to suggest that Europe must pay the US for protection from Russia"
+                    }
+                ],
+                [
+                    {
+                        "start": 947,
+                        "end": 1079,
+                        "label": "The Trump administration deserves credit for re-energizing the Quad and pushing the NATO allies to take the Chinese threat seriously"
+                    },
+                    {
+                        "start": 1081,
+                        "end": 1164,
+                        "label": "Yet the president deserves blame not simply for questioning the defense commitments"
+                    },
+                    {
+                        "start": 1200,
+                        "end": 1377,
+                        "label": "but also for denigrating democratic norms and procedures, fawning over powerful autocrats, and often treating issues of democracy promotion and human rights as mere distractions"
+                    }
+                ],
+                [
+                    {
+                        "start": 1690,
+                        "end": 1811,
+                        "label": "Trump's hostility to NATO and the lack of U.S. leadership make the situation in 2019 quite different from past challenges"
+                    }
+                ],
+                [
+                    {
+                        "start": 2353,
+                        "end": 2471,
+                        "label": "One Western diplomat told The Atlantic that Trump should avoid the appearance of bullying Germany on military spending"
+                    }
+                ],
+                []
+            ],
+            [
+                [
+                    {
+                        "start": 2683,
+                        "end": 3463,
+                        "label": "Atlantic\n\nMany note that 'Canada and the European allies came to our defense on 9/11 and invoked the Article 5 mutual-defense clause of the treaty. They viewed Osama bin Laden's attack on the United States as an attack on them as well. NATO allies went into Afghanistan with us where they and partner nations have suffered more than 1, 000 combat deaths. Most of those countries remain on the ground with our soldiers to this day. NATO allies have also fought with us in the successful campaign to defeat the Islamic State caliphate in Syria and Iraq. They conduct counterterror operations with us in Africa. The European allies have assumed full responsibility for peacekeeping in Bosnia and the bulk of the burden in Kosovo. NATO is still the world's strongest military alliance"
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left views NATO as vital for collective defense against authoritarian powers like Russia and China",
+            "criticizing President Trump's criticism and mishandling of NATO diplomacy, which undermines the alliance's effectiveness and democratic values."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "The Left views President Trump's criticism of NATO as misguided, as it distorts the alliance's purpose and function",
+            "his rhetoric has created a hostile environment that undermines the alliance's cohesion and effectiveness in defending against common threats."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "The Left perspective argues that President Trump's criticism of NATO undermines democratic norms, erodes the alliance's cohesion, and weakens its ability to counter authoritarian powers."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": false,
+        "nin_doc_in_summary_debate_0": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Left views President Trump's criticism of NATO as misguided and damaging to the alliance",
+            "it distorts the purpose and functioning of the organization and undermines democratic norms and institutions."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "The Left argues that NATO's purpose is to serve the common interest of its member states",
+            "the alliance is a necessary one in an era of rising authoritarianism."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "The Left views President Trump's criticism of NATO as misguided and damaging, undermining democratic norms and prioritizing a flawed \"principled realism.\""
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": false,
+        "nin_doc_in_summary_self_refine_0": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 326,
+                        "end": 455,
+                        "label": "In an era of rising Russian aggression and continuing terrorist threats, NATO continues to be an alliance of paramount importance"
+                    }
+                ],
+                [
+                    {
+                        "start": 614,
+                        "end": 687,
+                        "label": "Russian revanchism under Vladimir Putin shows NATO's continuing relevance"
+                    },
+                    {
+                        "start": 830,
+                        "end": 844,
+                        "label": "As for the U.S"
+                    },
+                    {
+                        "start": 848,
+                        "end": 889,
+                        "label": "NATO is a modest investment in deterrence"
+                    },
+                    {
+                        "start": 970,
+                        "end": 1031,
+                        "label": "NATO at 70 is a challenged alliance but still a necessary one"
+                    }
+                ],
+                [
+                    {
+                        "start": 1619,
+                        "end": 1673,
+                        "label": "NATO needs some tough love, and Trump is delivering it"
+                    }
+                ],
+                [
+                    {
+                        "start": 1674,
+                        "end": 1735,
+                        "label": "\n\nThe time has also come for NATO and American leaders to say"
+                    },
+                    {
+                        "start": 1781,
+                        "end": 1833,
+                        "label": "that the actions of the current Hungarian government"
+                    },
+                    {
+                        "start": 1885,
+                        "end": 1937,
+                        "label": "run counter to their longstanding commitment to NATO"
+                    }
+                ],
+                [
+                    {
+                        "start": 2355,
+                        "end": 2397,
+                        "label": "Turkey is no friend to America or the West"
+                    },
+                    {
+                        "start": 2464,
+                        "end": 2562,
+                        "label": "Its international objectives are too divergent and its domestic institutions are too authoritarian"
+                    },
+                    {
+                        "start": 2564,
+                        "end": 2681,
+                        "label": "Rather than desperately attempting to hold Ankara in NATO, the allies should begin considering how to ease Turkey out"
+                    }
+                ],
+                [
+                    {
+                        "start": 3207,
+                        "end": 3369,
+                        "label": "with so many other priorities on its desk, is it time for the United States to at the very least transfer more security responsibility for Europe to the Europeans"
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right argues instead that NATO remains a crucial military alliance essential for countering emerging threats from rival powers such as Russia and authoritarians from regions across the globe despite flaws within individual member nation governance systems which may call for improved performance"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "in_doc_nin_summary_baseline-reranking_5": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "highlight_summary_baseline": [
+            "The Right views NATO as a necessary alliance that requires a re-balancing of defense spending among member states",
+            "some countries, such as Germany, not contributing enough to their common defense."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "in_doc_nin_summary_baseline_5": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "The Right views NATO as a necessary yet imperfect alliance that demands increased defense spending and effective leadership from its member states",
+            "criticizes President Trump's rhetoric for being counterproductive to achieving these goals."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "in_doc_nin_summary_debate_5": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right emphasizes that President Trump's criticism of NATO's funding and defense spending has been misinterpreted",
+            "Europe's failure to meet its defense commitments undermines the alliance's purpose",
+            "Also highlighting the alliance's continued relevance in the face of global threats from Russia and China."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "highlight_summary_pine": [
+            "The Right argues that NATO is a necessary alliance that continues to be relevant in the face of rising Russian aggression and authoritarian challenges from China."
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "in_doc_nin_summary_pine_5": true,
+        "nin_doc_in_summary_pine_0": false,
+        "highlight_summary_self_refine": [
+            "The Right emphasizes the importance of collective defense spending and NATO's continued relevance,",
+            "The Right criticizes President Trump's harsh rhetoric and pressure on other member states, which undermines the alliance's original purpose and creates a transactional relationship."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "in_doc_nin_summary_self_refine_5": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 37,
+                        "label": "Biden is right to call Putin a killer"
+                    },
+                    {
+                        "start": 39,
+                        "end": 73,
+                        "label": "Now he should declassify the proof"
+                    },
+                    {
+                        "start": 849,
+                        "end": 992,
+                        "label": "If Biden wants to send a signal to Moscow that he's taking a tougher line, there's a simple way to do it: Declassify Kara-Murza's test results."
+                    }
+                ],
+                [
+                    {
+                        "start": 992,
+                        "end": 1115,
+                        "label": "\n\nIt's worth remembering that the Obama administration's obsession with a Vladimir Putin 'reset' was a Joe Biden production"
+                    },
+                    {
+                        "start": 1371,
+                        "end": 1383,
+                        "label": "It was Biden"
+                    },
+                    {
+                        "start": 1384,
+                        "end": 1392,
+                        "label": "who told"
+                    },
+                    {
+                        "start": 1393,
+                        "end": 1408,
+                        "label": "Dmitry Medvedev"
+                    },
+                    {
+                        "start": 1453,
+                        "end": 1583,
+                        "label": "that Russia's accession to the WTO was 'the most important item on our agenda.  A weird thing to gift a soulless dictator, I'd say"
+                    }
+                ],
+                [
+                    {
+                        "start": 1856,
+                        "end": 1929,
+                        "label": "\n\nPutin's gangsterism has been ignored by administrations of both parties"
+                    },
+                    {
+                        "start": 1960,
+                        "end": 2018,
+                        "label": "and most definitely including the Barack Obama/Biden terms"
+                    },
+                    {
+                        "start": 2189,
+                        "end": 2383,
+                        "label": "Biden calls it a demonstration that we can 'walk and chew gum at the same time for places where it's in our mutual interest to to work together.  Putin likely sees it as more reason for impunity"
+                    },
+                    {
+                        "start": 3154,
+                        "end": 3236,
+                        "label": "He evidently believes the American president would slip up in any live interaction"
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right believes that Biden's labeling of Putin as a 'killer' is truthful and a necessary change in tone from the previous administration",
+            "it signifies a shift away from the Obama-Biden era's lenient approach towards Russia",
+            "and it signifies a shift towards a more forceful stance against its aggression."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "nin_doc_in_summary_baseline-reranking_2": true,
+        "highlight_summary_baseline": [
+            "The Right views Biden's labeling of Putin as a killer as a truthful statement, supported by evidence of Russia's actions against opposition figures and its invasion of Crimea",
+            "The right sees it as a shift in tone in US-Russia relations that may lead to improved relations if Russia stops its malicious activities."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "The Right views Biden's characterization of Putin as a \"killer\" as a truthful effort to draw a sharp contrast with his predecessor",
+            "to mark a shift towards a tougher stance on Russia, indicating a change in the tone of U.S. relations with Moscow."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right views Biden's labeling of Putin as a \"killer\" as a truthful statement, acknowledging Russia's targeted attacks on opposition figures and its invasion of Crimea",
+            "sees it as a necessary shift in tone in US-Russia relations after Trump's more conciliatory approach."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "highlight_summary_pine": [
+            "The Biden administration's approach to Russia is a departure from the Obama administration's'reset' policy, which was driven by a desire to improve relations with Vladimir Putin and Russia.",
+            "The Biden administration is taking a tougher stance on Russia, with President Biden calling Putin a 'killer' and announcing new sanctions against Russian officials.",
+            "This shift in approach is seen as an effort to draw a sharp contrast with the Trump administration's handling of Russia, which was criticized for being too soft on Putin.",
+            "The Biden administration's approach is also seen as a way to push back against Russia's interference in U.S. elections and other aggressive"
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "nin_doc_in_summary_pine_2": true,
+        "nin_doc_in_summary_pine_3": true,
+        "highlight_summary_self_refine": [
+            "The Right views Biden's labeling of Putin as a \"killer\" as a truthful statement",
+            "Daniel Fried saying, \"let's call things by their name,\" marking a shift in US-Russia relations."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": true
+    }
+]

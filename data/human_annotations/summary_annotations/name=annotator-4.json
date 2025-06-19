@@ -1,0 +1,2380 @@
+[
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 2323,
+                        "end": 2527,
+                        "label": "The Senate's role is not to undertake a new inquiry, but rather to conduct a trial based on the articles of impeachment passed by the House and decide whether removing a president from office is warranted"
+                    },
+                    {
+                        "start": 3053,
+                        "end": 3157,
+                        "label": "the House rushed and failed to complete its duty thoroughly, making a mockery of the impeachment process"
+                    }
+                ],
+                [
+                    {
+                        "start": 3423,
+                        "end": 3456,
+                        "label": "Mr. Trump exhibited poor judgment"
+                    },
+                    {
+                        "start": 3537,
+                        "end": 3556,
+                        "label": "but he broke no law"
+                    },
+                    {
+                        "start": 4204,
+                        "end": 4347,
+                        "label": "If a majority of Senators believe the evidence is as inadequate as we do, then repudiate this impeachment with votes to acquit on both articles"
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right believes that the Senate should not be swayed by the House's incomplete and partisan impeachment inquiry",
+            "should instead focus on conducting a trial based on the articles of impeachment passed by the House",
+            "with the possibility of calling additional witnesses as needed."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "nin_doc_in_summary_baseline-reranking_2": false,
+        "highlight_summary_baseline": [
+            "The Right argues that the Senate should not be swayed by President Trump's obstruction",
+            "should instead fill gaps in the evidence by calling witnesses such as John Bolton"
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "President Trump's obstruction and stonewalling have created gaps in the evidence",
+            "the Senate has a responsibility to fill in order to ensure a fair trial and shed light on the impeachment scandal"
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": false,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "the Senate should not be swayed by the House's incomplete and rushed investigation",
+            "should focus on conducting a trial based on the articles of impeachment passed by the House"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "the Senate should not be pressured to conduct a new investigation, but rather to conduct a trial based on the articles of impeachment passed by the House",
+            "the initial arguments in a Senate trial should be limited to the testimony and evidence gathered by the House"
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "the Senate should fill the gaps in the House's evidence by calling additional witnesses",
+            "as the House's rushed and incomplete investigation, combined with Mr. Trump's obstruction, have prevented sufficient evidence from being gathered"
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 442,
+                        "end": 627,
+                        "label": "the born-alive bill would've done nothing more than insist that health-care providers treat children born alive after attempted abortions the same way that they'd treat any other infant"
+                    }
+                ],
+                [
+                    {
+                        "start": 702,
+                        "end": 760,
+                        "label": "babies who survive an abortion attempt are left vulnerable"
+                    },
+                    {
+                        "start": 914,
+                        "end": 989,
+                        "label": "The Born-Alive Abortion Survivors Protection Act would remedy this problem."
+                    }
+                ],
+                [
+                    {
+                        "start": 1195,
+                        "end": 1253,
+                        "label": "These are babies that doctors tried, but failed, to abort."
+                    },
+                    {
+                        "start": 1352,
+                        "end": 1420,
+                        "label": "The bill would stop not a single abortion. This is about infanticide"
+                    }
+                ],
+                [
+                    {
+                        "start": 1475,
+                        "end": 1618,
+                        "label": "It should not be difficult for the members of the U. S. Congress to affirm that a child, outside the womb, deserves the protections of our law."
+                    }
+                ],
+                [
+                    {
+                        "start": 1936,
+                        "end": 1969,
+                        "label": "the majority of elected Democrats"
+                    },
+                    {
+                        "start": 2025,
+                        "end": 2028,
+                        "label": "are"
+                    },
+                    {
+                        "start": 2060,
+                        "end": 2090,
+                        "label": "far to the left of the country"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 2399,
+                        "end": 2918,
+                        "label": "\n\nDemocrats are helping Trump expand the range of anti-abortion voters---arguably his single most reliable constituency---from religious conservatives to Americans in the broad muddled middle of the most important political debate in this country's history. In the space of only a month, the percentage of Americans who identified themselves as 'pro-choice' dropped by nearly 10. Some 47 percent of Americans call themselves pro-choice; the same percentage say they are pro-life. This has not been the case in a decade."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right emphasizes that laws such as the Born-Alived Act already exist protecting infants born through complications during an aborted pregnancy",
+            "those opposed claim it unduly restricts abortion procedures"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "The Right views the Born-Alive Abortion Survivors Protection Act as unnecessary",
+            "politicians use the issue to score political points and mislead about the reality of abortion and newborns who are born to die"
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "nin_doc_in_summary_baseline_0": true,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "The Right argues that the Born-Alive Abortion Survivors Protection Act is unnecessary because existing laws already protect babies born alive during an abortion",
+            "the proposed legislation unfairly targets abortion providers and is a manufactured controversy."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "laws already exist protecting babies born alive due to abortions",
+            "certain politicians manipulate debates on the issue solely for partisan gains"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "highlight_summary_pine": [
+            "the Born-Alive Abortion Survivors Protection Act would ensure that babies who survive an abortion attempt are treated with the same degree of care as any other newborn",
+            "this is a matter of basic human dignity and the value of life"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": false,
+        "in_doc_nin_summary_pine_3": false,
+        "in_doc_nin_summary_pine_4": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "The Right perspective views the Born-Alive Abortion Survivors Protection Act as a politically motivated measure designed to exploit the issue of infanticide and score votes"
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "nin_doc_in_summary_self_refine_0": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 869,
+                        "end": 1071,
+                        "label": "Politicians who twist the memory of a birth followed by a death to score political points and mislead about the reality of both abortion and newborns who are born to die should be ashamed of themselves."
+                    }
+                ],
+                [
+                    {
+                        "start": 1071,
+                        "end": 1112,
+                        "label": "\n\nLaws already exist to protect the baby."
+                    },
+                    {
+                        "start": 1257,
+                        "end": 1267,
+                        "label": "That bill,"
+                    },
+                    {
+                        "start": 1306,
+                        "end": 1409,
+                        "label": "did not include criminal penalties for doctors and did not impose specific requirements on medical care"
+                    },
+                    {
+                        "start": 1479,
+                        "end": 1488,
+                        "label": "this bill"
+                    },
+                    {
+                        "start": 1535,
+                        "end": 1555,
+                        "label": "singles out abortion"
+                    },
+                    {
+                        "start": 1620,
+                        "end": 1677,
+                        "label": "with the intent to malign and threaten abortion providers"
+                    }
+                ],
+                [],
+                [
+                    {
+                        "start": 1678,
+                        "end": 1778,
+                        "label": "\n\nSasse is capitalizing on a manufactured controversy over a New York bill recently signed into law."
+                    }
+                ],
+                [
+                    {
+                        "start": 2343,
+                        "end": 2478,
+                        "label": "\n\nThe move is part of a larger strategy designed to maintain current abortion restrictions while revving up the GOP's conservative base"
+                    },
+                    {
+                        "start": 2493,
+                        "end": 2587,
+                        "label": "and courting independents who may be turned off by the Democrats' position on abortion rights."
+                    }
+                ]
+            ],
+            [
+                []
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "recent legislation is not about protecting infants born alive during abortions, but rather a manufactured controversy used by politicians to score political points and restrict abortion rights",
+            "existing laws already protecting the rights of infants born alive."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "The Left views the recent abortion laws as a manufactured controversy aimed at scoring political points",
+            "politicians twisting the reality of both abortion and newborns who are born to die to mislead the public"
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "The Left views the controversy surrounding the New York abortion bill as a manufactured issue",
+            "laws such as the Born-Alive Infants Protection Act already protect infants born alive"
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_3": false,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "the Born-Alive Infants Protection Act already guarantees full legal rights to infants born at any stage of development",
+            "the recent New York bill aims to maintain current abortion restrictions while solidifying the right to abortion up to 24 weeks"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "The Left is attempting to downplay the significance of the Born-Alive Abortion Survivors Protection Act"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "nin_doc_in_summary_pine_0": true,
+        "highlight_summary_self_refine": [
+            "The Left views the Born-Alive Abortion Survivors Protection Act as a mischaracterized law that singles out abortion providers",
+            "criticizes politicians for exploiting tragedies to score points and mislead the public."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 866,
+                        "end": 1076,
+                        "label": "Problems arise in making the product and then delivering it to where it's most needed in a time of crisis. Only the federal government coordinating the response has the insight and resources to help with that.\n"
+                    }
+                ],
+                [
+                    {
+                        "start": 1338,
+                        "end": 1493,
+                        "label": "Under the Defense Production Act, the federal government can, like a traffic cop, direct that inventories be allocated where they are needed most urgently."
+                    },
+                    {
+                        "start": 1895,
+                        "end": 2000,
+                        "label": "The government can commit to buy the whole needed supply at a price that makes the investment worthwhile."
+                    }
+                ],
+                [
+                    {
+                        "start": 2702,
+                        "end": 2792,
+                        "label": "mobilizing idled workers should be part of how to get the health situation under control.\n"
+                    }
+                ],
+                [
+                    {
+                        "start": 4180,
+                        "end": 4315,
+                        "label": "Banal bureaucratic organization problems seem, for now, to be blunting the collective power of American capitalism in a time of crisis."
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 2791,
+                        "end": 3458,
+                        "label": "\n\nCritics, however, posit that 'War powers are notoriously difficult to contain once unleashed. Witness the fact that the post-9/11 Authorization for Use of Military Force remains in effect nearly 19 years later. Instead of bending wartime statutes to domestic use or activating emergency statutes laced throughout the federal code, Congress could have identified the specific powers Mr. Trump needed to deal with this crisis and conferred them on a temporary and renewable basis. It is difficult to make room for constitutional considerations while a pandemic is sweeping the nation and overwhelming health systems. But this is when those considerations matter most."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left emphasizes the need for the federal government to coordinate and direct the response to the crisis",
+            "flaws in relying solely on private companies to address shortfalls",
+            "the importance of the Defense Production Act in allocating resources and prioritizing needs"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "nin_doc_in_summary_baseline-reranking_2": false,
+        "highlight_summary_baseline": [
+            "relying solely on private companies to address shortfalls in medical equipment and supplies is insufficient",
+            "the federal government must coordinate the response to allocate resources effectively and ensure that critical products are delivered to areas of greatest need."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "federal government coordination and resources under the Defense Production Act are necessary to address the limitations of relying solely on private companies to prioritize production and distribution of medical equipment during a crisis"
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "nin_doc_in_summary_debate_0": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "solely relying on businesses to manufacture and deliver necessary goods during times of crisis can lead to unequal distribution, inefficiencies, and failed deliveries",
+            "necessitating active intervention from the federal governemnt through legislation and resource allocation"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "the federal government should use the Defense Production Act to direct companies to produce masks and ventilators, and to provide subsidies and guarantees to companies that can increase production capacity"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "nin_doc_in_summary_pine_0": true,
+        "highlight_summary_self_refine": [
+            "The Left views the Defense Production Act as a necessary tool for the federal government to direct the allocation of resources, ensure timely delivery of essential medical equipment, and mobilize idled workers",
+            "to address production shortfalls exacerbated by private companies prioritizing orders from the highest bidder."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 556,
+                        "end": 704,
+                        "label": "Describing what the nation needs and allowing industry to self-select what capabilities it can offer toward those requirements is a winning strategy"
+                    }
+                ],
+                [
+                    {
+                        "start": 1097,
+                        "end": 1209,
+                        "label": "They do not need an order from Washington to respond to the obvious business opportunity and public health need."
+                    }
+                ],
+                [
+                    {
+                        "start": 1410,
+                        "end": 1442,
+                        "label": "for more complex medical devices"
+                    },
+                    {
+                        "start": 1830,
+                        "end": 1846,
+                        "label": "Building as many"
+                    },
+                    {
+                        "start": 1859,
+                        "end": 1994,
+                        "label": "as we can as fast as we can is best achieved by maximizing existing capacity and using well-understood production and assembly methods."
+                    }
+                ],
+                [
+                    {
+                        "start": 2684,
+                        "end": 2896,
+                        "label": "If there's a role for government, it's probably to help set a number for how many are needed, and then provide a guarantee to manufacturers for any they can't sell or to hospitals for any they end up not needing."
+                    },
+                    {
+                        "start": 3012,
+                        "end": 3131,
+                        "label": "if the White House and hospitals want to see ventilators produced and deployed quickly, the orders need to come in now."
+                    }
+                ],
+                [
+                    {
+                        "start": 4003,
+                        "end": 4072,
+                        "label": "It isn't as simple as telling manufacturers to start pumping them out"
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "although companies are stepping up to address production deficiencies, the scale and complexity of the task requires federal government coordination through the Defense Produce Act to effectively allocate resources and ensure timely delivery of necessary goods during times of crisis and war"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "highlight_summary_baseline": [
+            "relying on business alone isn't enough to address shortfalls",
+            "the federal government must coordinate the response to ensure that products are allocated where they are needed most urgently."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "nin_doc_in_summary_baseline_0": true,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "federal government coordination and resources under the Defense Production Act are necessary to address the limitations of relying solely on private companies to prioritize production and distribution of medical equipment during a crisis"
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "while private companies are trying to rise to the occasion, the federal government must coordinate the response to address shortfalls, particularly in sourcing materials and delivering products to areas of greatest need in a timely manner."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "highlight_summary_pine": [
+            "the federal government should use the Defense Production Act to direct private companies to produce medical equipment, such as masks and ventilators, and provide guarantees to manufacturers for any excess supplies."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": false,
+        "in_doc_nin_summary_pine_4": true,
+        "nin_doc_in_summary_pine_0": true,
+        "highlight_summary_self_refine": [
+            "relying solely on private companies is insufficient",
+            "the federal government's coordination under the Defense Production Act necessary."
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "nin_doc_in_summary_self_refine_0": true,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 103,
+                        "end": 168,
+                        "label": "he won the very voters who'd later be the core Trump constituency"
+                    }
+                ],
+                [
+                    {
+                        "start": 950,
+                        "end": 1117,
+                        "label": "Trump appeals to the same secular, nationalist voters that were Perot's base. But Trump also appealed to and made pacts with all the factions of the Republican party. "
+                    }
+                ],
+                [
+                    {
+                        "start": 1254,
+                        "end": 1327,
+                        "label": "Trump, like Perot, campaigned as something of a moderate on social issues"
+                    },
+                    {
+                        "start": 1330,
+                        "end": 1393,
+                        "label": "but he did so without excluding social conservatives, and since"
+                    },
+                    {
+                        "start": 1531,
+                        "end": 1544,
+                        "label": "also realized"
+                    },
+                    {
+                        "start": 1605,
+                        "end": 1723,
+                        "label": "that third-party politics was a waste of time, when the same resources could be used to take over the GOP from within."
+                    }
+                ],
+                [
+                    {
+                        "start": 1758,
+                        "end": 1804,
+                        "label": "Ross Perot looks like a key precursor to Trump"
+                    },
+                    {
+                        "start": 2000,
+                        "end": 2036,
+                        "label": "But there were some key differences."
+                    },
+                    {
+                        "start": 2303,
+                        "end": 2341,
+                        "label": "Perot was feisty but rarely obnoxious."
+                    }
+                ],
+                [
+                    {
+                        "start": 2784,
+                        "end": 2952,
+                        "label": "Trump's political genius, or one aspect of it, was his realization that he could capture the Republican presidential nomination and, eventually, the Republican Party. I"
+                    }
+                ],
+                []
+            ],
+            [
+                [
+                    {
+                        "start": 3047,
+                        "end": 3881,
+                        "label": "Blog\n\nAfter Republicans lost in 2012, failing to retake the White House and actually losing Senate seats despite a sagging Obama-era economy, two prominent analyses were proposed. One---the Republican National Committee's 'autopsy'---said the GOP's problem was embracing social issues too much and liberal immigration too little. The other analysis---the 'Missing White Voter' thesis---was grounded in actual data. It said the problem was that the GOP of the Bush family and Mitt Romney had turned off working-class whites to the point that they disengaged. Put another way, the GOP establishment in 2012 said the party could win by becoming more like George H. W. Bush; the deeper analysis said it could win if it became more like Ross Perot. 'Ross Perot didn't 'give us Trump.  But he gave us an insight into what America was really"
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right views H. Ross Perot as a pioneering figure who laid the groundwork for Donald Trump's populist movemen"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "highlight_summary_baseline": [
+            "The Right views H. Ross Perot as a pioneering figure who laid the groundwork for Donald Trump's populist insurgency",
+            "by revealing a truth about the American electorate that is attracted to eccentric outsiders who promise to upend the status quo."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": false,
+        "in_doc_nin_summary_baseline_4": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "The Right views H. Ross Perot as a trailblazer who pioneered the insurgent trail that Donald Trump rode to victory,",
+            "disaffected voters feel harmed by free trade and threatened by demographic change."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": true,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right views H. Ross Perot as a pioneering figure who, with his folksy persona and opposition to free trade, revealed a truth about the American electorate that Donald Trump would later exploit,",
+            "attracting disaffected white non-college graduates and laying the groundwork for Trump's populist insurgency."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "highlight_summary_pine": [
+            "The Right sees Ross Perot as a precursor to Donald Trump, a billionaire populist who opposed free trade deals and spoke bluntly and simply",
+            "but with a more moderate and pragmatic approach than Trump's."
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": false,
+        "in_doc_nin_summary_pine_4": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "The Right views Ross Perot as a pioneer who attracted disaffected voters with his anti-free trade message, paving the way for Trump's victory.",
+            "Unlike Trump, Perot was a folksy, morally upright figure who held views to the left of the Republican mainstream and warned presciently about the negative impact of trade barriers."
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": false,
+        "in_doc_nin_summary_self_refine_4": false,
+        "nin_doc_in_summary_self_refine_0": true,
+        "nin_doc_in_summary_self_refine_1": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 322,
+                        "end": 394,
+                        "label": "H. Ross Perot pioneered the insurgent trail that Trump rode to victory.\n"
+                    }
+                ],
+                [
+                    {
+                        "start": 559,
+                        "end": 835,
+                        "label": "Ross Perot revealed a truth about the American electorate that Donald Trump would exploit: There is a big chunk of voters who feel disaffected, harmed by free trade, threatened by demographic change, and attracted to an eccentric outsider who promises to upend the status quo."
+                    }
+                ],
+                [
+                    {
+                        "start": 1124,
+                        "end": 1240,
+                        "label": "Trump's brand of populism is far angrier than Perot's ever was. And Perot dealt with slights differently than Trump."
+                    },
+                    {
+                        "start": 1344,
+                        "end": 1397,
+                        "label": "In this way and many others, Perot was one of a kind."
+                    }
+                ],
+                [
+                    {
+                        "start": 1871,
+                        "end": 1999,
+                        "label": "Apart from criticism of NAFTA, a protectionist bent, and a general disdain for the two parties, they didn't have much in common."
+                    }
+                ],
+                [
+                    {
+                        "start": 2587,
+                        "end": 2767,
+                        "label": "\n\nYes, some will rush to blame Perot for Trump, but I think a cleaner case is to blame the parties for their distance from the voters---a distance, I would suggest, that continues."
+                    }
+                ],
+                [
+                    {
+                        "start": 3161,
+                        "end": 3335,
+                        "label": "\n\nThe two issues with which he is most often associated, support for a balanced budget and opposition to free trade, put him at odds with both of our major political parties."
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 1999,
+                        "end": 2588,
+                        "label": "\n\nMany of Mr. Perot's predictions about Nafta's impact---notably his claim of the 'giant sucking sound' Americans would hear as businesses shuttered operations in the United States---proved either wrong or overstated. Paradoxically, however, his skepticism about lowering trade barriers has proved prescient. The 'sucking sound' from Mexico was never really heard, but there certainly was one from China after it entered the World Trade Organization in 2001. In one study a group of economists estimated that rising Chinese imports from 1999 to 2011 cost up to 2. 4 million American jobs.\n"
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left views Ross Perot as a pioneer of the outsider, populist movement that Donald Trump would later exploit",
+            "Perot's message of upending the status quo and addressing concerns of disaffected white non-college graduates resonating with voters"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "in_doc_nin_summary_baseline-reranking_5": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "The Right views H. Ross Perot as a pioneering figure who laid the groundwork for Donald Trump's populist insurgency",
+            "by revealing a truth about the American electorate that is attracted to eccentric outsiders who promise to upend the status quo."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "in_doc_nin_summary_baseline_5": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "The Left views Ross Perot as a pioneering figure who revealed a truth about the American electorate by attracting disaffected white non-college graduates with his populist message",
+            "paving the way for future outsiders like Donald Trump to exploit these sentiments"
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "in_doc_nin_summary_debate_5": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Left views Ross Perot as a precursor to Donald Trump",
+            "tapped into the same disaffected white non-college graduates",
+            "more genial and less angry tone",
+            "made non-ideological arguments about public issues that are now lost in partisan squabbling"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_3": false,
+        "highlight_summary_pine": [
+            "The Left."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "in_doc_nin_summary_pine_5": true,
+        "nin_doc_in_summary_pine_0": true,
+        "highlight_summary_self_refine": [
+            "The Left sees Ross Perot as a precursor to Donald Trump",
+            "revealing a truth about the American electorate that Trump would later exploit",
+            "Perot's unique qualities and legacy are still missed."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": false,
+        "in_doc_nin_summary_self_refine_4": false,
+        "in_doc_nin_summary_self_refine_5": true,
+        "nin_doc_in_summary_self_refine_0": true,
+        "nin_doc_in_summary_self_refine_1": false,
+        "nin_doc_in_summary_self_refine_2": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 530,
+                        "end": 612,
+                        "label": "For someone who says she hates politics, Michelle Obama is a political powerhouse."
+                    }
+                ],
+                [
+                    {
+                        "start": 1262,
+                        "end": 1503,
+                        "label": "Reminding people that in the relatively short period of time between when Michelle Obama taped her convention speech and when it ran on Monday night, an additional 20, 000 Americans have died from Covid-19 is a disastrous self-own by Trump.\n"
+                    }
+                ],
+                [
+                    {
+                        "start": 1752,
+                        "end": 1804,
+                        "label": "it's hard to characterize this platform as moderate."
+                    },
+                    {
+                        "start": 2433,
+                        "end": 2607,
+                        "label": "Overall, the platform isn't a radical break from Democrats' past---this is Joe Biden we're talking about---but it contains a very wide-ranging suite of progressive proposals."
+                    }
+                ],
+                [
+                    {
+                        "start": 3661,
+                        "end": 3766,
+                        "label": "But sidelining figures who appeal to the young is a missed opportunity to build Democratic Party loyalty."
+                    }
+                ],
+                [
+                    {
+                        "start": 2607,
+                        "end": 2766,
+                        "label": "\n\nProgressives want to hear that conservative policy ideas have failed on a practical level and are about to be swept aside in favor of an entirely new agenda."
+                    },
+                    {
+                        "start": 2767,
+                        "end": 2905,
+                        "label": "Somewhat ironically, it's former president and centrist extraordinaire Bill Clinton who delivered a speech that was closest to that spirit"
+                    }
+                ],
+                [
+                    {
+                        "start": 3200,
+                        "end": 3572,
+                        "label": "Jill Biden's speech reminded us that we've been suffering through months of a void of emotional leadership, living in a country whose head of state doesn't seem to realize or care that this is a difficult situation. The moment of connection with a person who grasps exactly how bad things are was, ironically, the single most hopeful moment of American politics in months."
+                    }
+                ]
+            ],
+            [
+                []
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "the Democratic National Convention's platform contains a wide-ranging suite of progressive proposals"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "in_doc_nin_summary_baseline-reranking_5": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "highlight_summary_baseline": [
+            "Michelle Obama delivered a powerful speech criticizing President Trump",
+            "Joe Biden's platform includes progressive proposals"
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "in_doc_nin_summary_baseline_5": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "The Left sees Michelle Obama's scathing indictment of President Trump as a powerful call to action",
+            "highlighting the administration's mishandling of the coronavirus pandemic and Trump's refusal to accept responsibility for the devastating consequences",
+            "emphasizing the Democratic Party's platform as a wide-ranging suite of progressive proposals to address key issues."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "in_doc_nin_summary_debate_5": true,
+        "nin_doc_in_summary_debate_0": true,
+        "nin_doc_in_summary_debate_1": false,
+        "nin_doc_in_summary_debate_2": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "Michelle Obama delivered a powerful speech criticizing President Trump, highlighting his mishandling of the coronavirus pandemic",
+            "the Democratic Party's platform includes progressive proposals"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_5": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "The Left is emphasizing the need for a more equitable and just society, with a focus on addressing systemic inequalities and promoting social and economic mobility for all."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "in_doc_nin_summary_pine_5": true,
+        "nin_doc_in_summary_pine_0": true,
+        "highlight_summary_self_refine": [
+            "The Left condemns President Trump's catastrophic handling of the coronavirus pandemic, as exemplified by Michelle Obama's scathing indictment and Trump's dismissive respons"
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "in_doc_nin_summary_self_refine_5": true,
+        "nin_doc_in_summary_self_refine_0": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 25,
+                        "label": "The Democratic Convention"
+                    },
+                    {
+                        "start": 502,
+                        "end": 530,
+                        "label": "was, in a word, unwatchable."
+                    }
+                ],
+                [
+                    {
+                        "start": 2713,
+                        "end": 2842,
+                        "label": "In its singular focus on winning in November, the Democratic Party is going to let China get away with causing a global pandemic."
+                    }
+                ],
+                [
+                    {
+                        "start": 3071,
+                        "end": 3184,
+                        "label": "\n\nThe one deficiency of Tuesday's convention, which is no small deal, was the total lack of discussion on policy."
+                    },
+                    {
+                        "start": 3466,
+                        "end": 3479,
+                        "label": "The Democrats"
+                    },
+                    {
+                        "start": 3574,
+                        "end": 3724,
+                        "label": "have yet to make a compelling case that Biden can make a real difference on the coronavirus, the economy, or any of the numerous other issues on deck."
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 1076,
+                        "end": 2064,
+                        "label": "\n\nListening to Governor Cuomo, one would think that he had not in fact presided over the nation's, and perhaps the world's, most disastrous Covid-19 response. New York State has seen about 34, 000 Covid-related deaths, out of a national total of 170, 000, which means that New Yorkers have died at a rate close to four times what would be expected based on their proportion of the U. S. population. 'Moreover, Cuomo bears considerable responsibility for at least 6, 700 deaths of people in care facilities, and possibly many thousands more, because of his health commissioner's mandate in March that nursing homes admit Covid patients after being discharged from the hospital. Last night, Cuomo explained what he saw as a key lesson of the pandemic: 'How vulnerable we are when we are divided and how many lives can be lost when our government is incompetent.  He was referring to leadership in Washington, but the governor could just as easily have been talking about his own governance."
+                    }
+                ],
+                [
+                    {
+                        "start": 3724,
+                        "end": 4166,
+                        "label": "\n\nAfter all the hype, the Democratic Party's Me Too-era reckoning over Bill Clinton ended with the former president getting a speaking slot at the 2020 Democratic National Convention. The move is evidence Clinton's power in the party hasn't diminished to the degree many expected, which is itself evidence that the Democratic establishment's bluster about Me Too was more about political expediency than women. Al Franken should be in revolt."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right views the Democratic Convention as lacking crucial policies, failing to hold China accountable for COVID-19"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "highlight_summary_baseline": [
+            "The Right sees the Democratic National Convention as a platform for progressive proposals"
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "nin_doc_in_summary_baseline_0": true,
+        "highlight_summary_debate": [
+            "The Right views the Democratic National Convention as a ratings disaster and a missed opportunity that failed to effectively present the party's platform and candidates, while also omitting key issues like China's role in the coronavirus pandemic."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": false,
+        "nin_doc_in_summary_debate_0": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right believes that the Democratic National Convention's focus on the coronavirus pandemic, while neglecting China's responsibility in its spread, and the lack of discussion on policy, are significant deficiencies",
+            "that allow the Republican Party to capitalize on these issues."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "highlight_summary_pine": [
+            "The Right argues that the Democratic National Convention was unwatchable",
+            "the party should have focused more on policy",
+            "and less on entertainment."
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": false,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "nin_doc_in_summary_pine_2": true,
+        "highlight_summary_self_refine": [
+            "The Right perspective criticizes the Democratic National Convention for its lack of policy discussion,",
+            "failure to hold China accountable for the pandemic",
+            "lack of appeal to young people",
+            "calling it a \"fiasco\" and a \"disastrous self-own\" by President Trump."
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": false,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false,
+        "nin_doc_in_summary_self_refine_2": true,
+        "nin_doc_in_summary_self_refine_3": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 554,
+                        "end": 686,
+                        "label": "Republicans clearly could have regained the Senate this year, but Mr. Trump's endorsed candidates lost in almost every swing state.\n"
+                    }
+                ],
+                [
+                    {
+                        "start": 913,
+                        "end": 988,
+                        "label": "all incumbent senators in the president's party running for reelection won."
+                    }
+                ],
+                [
+                    {
+                        "start": 1186,
+                        "end": 1284,
+                        "label": "\n\nEvery single Republican running for statewide office in Georgia won. Except for Herschel Walker."
+                    }
+                ],
+                [
+                    {
+                        "start": 1738,
+                        "end": 1766,
+                        "label": "The establishment leadership"
+                    },
+                    {
+                        "start": 1849,
+                        "end": 2000,
+                        "label": "would have Republican voters believe that if they only choose the right candidate in the primarytheir candidatethen the GOP's problems would be solved."
+                    }
+                ],
+                [
+                    {
+                        "start": 2483,
+                        "end": 2598,
+                        "label": "the Republican Party was outspent, out organized, out strategized, and flat-out out worked by Democrats in Georgia."
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 308,
+                        "label": "Some Republicans are blaming GOP failures in mail and early voting, and as long as that's the law the GOP will have to play by those rules. Early and mail voters in the Georgia runoff were 52% registered Democrats, to 39% Republicans. That's a huge deficit to make up on Election Day, especially if it rains."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Right sees the Georgia Senate election as a microcosm of the broader partisan landscape",
+            "the Democratic Party's gains were largely due to the Republican Party's nomination of a historically terrible candidate",
+            "and the party's inability to energize its base in a state where it still maintains a formidable foundation."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": false,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "nin_doc_in_summary_baseline-reranking_2": false,
+        "highlight_summary_baseline": [
+            "The Right believes that the Democratic Party's success in Georgia, particularly Senator Warnock's win, marks a generational moment for the center-left agenda",
+            "poses a significant threat to the Republican Party's ability to win the presidency in the foreseeable future."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "nin_doc_in_summary_baseline_0": true,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "The Right believes that a center-left agenda can be successfully moved forward in the country if the Democratic nominee can win in southern states,",
+            "making it nearly impossible for any Republican to win the presidency in the foreseeable future."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": true,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right sees the Georgia Senate election as a demonstration of the Democratic Party's structural advantages",
+            "Warnock's ability to raise money and win over White voters, positioning him as a valuable asset for the Democratic Party in future elections."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "highlight_summary_pine": [
+            "The Right argues that the Republican Party's problems are not due to the candidates they choose,",
+            "they are outspent, out-organized, and out-strategized by Democrats in key states like Georgia."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": false,
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "The Right perspective views the Georgia Senate election as a pivotal moment in the country's shift towards a center-left agenda",
+            "with the Democratic Party's victory potentially setting the stage for long-term dominance in the presidency."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "nin_doc_in_summary_self_refine_0": true,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 109,
+                        "label": "This is a generational moment and potential opportunity to move a center-left agenda forward for the country."
+                    },
+                    {
+                        "start": 200,
+                        "end": 357,
+                        "label": "if the nominee can compete and win in southern states, then it will be nearly impossible for any Republican to win the presidency for the foreseeable future."
+                    }
+                ],
+                [
+                    {
+                        "start": 925,
+                        "end": 1003,
+                        "label": "Warnock will be the most valuable asset and endorser for the Democratic Party."
+                    }
+                ],
+                [
+                    {
+                        "start": 1352,
+                        "end": 1376,
+                        "label": "Warnock's win means that"
+                    },
+                    {
+                        "start": 1627,
+                        "end": 1692,
+                        "label": "the Party's reputation for electoral incompetence is out of date."
+                    }
+                ],
+                [],
+                [
+                    {
+                        "start": 2142,
+                        "end": 2250,
+                        "label": "\n\nEven as some long-term trends seem to favor Democrats, the G. O. P. still has a formidable base in Georgia"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 1692,
+                        "end": 2141,
+                        "label": "\n\nBut not even the most optimistic liberal has reason to think that the page has turned, after an election in which Republicans nominated a historically terrible candidate and still only barely lost to a talented and well-funded incumbent. For several years, partisan politics have been on a knife's edge, and what matters most is how much you despise the other party. The Georgia Senate election was an example and an iteration of this history, too"
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left sees Warnock's win as a potential opportunity to move a center-left agenda forward for the country,",
+            "with his ability to raise money,",
+            "win White voters,",
+            "energize the Democratic base"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "nin_doc_in_summary_baseline-reranking_2": false,
+        "nin_doc_in_summary_baseline-reranking_3": false,
+        "highlight_summary_baseline": [
+            "The Left views the Georgia Senate election as a potential generational moment for the Democratic Party, where a center-left agenda can be moved forward",
+            "candidates like Raphael Warnock who have demonstrated their ability to win over White voters, minorities, and energize the Democratic base."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "The Left views the recent elections as a generational moment for the Democratic Party to move a center-left agenda forward,",
+            "significant opportunities for long-term growth and a strong potential to win the presidency in the future."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Left sees Warnock as the \"most valuable asset\" for the democratic party",
+            "fundraising abilities",
+            "appeal to white voters",
+            "capacity to motivate minority groups",
+            "strong contender to lead the nation towards a center- left agenda"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_4": false,
+        "highlight_summary_pine": [
+            "despite the Republican Party's formidable base",
+            "a testament to the Party's growing strength and organization in the state",
+            "the election was a victory for progressive Democrats,",
+            "Warnock's win ensuring a Democratic majority in the Senate."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": false,
+        "in_doc_nin_summary_pine_4": false,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "nin_doc_in_summary_pine_2": false,
+        "nin_doc_in_summary_pine_3": false,
+        "highlight_summary_self_refine": [
+            "recent elections as a generational moment and potential opportunity for the center-left agenda",
+            "significant challenges remain, including partisan politics and the G.O.P.'s base in Georgia"
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_4": false,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 151,
+                        "label": "The best course for Democrats, in elections and in government, is to develop a new agenda that synthesizes progressive values with conservative wisdom."
+                    }
+                ],
+                [
+                    {
+                        "start": 1524,
+                        "end": 1588,
+                        "label": "Democratic candidates need to clarify what standard they support"
+                    },
+                    {
+                        "start": 1609,
+                        "end": 1655,
+                        "label": "to let primary voters make an informed choice."
+                    },
+                    {
+                        "start": 1761,
+                        "end": 1868,
+                        "label": "Democratic candidates don't actually support open borders. They're just not yet comfortable explaining why."
+                    }
+                ],
+                [
+                    {
+                        "start": 1868,
+                        "end": 1949,
+                        "label": "\n\nDemocrats can also spend more time talking about the party's emerging solutions"
+                    },
+                    {
+                        "start": 2402,
+                        "end": 2445,
+                        "label": "There's more consensus here than you think."
+                    }
+                ],
+                [
+                    {
+                        "start": 2816,
+                        "end": 2880,
+                        "label": "it's nottrue that Trump ran and won as an ideological extremist."
+                    },
+                    {
+                        "start": 3205,
+                        "end": 3336,
+                        "label": "Far from being a counterexample to the theory that moderation pays off, Trump's election is, if anything, a testament to its power."
+                    }
+                ],
+                [
+                    {
+                        "start": 3577,
+                        "end": 3639,
+                        "label": "\n\nOthers ask, 'In what sense are the Dems moving too far left?"
+                    },
+                    {
+                        "start": 3720,
+                        "end": 3848,
+                        "label": "In moving to the left on taxes and spending, then, Democrats are actually moving toward voters' preferences, not away from them."
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "Democrats should move forward with a new agenda that incorporates progressive values with conservative wisdom",
+            "strengthening competition in capitalism",
+            "improving healthcare",
+            "addressing immigration in a more coherent manner"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "nin_doc_in_summary_baseline-reranking_2": true,
+        "nin_doc_in_summary_baseline-reranking_3": false,
+        "highlight_summary_baseline": [
+            "Democrats should develop a new agenda that balances progressive values with conservative wisdom",
+            "rather than engaging in a losing battle over socialism,",
+            "focus on articulating solutions to pressing issues like healthcare and immigration"
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": true,
+        "nin_doc_in_summary_baseline_2": false,
+        "highlight_summary_debate": [
+            "Democrats should develop a new agenda that synthesizes progressive values with conservative wisdom",
+            "need for regulation to preserve the market",
+            "clarifying immigration policies",
+            "promoting solutions to address urgent crises"
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": false,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": false,
+        "in_doc_nin_summary_debate_4": false,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": true,
+        "nin_doc_in_summary_debate_2": false,
+        "nin_doc_in_summary_debate_3": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "Democrats should develop a new agenda that synthesizes progressive values with conservative wisdom",
+            "the party is beginning to articulate new ways of thinking about problems and solving them,",
+            "needs to clarify its stance on issues like immigration and asylum"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "highlight_summary_pine": [
+            "Democratic Party is moving too far to the left",
+            "embracing policies such as Medicare-for-all, open borders, and socialism",
+            "alienate moderate voters and make it difficult for the party to win elections."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": false,
+        "in_doc_nin_summary_pine_4": true,
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": true,
+        "nin_doc_in_summary_pine_2": false,
+        "highlight_summary_self_refine": [
+            "Democrats should develop a pragmatic agenda balancing progressive values with conservative wisdom",
+            "moving the party towards voters' preferences on taxes and spending",
+            "clear, coherent solutions to pressing issues like immigration reform"
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": false,
+        "in_doc_nin_summary_self_refine_4": false,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false,
+        "nin_doc_in_summary_self_refine_2": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 17,
+                        "label": "The Democrats are"
+                    },
+                    {
+                        "start": 114,
+                        "end": 234,
+                        "label": "running so far to the left that many Trump-skeptical Republicans feel like they have no choice but to vote for him again"
+                    }
+                ],
+                [
+                    {
+                        "start": 775,
+                        "end": 900,
+                        "label": "enough Democrats are pushing 'Medicare-for-all' that they run the risk of the public thinking that is their overall approach."
+                    },
+                    {
+                        "start": 1131,
+                        "end": 1429,
+                        "label": "I'm not sure that's the consensus Democratic view. But when asked about what they would do about people crossing the border, no Democrat seemed to take the position that the U. S. should be able to decide (fairly) who needs to be offered asylum and who could be---safely and fairly---refused entry."
+                    }
+                ],
+                [
+                    {
+                        "start": 1429,
+                        "end": 1548,
+                        "label": "\n\nOn several polarizing issues, Democrats are refusing to offer the reassurances to moderate opinion that they once did"
+                    }
+                ],
+                [
+                    {
+                        "start": 1996,
+                        "end": 2021,
+                        "label": "Biden's drift to the left"
+                    },
+                    {
+                        "start": 2156,
+                        "end": 2228,
+                        "label": "is illustrative of a Democratic party held hostage by its woke minority."
+                    }
+                ],
+                [
+                    {
+                        "start": 3958,
+                        "end": 3976,
+                        "label": "Thus the activists"
+                    },
+                    {
+                        "start": 4005,
+                        "end": 4045,
+                        "label": "seize control of the party's nomination."
+                    },
+                    {
+                        "start": 4386,
+                        "end": 4496,
+                        "label": "Yet of course, dominating the intra-party discussion is not the same thing as winning an inter-party election."
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 2786,
+                        "end": 3773,
+                        "label": "\n\nIn the 2018 midterm elections, Pelosi's Democrats far outdid Hillary Clinton's 2016 performance. Pelosi's Democrats won the popular vote over Republicans by 6. 7 points nationwide. How? By relentlessly talking about pocketbook issues, particularly the Democrats' commitment to protecting voters' existing health-insurance arrangements. Attack ads against Republicans in 2018 focused on the provision of a bill that would have weakened protections for those with preexisting conditions. Pelosi's Democrats said Republicans would 'raise your premiums' and 'kick you off your health-care plan'. 'For good measure they accused Republicans of 'doubling the debt.  Pelosi and Chuck Schumer tried to tamp down the story of the migrant caravan then traveling through Mexico, calling President Trump's focus on it a distraction from health care. Pelosi's Democrats retook the Rust Belt districts that Donald Trump had won in 2016. She must have watched the Democratic primary debates in horror."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "Democrats should develop a new agenda that synthesizes progressive values with conservative wisdom",
+            "they should articulate a coherent approach to immigration"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "in_doc_nin_summary_baseline-reranking_4": true,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "highlight_summary_baseline": [
+            "Democrats should focus on developing a new agenda that balances progressive values with conservative wisdom",
+            "many of the party's candidates are beginning to articulate new ways of thinking about problems and solving them"
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": true,
+        "nin_doc_in_summary_baseline_0": true,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "Democratic party should develop a new agenda that synthesizes progressive values with conservative wisdom",
+            "moving away from extreme policies",
+            "embracing more moderate and coherent solutions"
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": true,
+        "nin_doc_in_summary_debate_1": false,
+        "nin_doc_in_summary_debate_2": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "Democrats are not moving too far left",
+            "articulating new ways of thinking about problems and solving them,",
+            "their proposals are in line with voters' preferences, particularly on issues like raising taxes on the rich and expanding government social programs."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "highlight_summary_pine": [
+            "The Democratic candidates are moving too far left",
+            "alienating moderate voters",
+            "could lead to a loss in the presidential election"
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": false,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": false,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "nin_doc_in_summary_pine_2": false,
+        "highlight_summary_self_refine": [
+            "Democrats should develop a new agenda that synthesizes progressive values with conservative wisdom",
+            "reformed capitalism that preserves competition",
+            "articulates clear policies on immigration and healthcare"
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": false,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "in_doc_nin_summary_self_refine_4": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": true,
+        "nin_doc_in_summary_self_refine_2": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 46,
+                        "end": 210,
+                        "label": " local officials in Greenville, Miss. , singled out Temple Baptist Church for hosting drive-in religious services despite the state declaring churches as essential."
+                    },
+                    {
+                        "start": 431,
+                        "end": 449,
+                        "label": "Cases of overreach"
+                    },
+                    {
+                        "start": 460,
+                        "end": 661,
+                        "label": "have led Attorney General William Barr to release a memo ordering federal prosecutors across the country to take legal action against state and local directives that infringe upon individual liberties."
+                    }
+                ],
+                [
+                    {
+                        "start": 2867,
+                        "end": 2997,
+                        "label": "the governor's executive orders may constitute a violation of the church's constitutional rights to the free exercise of religion."
+                    }
+                ],
+                [
+                    {
+                        "start": 3914,
+                        "end": 4010,
+                        "label": "The U. S. Justice Department should do everything it can to preserve our First Amendment rights."
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 1269,
+                        "end": 1975,
+                        "label": "\n\nThe Virginia church claims 'unequal treatment, and it submits photographs to make the point. One of them is a recent picture of Mr. Northam at a coronavirus press briefing. At least 21 people are visible in the room. Businesses deemed essential, meanwhile, attract hundreds. The church shows a photo of a Walmart parking lot, where its lawyers counted 268 cars. Virginia's state-run liquor stores are open and reportedly had their best March on record. 'When pressed last month about whether New Jersey's lockdown comported with the U. S. Constitution, Governor Phil Murphy said the question was above his pay grade: 'I wasn't thinking of the Bill of Rights when we did this.  We're grateful Mr. Barr is."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "severe restrictions on freedoms during the pandemic must still follow established constitutional precedents",
+            "disputes accusations of anti-religious bias in enforcement of uniform health regulations aimed at preventing infections"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "states and local officials have the authority to impose temporary economic restrictions during emergencies",
+            "the Constitution is not suspended in times of crisis",
+            "severe restrictions on individual liberties must be justified by a compelling government interest, such as fighting a pandemic."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": true,
+        "nin_doc_in_summary_baseline_2": true,
+        "highlight_summary_debate": [
+            "temporary economic restrictions in times of crisis, such as the pandemic, are constitutionally affirmed by the Supreme Court and can be narrowly tailored to achieve a compelling government interest, such as preventing the spread of the disease, making them justified and not discriminatory."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "nin_doc_in_summary_debate_0": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "severe restrictions on liberty necessitate convincing reasons and proportional responses",
+            "even constitutional freedoms can temporarily yield to pressing needs like pandemics while stressing uniform enforcement across scenarios"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "highlight_summary_pine": [
+            "the U.S. Justice Department should take legal action against state and local directives that infringe upon individual liberties",
+            "Attorney General William Barr is right in releasing a memo ordering federal prosecutors to do so."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": true,
+        "highlight_summary_self_refine": [
+            "severe restrictions on individual liberties can be narrowly tailored to achieve the compelling government interest of protecting public health."
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "nin_doc_in_summary_self_refine_0": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 102,
+                        "end": 156,
+                        "label": "the Supreme Court has affirmed their constitutionality"
+                    },
+                    {
+                        "start": 301,
+                        "end": 326,
+                        "label": "state and local officials"
+                    },
+                    {
+                        "start": 337,
+                        "end": 481,
+                        "label": "can protect the public health today and engage in the difficult process of social and economic reconstruction that we'll need after the pandemic"
+                    }
+                ],
+                [
+                    {
+                        "start": 603,
+                        "end": 654,
+                        "label": "wealthy and powerful conservatives and their allies"
+                    },
+                    {
+                        "start": 696,
+                        "end": 741,
+                        "label": "who are driving the relatively small protests"
+                    },
+                    {
+                        "start": 1359,
+                        "end": 1362,
+                        "label": "But"
+                    },
+                    {
+                        "start": 1434,
+                        "end": 1466,
+                        "label": "the current protests ring hollow"
+                    }
+                ],
+                [
+                    {
+                        "start": 1467,
+                        "end": 1668,
+                        "label": "\n\nAs a matter of doctrinal constitutional law, Barr is absolutely right. Severe restrictions on individual liberties need to be justified by a compelling government interest---like fighting a pandemic."
+                    },
+                    {
+                        "start": 2205,
+                        "end": 2327,
+                        "label": "It would be a bad idea to turn that high responsibility into a political tool to help the president's reelection campaign."
+                    }
+                ],
+                [
+                    {
+                        "start": 2533,
+                        "end": 2622,
+                        "label": "It's not discrimination when the same health and safety rules are applied equally to all."
+                    }
+                ],
+                [
+                    {
+                        "start": 3207,
+                        "end": 3330,
+                        "label": "\n\nThe constitutional guarantee of civil liberties is not absolute, and its abridgment is not necessarily an act of tyranny."
+                    },
+                    {
+                        "start": 3794,
+                        "end": 3918,
+                        "label": "rationale justifies and requires closing the doors to churches, synagogues, mosques and other traditional venues of worship."
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "severe restrictions on individual liberties during a pandemic are justified by a compelling government interest",
+            "must be narrowly tailored to achieving that goal,",
+            "not discriminatory when applied equally to all, citing examples of outbreaks traced to religious gatherings."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": false,
+        "in_doc_nin_summary_baseline-reranking_4": false,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "nin_doc_in_summary_baseline-reranking_2": true,
+        "highlight_summary_baseline": [
+            "severe restrictions on individual liberties during a pandemic must be justified by a compelling government interest",
+            "narrowly tailored to achieve that goal,",
+            "stay-at-home orders meeting these criteria"
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "in_doc_nin_summary_baseline_3": true,
+        "in_doc_nin_summary_baseline_4": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": true,
+        "nin_doc_in_summary_baseline_2": false,
+        "highlight_summary_debate": [
+            "stay-at-home orders and restrictions on gatherings are narrowly tailored to avoid the spread of the disease",
+            "emphasizes that these measures are justified by the compelling government interest of protecting public health and life"
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "in_doc_nin_summary_debate_4": true,
+        "nin_doc_in_summary_debate_0": true,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "the current protests as driven by wealthy and powerful conservatives who are trying to undermine the government's response to the pandemic",
+            "states have the constitutional authority to impose restrictions on individual liberties in times of crisis to protect public health."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_4": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "the government's restrictions on religious gatherings during the pandemic are discriminatory and violate the constitutional guarantee of free exercise of religion."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "in_doc_nin_summary_pine_4": true,
+        "nin_doc_in_summary_pine_0": true,
+        "highlight_summary_self_refine": [
+            "stay-at-home orders as narrowly tailored to avoiding the spread of the disease",
+            "applying the same health and safety rules to all,",
+            "these measures are justified by the government's compelling interest in fighting the pandemic."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": false,
+        "in_doc_nin_summary_self_refine_4": false,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false,
+        "nin_doc_in_summary_self_refine_2": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 110,
+                        "label": "Despite its surging popularity, there's no good evidence that ivermectin is effective against the coronavirus."
+                    }
+                ],
+                [
+                    {
+                        "start": 594,
+                        "end": 707,
+                        "label": "\nThe pro-ivermectin crowd would have you believe that the science on ivermectin is being 'suppressed.  It is not."
+                    }
+                ],
+                [
+                    {
+                        "start": 2311,
+                        "end": 2404,
+                        "label": "vulgar hostility to science isn't the only culprit in communities resistant to the vaccines. "
+                    },
+                    {
+                        "start": 2731,
+                        "end": 2887,
+                        "label": "there's a search for an alternative solution to the government-backed vaccines which requires turning to sources who have perceived ideological credibility."
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 2990,
+                        "end": 3520,
+                        "label": "\nEarlier this week, Senator Rand Paul (R-Ky. ), who is an ophthalmologist, argued that 'hatred for Trump' was hindering ivermectin research. Actually, Sen. Paul is who's hindering ivermectin research: He voted against the March stimulus bill that included funding for the NIH ACTIV-6 trial, which is studying ivermectin. And the researchers I spoke to last week were worried about exactly the opposite dynamic: At this point, many Americans are just taking ivermectin instead of enrolling in trials for potential COVID treatments."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "there is no good evidence that ivermectin is effective against the coronavirus",
+            "its promotion by fringe groups and individuals often ignores the harm it can cause and the established scientific consensus."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "despite its popularity, there is no good evidence that ivermectin is effective against the coronavirus,",
+            "increasing reports of side effects and emergency room visits have become alarming, largely among patients unwilling to get vaccinated"
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": true,
+        "highlight_summary_debate": [
+            "proponents of ivermectin as spreading misinformation and exploiting ideological credibility to persuade those resistant to vaccination",
+            "legitimate scientific research has found the drug to be ineffective against COVID-19."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "despite its growing popularity, ivermection shows no clinical benefits against COVID",
+            "misinformation spread by discredited \"fringe\" groups and charlatans claiming suppressed science to avoid lost profits."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "highlight_summary_pine": [
+            "the medical community and public health officials are being responsible in their approach to ivermectin",
+            "the pro-ivermectin crowd is being misled by misinformation and a desire for alternative solutions."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": false,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": false,
+        "highlight_summary_self_refine": [
+            "ivermectin's promotion as a COVID treatment is driven by ideological motivations",
+            "championed by fringe groups with questionable credentials."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 311,
+                        "end": 439,
+                        "label": "many thousands of Americans are hunting around for a drug which at least 14 different studies have shown doesn't work on COVID. "
+                    }
+                ],
+                [
+                    {
+                        "start": 1169,
+                        "end": 1428,
+                        "label": "One could understand individuals and a few doctors experimenting with treatments when we had no tested and effective treatments available to deal with an explosive pandemic. That's no longer the case, and we should be emphasizing the use of what we know works"
+                    }
+                ],
+                [
+                    {
+                        "start": 2360,
+                        "end": 2502,
+                        "label": "A great many people in the medical community, epidemiologists, virologists, and others believe that ivermectin itself is not actually helping."
+                    }
+                ],
+                [
+                    {
+                        "start": 3390,
+                        "end": 3475,
+                        "label": " If ivermectin has a shot at helping people turn the corner, why not give it to them?"
+                    }
+                ]
+            ],
+            [
+                []
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "despite growing popularity, extensive clinical testing finds little to no efficacy for ivermection in treating COVID-9 cases",
+            "warning of rising concerns over misused medication leading to serious consequences among primarily uninsured Americans choosing to avoid vaccination."
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": false,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "promotion of ivermectin as a COVID-19 treatment as baseless, despite some fringe groups claiming otherwise",
+            "a lack of good evidence and alarming reports of side effects and misuse among anti-vaxxers."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": false,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "despite its growing popularity, there is no good evidence that ivermectin is effective against the coronavirus,",
+            "its use has been linked to alarming reports of side effects and emergency room visits."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": false,
+        "in_doc_nin_summary_debate_3": true,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "the promotion of ivermectin as a coronavirus treatment as a misguided effort with no good evidence of its effectiveness",
+            "despite claims of suppression of science,",
+            "warns that its popularity has led to alarming reports of side effects and emergency room visits among unvaccinated patients"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "highlight_summary_pine": [
+            "the media is being irresponsible in ridiculing people who take ivermectin",
+            "public health officials should be emphasizing the use of what we know works rather than take flyers on medicines that haven't been demonstrated effective against any viruses, let alone COVID-19 in particular"
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "nin_doc_in_summary_pine_0": false,
+        "nin_doc_in_summary_pine_1": true,
+        "highlight_summary_self_refine": [
+            "despite its surging popularity, there's no good evidence that ivermectin is effective against the coronavirus,",
+            "alarming reports of emergency room visits and side effects, largely among anti-vaxxers,",
+            "its promotion by fringe groups with questionable credibility, including those involved in fraudulent business practices."
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": true,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false,
+        "nin_doc_in_summary_self_refine_2": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 621,
+                        "end": 845,
+                        "label": "Economic relief measures, then, should be crafted to meet this problem. That means less focus on traditional stabilizers such as extended unemployment benefits and more focus on the ongoing support for industries as a whole."
+                    }
+                ],
+                [
+                    {
+                        "start": 1250,
+                        "end": 1507,
+                        "label": "\nRather than simply blocking any stimulus legislation that contains elements they object to, Republicans and Democrats in Congress should strike a bargain: They will accept the inclusion of a provision they oppose to so long as the other side does the same."
+                    }
+                ],
+                [
+                    {
+                        "start": 2702,
+                        "end": 2921,
+                        "label": "'The mystery at this stage is why Mr. Trump won't take no for an answer. A last-minute spending blowout won't change the presidential race, and it won't help the economy in time for the election and not much after that."
+                    }
+                ]
+            ],
+            []
+        ],
+        "highlight_summary_baseline-reranking": [
+            "the Trump administration's demand for indemnification of employers from Covid-19 lawsuits should not be compromised in order to secure aid for unemployed people and state workers",
+            "it would unfairly harm frontline workers"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "nin_doc_in_summary_baseline-reranking_0": true,
+        "nin_doc_in_summary_baseline-reranking_1": true,
+        "highlight_summary_baseline": [
+            "the Trump administration's demand for indemnification of employers from Covid-19 lawsuits is an unacceptable non-monetary price to secure aid for unemployed people and state workers",
+            "that any deal should prioritize the interests of frontline workers."
+        ],
+        "in_doc_nin_summary_baseline_0": true,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "nin_doc_in_summary_baseline_0": true,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "the Trump administration's demand for indemnification of employers from Covid-19-related lawsuits as an unacceptable non-monetary price that would harm frontline workers."
+        ],
+        "in_doc_nin_summary_debate_0": true,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "nin_doc_in_summary_debate_0": true,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "The Right supports bipartisan cooperation to create targeted economic relief programs focusing on industries struggling due to COVID-related lockdowns and regulations while preventing employer liability shields."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "highlight_summary_pine": [
+            "the Senate should not agree to a large stimulus package that includes direct payments to households and state and local aid",
+            "it would be an attempt to use the virus to fulfill a longstanding Democratic goal to bail out states with large unfunded liabilities, mostly public-union pension systems."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "nin_doc_in_summary_pine_0": true,
+        "nin_doc_in_summary_pine_1": true,
+        "highlight_summary_self_refine": [
+            "the Trump administration's demand for employers to be indemnified from Covid-19 lawsuits, as exemplified by the $15,615 fine against the JBS beef factory where 290 workers were infected and six died, is an unacceptable \"non-monetary price\" that would \"screw frontline workers\" and is a major sticking point in negotiations"
+        ],
+        "in_doc_nin_summary_self_refine_0": true,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "nin_doc_in_summary_self_refine_0": true
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 0,
+                        "end": 108,
+                        "label": "The really thorny aspect of the continuing negotiations between Pelosi and Treasury Secretary Steven Mnuchin"
+                    },
+                    {
+                        "start": 369,
+                        "end": 472,
+                        "label": "is the indemnification of employers from lawsuits brought by workers who contract Covid-19 on the job. "
+                    },
+                    {
+                        "start": 1015,
+                        "end": 1100,
+                        "label": "Saving unemployment benefits isn't worth it if we have to sell out frontline workers."
+                    }
+                ],
+                [
+                    {
+                        "start": 1518,
+                        "end": 1635,
+                        "label": "If Trump is serious about an agreement, his public and private negotiating stances need to come together immediately."
+                    }
+                ],
+                [
+                    {
+                        "start": 1635,
+                        "end": 1772,
+                        "label": "\nEven if Ms. Pelosi and Mr. Mnuchin come to terms, the Senate would still have to go along. And for now, Majority Leader Mitch McConnell "
+                    },
+                    {
+                        "start": 1868,
+                        "end": 1884,
+                        "label": "says no. Instead"
+                    }
+                ],
+                [
+                    {
+                        "start": 4147,
+                        "end": 4275,
+                        "label": "We have the policy tools to strengthen the safety net now and for the future. We just need the political will to make it happen."
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 2709,
+                        "end": 3173,
+                        "label": "\nThe unemployment rate fell to 7. 9 percent in September, but if you dig into the numbers, you see an uneven picture. Women are dropping out of the workforce at a staggering rate, as school closures and the burden of childcare often falls on women. For white workers, the unemployment rate is 7 percent, but for Black workers, it is 12. 1 percent, and for Hispanic workers, 10. 3 percent. Recessions are always uneven, but this appears on track to be even more so."
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "The Left advocates for a stimulus package that prioritizes supporting frontline workers",
+            "providing sufficient aid to households and state governments",
+            "strengthening the safety net, particularly through a temporary 15 percent increase in the SNAP benefit to help low-income families meet their basic needs"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": false,
+        "in_doc_nin_summary_baseline-reranking_1": true,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "nin_doc_in_summary_baseline-reranking_2": false,
+        "highlight_summary_baseline": [
+            "the Trump administration's demand for employers to be indemnified from Covid-19 lawsuits is an unacceptable non-monetary price for securing aid for unemployed people and state workers",
+            "saving unemployment benefits isn't worth selling out frontline workers."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": true,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "any aid package must prioritize frontline workers' protections from Covid-19 by not including liability shields for employers",
+            "would unfairly harm low-income people and people of color",
+            "strengthen measures such as SNAP benefits to effectively support them."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": false,
+        "nin_doc_in_summary_debate_0": false,
+        "nin_doc_in_summary_debate_1": false,
+        "nin_doc_in_summary_debate_2": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "any deal with the Trump administration should not come at the cost of indemnifying employers from lawsuits brought by workers who contract Covid-19 on the job, as this would further exploit and endanger frontline workers"
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "highlight_summary_pine": [
+            "the unemployment rate fell to 7.9 percent in September, but the numbers show an uneven picture, with women dropping out of the workforce at a staggering rate, and Black and Hispanic workers facing higher unemployment rates than white workers."
+        ],
+        "in_doc_nin_summary_pine_0": true,
+        "in_doc_nin_summary_pine_1": true,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": true,
+        "nin_doc_in_summary_pine_0": false,
+        "highlight_summary_self_refine": [
+            "Trump administration's demand for employers' indemnification from Covid-19 lawsuits prioritizes corporate interests over frontline workers."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": true,
+        "in_doc_nin_summary_self_refine_3": true,
+        "nin_doc_in_summary_self_refine_0": false
+    },
+    {
+        "highlight_document": [
+            [
+                [
+                    {
+                        "start": 504,
+                        "end": 637,
+                        "label": "That should only incentivize senators: If the president had nothing to fear from truthful testimony, he would not go to such lengths."
+                    }
+                ],
+                [
+                    {
+                        "start": 1099,
+                        "end": 1231,
+                        "label": "his claims are the epitome of 'generalized assertions'---which are not sufficient to trigger the application of executive privilege."
+                    }
+                ],
+                [
+                    {
+                        "start": 2854,
+                        "end": 3085,
+                        "label": "\nGiuliani's letter states that he was explicitly working in his capacity as Trump's personal attorney, undercutting the president's claim that the effort was in the country's interest because it was aimed at rooting out corruption."
+                    }
+                ],
+                [
+                    {
+                        "start": 3386,
+                        "end": 3489,
+                        "label": "\nTuesday's new evidence won't fundamentally change either side's approach in the upcoming trial. Parnas"
+                    },
+                    {
+                        "start": 4264,
+                        "end": 4405,
+                        "label": "But it's still vital to uncover it so Americans can definitively answer the most important question about the Ukraine scandal: What happened?"
+                    }
+                ]
+            ],
+            [
+                [
+                    {
+                        "start": 1961,
+                        "end": 2854,
+                        "label": "\nThe choice of House managers underscores the Democrats' effort to press Senate Republicans to treat this is a real trial, as mandated by the Constitution. The group includes six attorneys and one former police chief; all are people familiar with court proceedings and criminal activities. 'Despite Trump's determined effort to block the release of any of the documents requested by investigators, Americans were slapped with a new batch of material showing Trump's lawyer Rudy Giuliani, Lev Parnas and another Trump supporter at work on the Ukraine scheme. As the Senate trial prepares to start, Americans of all parties should ponder, is this what they want from their president? Pressuring a foreign leader to investigate a political rival; having US diplomats tracked and intimidated? Allowing oligarchs with ties to the Kremlin to fund operations aimed at boosting his reelection chances?"
+                    }
+                ]
+            ]
+        ],
+        "highlight_summary_baseline-reranking": [
+            "the Senate should not be deterred by President Trump's obstruction and executive privilege claims",
+            "they are based on generalized assertions and have been repeatedly rejected by the courts",
+            "the House managers are pressing Senate Republicans to treat this as a real trial, with a strong group of attorneys and a former police chief who are familiar with court proceedings and criminal activities"
+        ],
+        "in_doc_nin_summary_baseline-reranking_0": true,
+        "in_doc_nin_summary_baseline-reranking_1": false,
+        "in_doc_nin_summary_baseline-reranking_2": true,
+        "in_doc_nin_summary_baseline-reranking_3": true,
+        "nin_doc_in_summary_baseline-reranking_0": false,
+        "nin_doc_in_summary_baseline-reranking_1": false,
+        "nin_doc_in_summary_baseline-reranking_2": false,
+        "highlight_summary_baseline": [
+            "President Trump's obstruction and claims of executive privilege are a cynical attempt to prevent the Senate from gathering evidence and holding him accountable for his actions",
+            "the Senate should press on with a thorough investigation despite his efforts to block it."
+        ],
+        "in_doc_nin_summary_baseline_0": false,
+        "in_doc_nin_summary_baseline_1": false,
+        "in_doc_nin_summary_baseline_2": true,
+        "in_doc_nin_summary_baseline_3": true,
+        "nin_doc_in_summary_baseline_0": false,
+        "nin_doc_in_summary_baseline_1": false,
+        "highlight_summary_debate": [
+            "President Trump's obstruction justifies the Senate's scrutiny of evidence gaps and underscores the Democrats' commitment to upholding due process and transparency."
+        ],
+        "in_doc_nin_summary_debate_0": false,
+        "in_doc_nin_summary_debate_1": true,
+        "in_doc_nin_summary_debate_2": true,
+        "in_doc_nin_summary_debate_3": true,
+        "nin_doc_in_summary_debate_0": false,
+        "highlight_summary_dpo-7c326c564f80b421-reranking": [
+            "the Senate should not be deterred by the President's obstruction and should fill gaps in the evidence to ensure a fair trial",
+            "the House was hindered by the President's stonewalling",
+            "the Senate has a constitutional duty to investigate and decide on impeachment."
+        ],
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_1": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_2": true,
+        "in_doc_nin_summary_dpo-7c326c564f80b421-reranking_3": true,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_0": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_1": false,
+        "nin_doc_in_summary_dpo-7c326c564f80b421-reranking_2": false,
+        "highlight_summary_pine": [
+            "the Senate should not be limited to the evidence gathered by the House and should instead conduct a thorough investigation into the Ukraine scandal"
+        ],
+        "in_doc_nin_summary_pine_0": false,
+        "in_doc_nin_summary_pine_1": false,
+        "in_doc_nin_summary_pine_2": true,
+        "in_doc_nin_summary_pine_3": false,
+        "nin_doc_in_summary_pine_0": false,
+        "highlight_summary_self_refine": [
+            "the Senate's constitutional duty to conduct a fair trial",
+            "despite the House's rushed investigation",
+            "highlights the obstruction by Mr. Trump and the importance of new evidence to uncover the truth about the Ukraine scandal."
+        ],
+        "in_doc_nin_summary_self_refine_0": false,
+        "in_doc_nin_summary_self_refine_1": true,
+        "in_doc_nin_summary_self_refine_2": false,
+        "in_doc_nin_summary_self_refine_3": false,
+        "nin_doc_in_summary_self_refine_0": false,
+        "nin_doc_in_summary_self_refine_1": false,
+        "nin_doc_in_summary_self_refine_2": false
+    }
+]
