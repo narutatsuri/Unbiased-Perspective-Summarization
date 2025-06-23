@@ -1,7 +1,7 @@
 # Reranking-based Generation for Unbiased Perspective Summarization
 
 This repository hosts the code, data, and trained checkpoints for our paper  
-**“Reranking-based Generation for Unbiased Perspective Summarization”** ([arXiv link](https://arxiv.org/abs/)).  
+**“Reranking-based Generation for Unbiased Perspective Summarization”** ([arXiv link](https://arxiv.org/abs/2506.15925)).  
 We study the task of generating unbiased political perspective summaries by (1) identifying reliable metrics that capture biasedness and assess summary quality, and (2) investigating the efficacy of LLM-based methods beyond zero-shot inference. 
 While prior studies suggest that language models exhibit various forms of generation bias, we show that state-of-the-art models can produce fairer summaries through candidate reranking, and that perspective faithfulness improves even further when the models are preference-tuned on reranked examples.
 
