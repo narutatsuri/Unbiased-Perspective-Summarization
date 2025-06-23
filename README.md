@@ -114,10 +114,12 @@ If you find any bugs or have any questions related to the code or the paper, ple
 ## Citation
 Please cite our paper if you find this repository to be helpful in your work as follows:
 ```bibtex
-@article{ri2025reranking,
-  title={Reranking-based Generation for Unbiased Perspective Summarization},
-  author={Ri, Narutatsu and Deas, Nicholas and McKeown, Kathleen},
-  journal={arXiv preprint arXiv:},
-  year={2025}
+@misc{ri2025rerankingbased,
+    title={Reranking-based Generation for Unbiased Perspective Summarization},
+    author={Narutatsu Ri and Nicholas Deas and Kathleen McKeown},
+    year={2025},
+    eprint={2506.15925},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
 }
 ```
